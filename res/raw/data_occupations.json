@@ -1,0 +1,7681 @@
+[
+  {
+    "id": "111111",
+    "name": "Chief Executive or Managing Director",
+    "altTitles": [
+      "Chief Executive Officer",
+      "Director-General",
+      "Executive Director",
+      "Secretary (Government Department) (Aus)"
+    ]
+  },
+  {
+    "id": "111211",
+    "name": "Corporate General Manager",
+    "altTitles": [
+      "Kaiwhakahaere (NZ)",
+      "Chief Operating Officer",
+      "Assistant Commissioner (Police)",
+      "Hospital Administrator",
+      "Managing Editor",
+      "Trade Union Secretary"
+    ]
+  },
+  {
+    "id": "111212",
+    "name": "Defence Force Senior Officer",
+    "altTitles": [
+      "Air Force Senior Officer",
+      "Army Senior Officer",
+      "Navy Senior Officer",
+      "Admiral (Navy)",
+      "Air Chief Marshal (Air Force)",
+      "Air Commodore (Air Force)",
+      "Air Marshal (Air Force)",
+      "Air Vice Marshal (Air Force)",
+      "Brigadier (Army)",
+      "Captain (Navy)",
+      "Colonel (Army)",
+      "Commander (Navy)",
+      "Commodore (Navy)",
+      "General (Army)",
+      "Group Captain (Air Force)",
+      "Lieutenant Colonel (Army)",
+      "Lieutenant General (Army)",
+      "Major General (Army)",
+      "Rear Admiral (Navy)",
+      "Vice Admiral (Navy)",
+      "Wing Commander (Air Force)"
+    ]
+  },
+  {
+    "id": "111311",
+    "name": "Local Government Legislator",
+    "altTitles": [
+      "Alderman (Aus)",
+      "Councillor",
+      "Community Board Member (NZ)",
+      "Mayor"
+    ]
+  },
+  {
+    "id": "111312",
+    "name": "Member of Parliament",
+    "altTitles": [
+      "Parliamentarian",
+      "Chief Minister (Aus)",
+      "Government Minister",
+      "Member of the Legislative Assembly (Aus)",
+      "Member of the Legislative Council (Aus)",
+      "Premier (Aus)",
+      "Prime Minister",
+      "Senator (Aus)"
+    ]
+  },
+  {
+    "id": "111399",
+    "name": "Legislators nec",
+    "altTitles": [
+      "Aboriginal Community Council Member (Aus)",
+      "Councillor, Aboriginal Land Council (Aus)"
+    ]
+  },
+  {
+    "id": "121111",
+    "name": "Aquaculture Farmer",
+    "altTitles": [
+      "Seafood Farmer",
+      "Fish Farmer",
+      "Hatchery Manager (Fish)",
+      "Marine Farmer",
+      "Mussel Farmer",
+      "Oyster Farmer"
+    ]
+  },
+  {
+    "id": "121211",
+    "name": "Cotton Grower"
+  },
+  {
+    "id": "121212",
+    "name": "Flower Grower",
+    "altTitles": [
+      "Floriculturist",
+      "Market Gardener (Flowers) (Aus)"
+    ]
+  },
+  {
+    "id": "121213",
+    "name": "Fruit or Nut Grower",
+    "altTitles": [
+      "Market Gardener (Fruit) (Aus)",
+      "Olive Grower",
+      "Orchardist"
+    ]
+  },
+  {
+    "id": "121214",
+    "name": "Grain, Oilseed or Pasture Grower (Aus) Field Crop Grower (NZ)",
+    "altTitles": [
+      "Grain, Oilseed or Pasture Farm Manager (Aus)",
+      "Lucerne Farmer",
+      "Soybean Grower (Aus)",
+      "Wheat Farmer"
+    ]
+  },
+  {
+    "id": "121215",
+    "name": "Grape Grower",
+    "altTitles": [
+      "Viticulturist"
+    ]
+  },
+  {
+    "id": "121216",
+    "name": "Mixed Crop Farmer"
+  },
+  {
+    "id": "121217",
+    "name": "Sugar Cane Grower",
+    "altTitles": [
+      "Sugar Cane Farm Manager"
+    ]
+  },
+  {
+    "id": "121218",
+    "name": "Turf Grower",
+    "altTitles": [
+      "Turf Farmer"
+    ]
+  },
+  {
+    "id": "121221",
+    "name": "Vegetable Grower (Aus) Market Gardener (NZ)",
+    "altTitles": [
+      "Vegetable Farm Manager",
+      "Market Gardener (Vegetables) (Aus)"
+    ]
+  },
+  {
+    "id": "121299",
+    "name": "Crop Farmers nec",
+    "altTitles": [
+      "Coffee Grower (Aus)",
+      "Ginger Farmer",
+      "Hop Farmer",
+      "Mushroom Farmer",
+      "Tea Tree Farmer",
+      "Tree Farmer"
+    ]
+  },
+  {
+    "id": "121311",
+    "name": "Apiarist",
+    "altTitles": [
+      "Beekeeper"
+    ]
+  },
+  {
+    "id": "121312",
+    "name": "Beef Cattle Farmer",
+    "altTitles": [
+      "Beef Cattle Farm Manager",
+      "Beef Cattle Grazier",
+      "Stud Beef Cattle Farmer"
+    ]
+  },
+  {
+    "id": "121313",
+    "name": "Dairy Cattle Farmer",
+    "altTitles": [
+      "Dairy Cattle Farm Manager",
+      "Share Dairy Farmer (Aus)",
+      "Sharemilker (NZ)",
+      "Stud Dairy Cattle Farmer"
+    ]
+  },
+  {
+    "id": "121314",
+    "name": "Deer Farmer"
+  },
+  {
+    "id": "121315",
+    "name": "Goat Farmer"
+  },
+  {
+    "id": "121316",
+    "name": "Horse Breeder",
+    "altTitles": [
+      "Horse Stud Manager",
+      "Stud Master/Mistress"
+    ]
+  },
+  {
+    "id": "121317",
+    "name": "Mixed Livestock Farmer"
+  },
+  {
+    "id": "121318",
+    "name": "Pig Farmer",
+    "altTitles": [
+      "Pig Farm Manager",
+      "Pig Breeder"
+    ]
+  },
+  {
+    "id": "121321",
+    "name": "Poultry Farmer",
+    "altTitles": [
+      "Poultry Farm Manager",
+      "Egg Producer",
+      "Hatchery Manager (Poultry)"
+    ]
+  },
+  {
+    "id": "121322",
+    "name": "Sheep Farmer",
+    "altTitles": [
+      "Sheep Farm Manager",
+      "Stud Sheep Farmer",
+      "Wool Grower"
+    ]
+  },
+  {
+    "id": "121399",
+    "name": "Livestock Farmers nec",
+    "altTitles": [
+      "Alpaca Farmer",
+      "Crocodile Farmer (Aus)",
+      "Dog Breeder",
+      "Emu Farmer (Aus)",
+      "Llama Farmer",
+      "Ostrich Farmer"
+    ]
+  },
+  {
+    "id": "121411",
+    "name": "Mixed Crop and Livestock Farmer",
+    "altTitles": [
+      "Farmer and Grazier",
+      "Cattle and Wheat Farmer",
+      "Lifestyle Block Farmer (NZ)",
+      "Sheep and Wheat Farmer"
+    ]
+  },
+  {
+    "id": "131112",
+    "name": "Sales and Marketing Manager",
+    "altTitles": [
+      "Business Development Manager",
+      "Market Research Manager"
+    ]
+  },
+  {
+    "id": "131113",
+    "name": "Advertising Manager"
+  },
+  {
+    "id": "131114",
+    "name": "Public Relations Manager",
+    "altTitles": [
+      "Communications Manager",
+      "Corporate Affairs Manager",
+      "Corporate Relations Manager",
+      "PR Manager",
+      "Public Affairs Manager",
+      "Community Relations Manager",
+      "External Relations Manager",
+      "Media Relations Manager"
+    ]
+  },
+  {
+    "id": "132111",
+    "name": "Corporate Services Manager",
+    "altTitles": [
+      "Administration Manager",
+      "Business Services Manager"
+    ]
+  },
+  {
+    "id": "132211",
+    "name": "Finance Manager",
+    "altTitles": [
+      "Financial Administrator",
+      "Chief Financial Officer",
+      "Finance Director",
+      "Financial Controller"
+    ]
+  },
+  {
+    "id": "132311",
+    "name": "Human Resource Manager",
+    "altTitles": [
+      "Occupational Health and Safety Manager",
+      "Training and Development Manager",
+      "Workplace Relations Manager"
+    ]
+  },
+  {
+    "id": "132411",
+    "name": "Policy and Planning Manager",
+    "altTitles": [
+      "Public Policy Manager",
+      "Corporate Planning Manager",
+      "Strategic Planning Manager"
+    ]
+  },
+  {
+    "id": "132511",
+    "name": "Research and Development Manager"
+  },
+  {
+    "id": "133111",
+    "name": "Construction Project Manager",
+    "altTitles": [
+      "Building and Construction Manager"
+    ]
+  },
+  {
+    "id": "133112",
+    "name": "Project Builder",
+    "altTitles": [
+      "Professional Builder"
+    ]
+  },
+  {
+    "id": "133211",
+    "name": "Engineering Manager"
+  },
+  {
+    "id": "133311",
+    "name": "Importer or Exporter"
+  },
+  {
+    "id": "133312",
+    "name": "Wholesaler"
+  },
+  {
+    "id": "133411",
+    "name": "Manufacturer"
+  },
+  {
+    "id": "133511",
+    "name": "Production Manager (Forestry)",
+    "altTitles": [
+      "Forest Manager",
+      "Forest Logistics Manager (NZ)",
+      "Forestry Contractor (NZ)",
+      "Harvest Manager (Forestry)",
+      "Operations Manager (Forestry)"
+    ]
+  },
+  {
+    "id": "133512",
+    "name": "Production Manager (Manufacturing)",
+    "altTitles": [
+      "Operations Manager (Production)",
+      "Plant Manager (Manufacturing) (Aus)",
+      "Works Manager (Manufacturing) (Aus)"
+    ]
+  },
+  {
+    "id": "133513",
+    "name": "Production Manager (Mining)",
+    "altTitles": [
+      "Mine Manager",
+      "Mine Superintendent",
+      "Quarry Manager"
+    ]
+  },
+  {
+    "id": "133611",
+    "name": "Supply and Distribution Manager",
+    "altTitles": [
+      "Logistics Manager",
+      "Logistics Officer (Air Force)",
+      "Ordnance Corps Officer (Army)",
+      "Supply Chain Manager",
+      "Supply Officer (Navy)",
+      "Transport Corps Officer (Army)"
+    ]
+  },
+  {
+    "id": "133612",
+    "name": "Procurement Manager"
+  },
+  {
+    "id": "134111",
+    "name": "Child Care Centre Manager",
+    "altTitles": [
+      "Child Care Centre Director",
+      "Child Care Coordinator"
+    ]
+  },
+  {
+    "id": "134211",
+    "name": "Medical Administrator (Aus) Medical Superintendent (NZ)",
+    "altTitles": [
+      "Medical Manager",
+      "Director of Clinical Services",
+      "Director of Medical Services"
+    ]
+  },
+  {
+    "id": "134212",
+    "name": "Nursing Clinical Director",
+    "altTitles": [
+      "Director of Nursing",
+      "Senior Nurse Manager",
+      "Assistant Director of Nursing",
+      "Deputy Director of Nursing",
+      "Executive Director of Nursing"
+    ]
+  },
+  {
+    "id": "134213",
+    "name": "Primary Health Organisation Manager"
+  },
+  {
+    "id": "134214",
+    "name": "Welfare Centre Manager",
+    "altTitles": [
+      "Welfare Project Manager"
+    ]
+  },
+  {
+    "id": "134299",
+    "name": "Health and Welfare Services Managers nec",
+    "altTitles": [
+      "Director of Pharmacy",
+      "Director of Physiotherapy Services",
+      "Director of Speech Pathology",
+      "Manager of Allied Health Services",
+      "Medical Corps Officer (Army)"
+    ]
+  },
+  {
+    "id": "134311",
+    "name": "School Principal",
+    "altTitles": [
+      "Headmaster/mistress",
+      "Middle or Intermediate School Principal",
+      "Primary School Principal",
+      "Secondary School Principal"
+    ]
+  },
+  {
+    "id": "134411",
+    "name": "Faculty Head",
+    "altTitles": [
+      "Dean (University)",
+      "Head Teacher (TAFE) (Aus)"
+    ]
+  },
+  {
+    "id": "134412",
+    "name": "Regional Education Manager",
+    "altTitles": [
+      "School Administrator"
+    ]
+  },
+  {
+    "id": "134499",
+    "name": "Education Managers nec",
+    "altTitles": [
+      "Polytechnic Registrar (NZ)",
+      "Project Coordinator (Education)",
+      "TAFE Registrar (Aus)",
+      "University Registrar"
+    ]
+  },
+  {
+    "id": "135111",
+    "name": "Chief Information Officer",
+    "altTitles": [
+      "Chief Technology Officer"
+    ]
+  },
+  {
+    "id": "135112",
+    "name": "ICT Project Manager",
+    "altTitles": [
+      "ICT Development Manager"
+    ]
+  },
+  {
+    "id": "135199",
+    "name": "ICT Managers nec",
+    "altTitles": [
+      "IT Service Delivery Manager",
+      "Network Manager"
+    ]
+  },
+  {
+    "id": "139111",
+    "name": "Commissioned Defence Force Officer",
+    "altTitles": [
+      "Air Defence Officer (Air Force) (Aus)",
+      "Armoured Corps Officer (Army)",
+      "Artillery Officer (Army)",
+      "General Service Officer (Army) (Aus)",
+      "Ground Defence Officer (Air Force) (Aus)",
+      "Infantry Officer (Army)",
+      "Military Police Officer (Air Force) (NZ)",
+      "Military Police Officer (Army)",
+      "Military Police Officer (Navy) (NZ)",
+      "Observer (Navy)",
+      "Security Police Officer (Air Force) (Aus)",
+      "Special Service Officer (Army) (Aus)"
+    ]
+  },
+  {
+    "id": "139112",
+    "name": "Commissioned Fire Officer",
+    "altTitles": [
+      "Fire Investigator",
+      "Inspector (Fire Services)"
+    ]
+  },
+  {
+    "id": "139113",
+    "name": "Commissioned Police Officer"
+  },
+  {
+    "id": "139211",
+    "name": "Senior Non-commissioned Defence Force Member"
+  },
+  {
+    "id": "139911",
+    "name": "Arts Administrator or Manager",
+    "altTitles": [
+      "Art Gallery Director",
+      "Community Arts Centre Manager",
+      "Cultural Centre Manager"
+    ]
+  },
+  {
+    "id": "139912",
+    "name": "Environmental Manager"
+  },
+  {
+    "id": "139913",
+    "name": "Laboratory Manager"
+  },
+  {
+    "id": "139914",
+    "name": "Quality Assurance Manager",
+    "altTitles": [
+      "Quality Facilitator"
+    ]
+  },
+  {
+    "id": "139915",
+    "name": "Sports Administrator"
+  },
+  {
+    "id": "139999",
+    "name": "Specialist Managers nec",
+    "altTitles": [
+      "Airport Manager",
+      "Ambassador",
+      "Archbishop",
+      "Bishop",
+      "Harbour Master",
+      "Security Manager (Non-ICT)"
+    ]
+  },
+  {
+    "id": "141111",
+    "name": "Cafe or Restaurant Manager",
+    "altTitles": [
+      "Food and Beverage Manager",
+      "Restaurateur",
+      "Canteen Manager",
+      "Caterer",
+      "Internet Cafe Manager"
+    ]
+  },
+  {
+    "id": "141211",
+    "name": "Caravan Park and Camping Ground Manager"
+  },
+  {
+    "id": "141311",
+    "name": "Hotel or Motel Manager",
+    "altTitles": [
+      "Hotelier",
+      "Publican",
+      "Duty Manager (Hotel)",
+      "Resort Manager"
+    ]
+  },
+  {
+    "id": "141411",
+    "name": "Licensed Club Manager",
+    "altTitles": [
+      "Club Licensee",
+      "Gaming Manager",
+      "Nightclub Manager"
+    ]
+  },
+  {
+    "id": "141911",
+    "name": "Bed and Breakfast Operator"
+  },
+  {
+    "id": "141912",
+    "name": "Retirement Village Manager"
+  },
+  {
+    "id": "141999",
+    "name": "Accommodation and Hospitality Managers nec",
+    "altTitles": [
+      "Backpackers Manager",
+      "Boarding House Manager",
+      "Casino Duty Manager",
+      "Guest House Manager",
+      "Hostel Manager",
+      "Reception Centre Manager"
+    ]
+  },
+  {
+    "id": "142111",
+    "name": "Retail Manager (General)",
+    "altTitles": [
+      "Fast Food Manager",
+      "Retail Bakery Manager",
+      "Retail Store Manager",
+      "Shop Manager",
+      "Newsagent"
+    ]
+  },
+  {
+    "id": "142112",
+    "name": "Antique Dealer"
+  },
+  {
+    "id": "142113",
+    "name": "Betting Agency Manager"
+  },
+  {
+    "id": "142114",
+    "name": "Hair or Beauty Salon Manager"
+  },
+  {
+    "id": "142115",
+    "name": "Post Office Manager"
+  },
+  {
+    "id": "142116",
+    "name": "Travel Agency Manager"
+  },
+  {
+    "id": "149111",
+    "name": "Amusement Centre Manager",
+    "altTitles": [
+      "Entertainment Centre Manager",
+      "Bridge Club Manager",
+      "Fairground Operator",
+      "Video Arcade Manager"
+    ]
+  },
+  {
+    "id": "149112",
+    "name": "Fitness Centre Manager"
+  },
+  {
+    "id": "149113",
+    "name": "Sports Centre Manager",
+    "altTitles": [
+      "Aquatic Centre Manager",
+      "Golf Course Manager",
+      "Indoor Sports Centre Manager",
+      "Squash Centre Manager",
+      "Stadium Manager",
+      "Ten Pin Bowling Centre Manager",
+      "Tennis Centre Manager"
+    ]
+  },
+  {
+    "id": "149211",
+    "name": "Call or Contact Centre Manager"
+  },
+  {
+    "id": "149212",
+    "name": "Customer Service Manager",
+    "altTitles": [
+      "Client Service Manager",
+      "Service Manager"
+    ]
+  },
+  {
+    "id": "149311",
+    "name": "Conference and Event Organiser",
+    "altTitles": [
+      "Event Manager",
+      "Event Management Consultant",
+      "Exhibition Organiser",
+      "Wedding Coordinator"
+    ]
+  },
+  {
+    "id": "149411",
+    "name": "Fleet Manager"
+  },
+  {
+    "id": "149412",
+    "name": "Railway Station Manager"
+  },
+  {
+    "id": "149413",
+    "name": "Transport Company Manager",
+    "altTitles": [
+      "Bus Company Manager",
+      "Car Rental Agency Manager"
+    ]
+  },
+  {
+    "id": "149911",
+    "name": "Boarding Kennel or Cattery Operator"
+  },
+  {
+    "id": "149912",
+    "name": "Cinema or Theatre Manager"
+  },
+  {
+    "id": "149913",
+    "name": "Facilities Manager",
+    "altTitles": [
+      "Building Manager",
+      "Shopping Centre Manager"
+    ]
+  },
+  {
+    "id": "149914",
+    "name": "Financial Institution Branch Manager",
+    "altTitles": [
+      "Bank Manager",
+      "Credit Union Manager"
+    ]
+  },
+  {
+    "id": "149915",
+    "name": "Equipment Hire Manager"
+  },
+  {
+    "id": "149999",
+    "name": "Hospitality, Retail and Service Managers nec",
+    "altTitles": [
+      "Abattoir Manager",
+      "Brothel Keeper",
+      "Laundrette Owner",
+      "Marina Manager",
+      "Nursing Agency Manager",
+      "Taxi Proprietor",
+      "Weight Loss Centre Manager"
+    ]
+  },
+  {
+    "id": "211111",
+    "name": "Actor",
+    "altTitles": [
+      "Mime Artist",
+      "Voice-over Artist"
+    ]
+  },
+  {
+    "id": "211112",
+    "name": "Dancer or Choreographer",
+    "altTitles": [
+      "Ballet Dancer",
+      "Contemporary or Modern Dancer",
+      "Exotic Dancer"
+    ]
+  },
+  {
+    "id": "211113",
+    "name": "Entertainer or Variety Artist",
+    "altTitles": [
+      "Busker",
+      "Circus Artist",
+      "Clown",
+      "Comedian",
+      "Magician/Illusionist",
+      "Puppeteer",
+      "Ventriloquist"
+    ]
+  },
+  {
+    "id": "211199",
+    "name": "Actors, Dancers and Other Entertainers nec",
+    "altTitles": [
+      "Circus Trainer",
+      "Disc Jockey (Nightclub)",
+      "Extra (Film or Television)",
+      "Motivational Speaker",
+      "Public Speaker",
+      "Stunt Performer"
+    ]
+  },
+  {
+    "id": "211211",
+    "name": "Composer",
+    "altTitles": [
+      "Music Arranger",
+      "Songwriter"
+    ]
+  },
+  {
+    "id": "211212",
+    "name": "Music Director",
+    "altTitles": [
+      "Band Leader",
+      "Choral Director",
+      "Orchestra Conductor"
+    ]
+  },
+  {
+    "id": "211213",
+    "name": "Musician (Instrumental)",
+    "altTitles": [
+      "Instrumentalist",
+      "Drummer",
+      "Guitarist",
+      "Pianist",
+      "Violinist"
+    ]
+  },
+  {
+    "id": "211214",
+    "name": "Singer",
+    "altTitles": [
+      "Vocalist",
+      "Band Singer",
+      "Chorister",
+      "Commercial Singer (Advertising)",
+      "Jazz Singer",
+      "Opera Singer",
+      "Pop Singer",
+      "Rock Singer"
+    ]
+  },
+  {
+    "id": "211299",
+    "name": "Music Professionals nec",
+    "altTitles": [
+      "Music Copyist",
+      "Music Researcher",
+      "Musicologist"
+    ]
+  },
+  {
+    "id": "211311",
+    "name": "Photographer",
+    "altTitles": [
+      "Fashion Photographer",
+      "Landscape Photographer",
+      "News Photographer",
+      "Photographic Artist",
+      "Portrait Photographer",
+      "Sports Photographer",
+      "Technical Photographer"
+    ]
+  },
+  {
+    "id": "211411",
+    "name": "Painter (Visual Arts)",
+    "altTitles": [
+      "Painter (Artistic)"
+    ]
+  },
+  {
+    "id": "211412",
+    "name": "Potter or Ceramic Artist"
+  },
+  {
+    "id": "211413",
+    "name": "Sculptor"
+  },
+  {
+    "id": "211499",
+    "name": "Visual Arts and Crafts Professionals nec",
+    "altTitles": [
+      "Leadlighter",
+      "Multimedia Artist",
+      "Quilter",
+      "Textile Artist"
+    ]
+  },
+  {
+    "id": "212111",
+    "name": "Artistic Director"
+  },
+  {
+    "id": "212112",
+    "name": "Media Producer (excluding Video)",
+    "altTitles": [
+      "Executive Producer",
+      "Film Producer",
+      "Stage Producer",
+      "Television Producer"
+    ]
+  },
+  {
+    "id": "212113",
+    "name": "Radio Presenter",
+    "altTitles": [
+      "Radio Announcer",
+      "Disc Jockey (Radio)",
+      "Talkback Host",
+      "Tourism Radio Presenter"
+    ]
+  },
+  {
+    "id": "212114",
+    "name": "Television Presenter"
+  },
+  {
+    "id": "212211",
+    "name": "Author",
+    "altTitles": [
+      "Novelist",
+      "Playwright",
+      "Poet",
+      "Screenwriter",
+      "Script Writer"
+    ]
+  },
+  {
+    "id": "212212",
+    "name": "Book or Script Editor",
+    "altTitles": [
+      "Script Coordinator"
+    ]
+  },
+  {
+    "id": "212311",
+    "name": "Art Director (Film, Television or Stage)",
+    "altTitles": [
+      "Production Designer"
+    ]
+  },
+  {
+    "id": "212312",
+    "name": "Director (Film, Television, Radio or Stage)"
+  },
+  {
+    "id": "212313",
+    "name": "Director of Photography",
+    "altTitles": [
+      "Cinematographer"
+    ]
+  },
+  {
+    "id": "212314",
+    "name": "Film and Video Editor"
+  },
+  {
+    "id": "212315",
+    "name": "Program Director (Television or Radio)"
+  },
+  {
+    "id": "212316",
+    "name": "Stage Manager"
+  },
+  {
+    "id": "212317",
+    "name": "Technical Director",
+    "altTitles": [
+      "Technical Producer"
+    ]
+  },
+  {
+    "id": "212318",
+    "name": "Video Producer"
+  },
+  {
+    "id": "212399",
+    "name": "Film, Television, Radio and Stage Directors nec",
+    "altTitles": [
+      "Audio Director",
+      "Casting Director",
+      "Lighting Director",
+      "Location Manager (Film or Television)"
+    ]
+  },
+  {
+    "id": "212411",
+    "name": "Copywriter"
+  },
+  {
+    "id": "212412",
+    "name": "Newspaper or Periodical Editor",
+    "altTitles": [
+      "Associate Editor",
+      "Features Editor",
+      "News Editor",
+      "Pictures Editor",
+      "Subeditor",
+      "Website/Blog Editor"
+    ]
+  },
+  {
+    "id": "212413",
+    "name": "Print Journalist",
+    "altTitles": [
+      "Columnist",
+      "Feature Writer",
+      "Leader Writer",
+      "Newspaper Reporter"
+    ]
+  },
+  {
+    "id": "212414",
+    "name": "Radio Journalist",
+    "altTitles": [
+      "Radio Reporter"
+    ]
+  },
+  {
+    "id": "212415",
+    "name": "Technical Writer"
+  },
+  {
+    "id": "212416",
+    "name": "Television Journalist",
+    "altTitles": [
+      "Television Reporter"
+    ]
+  },
+  {
+    "id": "212499",
+    "name": "Journalists and Other Writers nec",
+    "altTitles": [
+      "Blogger",
+      "Critic",
+      "Editorial Assistant",
+      "Photo Journalist"
+    ]
+  },
+  {
+    "id": "221111",
+    "name": "Accountant (General)",
+    "altTitles": [
+      "Financial Analyst",
+      "Insolvency Consultant",
+      "Insolvency Practitioner"
+    ]
+  },
+  {
+    "id": "221112",
+    "name": "Management Accountant",
+    "altTitles": [
+      "Commercial Accountant",
+      "Carbon Accountant",
+      "Cost Accountant",
+      "Product Accountant"
+    ]
+  },
+  {
+    "id": "221113",
+    "name": "Taxation Accountant",
+    "altTitles": [
+      "Taxation Agent",
+      "Taxation Consultant"
+    ]
+  },
+  {
+    "id": "221211",
+    "name": "Company Secretary"
+  },
+  {
+    "id": "221212",
+    "name": "Corporate Treasurer",
+    "altTitles": [
+      "Financial Risk Manager"
+    ]
+  },
+  {
+    "id": "221213",
+    "name": "External Auditor"
+  },
+  {
+    "id": "221214",
+    "name": "Internal Auditor",
+    "altTitles": [
+      "Audit Officer"
+    ]
+  },
+  {
+    "id": "222111",
+    "name": "Commodities Trader",
+    "altTitles": [
+      "Commodities Broker",
+      "Energy Trader",
+      "Grain Buyer",
+      "Livestock Trader",
+      "Media Buyer",
+      "Wool Broker"
+    ]
+  },
+  {
+    "id": "222112",
+    "name": "Finance Broker",
+    "altTitles": [
+      "Lease Broker",
+      "Mortgage Broker"
+    ]
+  },
+  {
+    "id": "222113",
+    "name": "Insurance Broker"
+  },
+  {
+    "id": "222199",
+    "name": "Financial Brokers nec",
+    "altTitles": [
+      "Investment Broker"
+    ]
+  },
+  {
+    "id": "222211",
+    "name": "Financial Market Dealer",
+    "altTitles": [
+      "Money Market Dealer",
+      "Derivatives Trader",
+      "Fixed Interest Dealer",
+      "Foreign Exchange Dealer",
+      "Securities Dealer"
+    ]
+  },
+  {
+    "id": "222212",
+    "name": "Futures Trader"
+  },
+  {
+    "id": "222213",
+    "name": "Stockbroking Dealer",
+    "altTitles": [
+      "Sharebroker",
+      "Stockbroker",
+      "Trading Floor Operator (Stock Exchange)"
+    ]
+  },
+  {
+    "id": "222299",
+    "name": "Financial Dealers nec",
+    "altTitles": [
+      "Equities Analyst"
+    ]
+  },
+  {
+    "id": "222311",
+    "name": "Financial Investment Adviser",
+    "altTitles": [
+      "Financial Planning Adviser"
+    ]
+  },
+  {
+    "id": "222312",
+    "name": "Financial Investment Manager",
+    "altTitles": [
+      "Portfolio Manager",
+      "Superannuation Funds Manager",
+      "Unit Trust Manager"
+    ]
+  },
+  {
+    "id": "223111",
+    "name": "Human Resource Adviser",
+    "altTitles": [
+      "Human Resource Consultant",
+      "Personnel Officer",
+      "Workforce Planning Analyst"
+    ]
+  },
+  {
+    "id": "223112",
+    "name": "Recruitment Consultant",
+    "altTitles": [
+      "Employment Consultant",
+      "Casting Agent",
+      "Literary Agent"
+    ]
+  },
+  {
+    "id": "223113",
+    "name": "Workplace Relations Adviser",
+    "altTitles": [
+      "Industrial Relations Officer",
+      "Trade Union Official",
+      "Union Organiser"
+    ]
+  },
+  {
+    "id": "223211",
+    "name": "ICT Trainer",
+    "altTitles": [
+      "ICT Educator",
+      "Software Trainer"
+    ]
+  },
+  {
+    "id": "223311",
+    "name": "Training and Development Professional",
+    "altTitles": [
+      "Training Officer",
+      "Education Officer (Air Force and Army)",
+      "Training Systems Officer (Navy)"
+    ]
+  },
+  {
+    "id": "224111",
+    "name": "Actuary"
+  },
+  {
+    "id": "224112",
+    "name": "Mathematician",
+    "altTitles": [
+      "Operations Research Analyst"
+    ]
+  },
+  {
+    "id": "224113",
+    "name": "Statistician",
+    "altTitles": [
+      "Biometrician",
+      "Demographer",
+      "Epidemiologist"
+    ]
+  },
+  {
+    "id": "224211",
+    "name": "Archivist",
+    "altTitles": [
+      "Film Archivist",
+      "Legal Archivist",
+      "Manuscripts Archivist",
+      "Parliamentary Archivist"
+    ]
+  },
+  {
+    "id": "224212",
+    "name": "Gallery or Museum Curator"
+  },
+  {
+    "id": "224213",
+    "name": "Health Information Manager",
+    "altTitles": [
+      "Clinical Trial Data Manager",
+      "Health Data Administrator"
+    ]
+  },
+  {
+    "id": "224214",
+    "name": "Records Manager",
+    "altTitles": [
+      "Freedom of Information Officer"
+    ]
+  },
+  {
+    "id": "224311",
+    "name": "Economist",
+    "altTitles": [
+      "Economic Analyst",
+      "Agricultural Economist",
+      "Econometrician",
+      "Economic Forecaster",
+      "Environmental Economist",
+      "Health Economist",
+      "Labour Market Economist",
+      "Mineral Economist",
+      "Taxation Economist"
+    ]
+  },
+  {
+    "id": "224411",
+    "name": "Intelligence Officer",
+    "altTitles": [
+      "Criminal Intelligence Analyst",
+      "Defence Intelligence Analyst"
+    ]
+  },
+  {
+    "id": "224412",
+    "name": "Policy Analyst",
+    "altTitles": [
+      "Policy Adviser",
+      "Foreign Policy Officer",
+      "Research and Evaluation Analyst (NZ)"
+    ]
+  },
+  {
+    "id": "224511",
+    "name": "Land Economist",
+    "altTitles": [
+      "Property Economist",
+      "Asset Manager (Land and Property)"
+    ]
+  },
+  {
+    "id": "224512",
+    "name": "Valuer",
+    "altTitles": [
+      "Plant and Machinery Valuer",
+      "Property Valuer",
+      "Real Estate Valuer"
+    ]
+  },
+  {
+    "id": "224611",
+    "name": "Librarian",
+    "altTitles": [
+      "Acquisitions Librarian",
+      "Audiovisual Librarian",
+      "Bibliographer",
+      "Cataloguer",
+      "Children's Librarian",
+      "Corporate Librarian",
+      "Legal Librarian",
+      "Multicultural Services Librarian",
+      "Parliamentary Librarian",
+      "Reference Librarian",
+      "Special Librarian",
+      "Special Needs Librarian"
+    ]
+  },
+  {
+    "id": "224711",
+    "name": "Management Consultant",
+    "altTitles": [
+      "Business Consultant",
+      "Business Analyst"
+    ]
+  },
+  {
+    "id": "224712",
+    "name": "Organisation and Methods Analyst",
+    "altTitles": [
+      "Procedures Analyst",
+      "Change Management Facilitator",
+      "Industry Analyst",
+      "Quality Auditor",
+      "Skills Auditor"
+    ]
+  },
+  {
+    "id": "224911",
+    "name": "Electorate Officer"
+  },
+  {
+    "id": "224912",
+    "name": "Liaison Officer",
+    "altTitles": [
+      "Aboriginal Liaison Officer",
+      "Business Liaison Officer",
+      "Community Liaison Officer",
+      "Disability Liaison Officer",
+      "Maori Liaison Adviser (NZ)",
+      "Police Liaison Officer"
+    ]
+  },
+  {
+    "id": "224913",
+    "name": "Migration Agent (Aus) Immigration Consultant (NZ)"
+  },
+  {
+    "id": "224914",
+    "name": "Patents Examiner"
+  },
+  {
+    "id": "224999",
+    "name": "Information and Organisation Professionals nec",
+    "altTitles": [
+      "Electoral Officer",
+      "Knowledge Manager",
+      "Lobbyist",
+      "Museum Registrar",
+      "Procurement Specialist"
+    ]
+  },
+  {
+    "id": "225111",
+    "name": "Advertising Specialist",
+    "altTitles": [
+      "Advertising Account Executive",
+      "Advertising Account Manager",
+      "Creative Director (Advertising)"
+    ]
+  },
+  {
+    "id": "225112",
+    "name": "Market Research Analyst"
+  },
+  {
+    "id": "225113",
+    "name": "Marketing Specialist",
+    "altTitles": [
+      "Marketing Consultant",
+      "Marketing Coordinator",
+      "Marketing Officer",
+      "Brand Manager",
+      "Category Manager",
+      "Product Manager",
+      "Sales Promotion Officer"
+    ]
+  },
+  {
+    "id": "225211",
+    "name": "ICT Account Manager"
+  },
+  {
+    "id": "225212",
+    "name": "ICT Business Development Manager"
+  },
+  {
+    "id": "225213",
+    "name": "ICT Sales Representative"
+  },
+  {
+    "id": "225311",
+    "name": "Public Relations Professional",
+    "altTitles": [
+      "Media Liaison Officer",
+      "Press Officer",
+      "Promotions Officer",
+      "Public Affairs Officer",
+      "Public Relations Consultant",
+      "Public Relations Officer"
+    ]
+  },
+  {
+    "id": "225411",
+    "name": "Sales Representative (Industrial Products)"
+  },
+  {
+    "id": "225412",
+    "name": "Sales Representative (Medical and Pharmaceutical Products)",
+    "altTitles": [
+      "Medical Representative"
+    ]
+  },
+  {
+    "id": "225499",
+    "name": "Technical Sales Representatives nec",
+    "altTitles": [
+      "Sales Representative (Educational Products and Services)"
+    ]
+  },
+  {
+    "id": "231111",
+    "name": "Aeroplane Pilot"
+  },
+  {
+    "id": "231112",
+    "name": "Air Traffic Controller"
+  },
+  {
+    "id": "231113",
+    "name": "Flying Instructor",
+    "altTitles": [
+      "Gliding Pilot Instructor",
+      "Helicopter Pilot Instructor"
+    ]
+  },
+  {
+    "id": "231114",
+    "name": "Helicopter Pilot"
+  },
+  {
+    "id": "231199",
+    "name": "Air Transport Professionals nec",
+    "altTitles": [
+      "Aircraft Navigator",
+      "Airworthiness Inspector",
+      "Balloonist",
+      "Flight Engineer Inspector"
+    ]
+  },
+  {
+    "id": "231211",
+    "name": "Master Fisher"
+  },
+  {
+    "id": "231212",
+    "name": "Ship's Engineer",
+    "altTitles": [
+      "Marine Engineer",
+      "Mechanical Engineering Officer (Navy)",
+      "Weapons Electrical Engineering Officer (Navy)"
+    ]
+  },
+  {
+    "id": "231213",
+    "name": "Ship's Master",
+    "altTitles": [
+      "Ship's Captain",
+      "Dredge Master",
+      "Ship's Pilot",
+      "Tug Master"
+    ]
+  },
+  {
+    "id": "231214",
+    "name": "Ship's Officer",
+    "altTitles": [
+      "Deck Officer",
+      "Navigating Officer (Ship's)",
+      "Seaman Officer (Navy)"
+    ]
+  },
+  {
+    "id": "231215",
+    "name": "Marine Surveyor",
+    "altTitles": [
+      "Ship's Surveyor"
+    ]
+  },
+  {
+    "id": "231299",
+    "name": "Marine Transport Professionals nec",
+    "altTitles": [
+      "Boating Safety Officer (Aus)",
+      "Marine Safety Officer",
+      "Vessel Traffic Officer (Aus)"
+    ]
+  },
+  {
+    "id": "232111",
+    "name": "Architect",
+    "altTitles": [
+      "Conservation or Heritage Architect"
+    ]
+  },
+  {
+    "id": "232112",
+    "name": "Landscape Architect"
+  },
+  {
+    "id": "232212",
+    "name": "Surveyor",
+    "altTitles": [
+      "Cadastral Surveyor",
+      "Engineering Surveyor",
+      "Geodetic Surveyor",
+      "Hydrographic Surveyor",
+      "Mine Surveyor",
+      "Photogrammetric Surveyor"
+    ]
+  },
+  {
+    "id": "232213",
+    "name": "Cartographer"
+  },
+  {
+    "id": "232214",
+    "name": "Other Spatial Scientist",
+    "altTitles": [
+      "Geographic Information Systems Manager"
+    ]
+  },
+  {
+    "id": "232311",
+    "name": "Fashion Designer",
+    "altTitles": [
+      "Costume Designer"
+    ]
+  },
+  {
+    "id": "232312",
+    "name": "Industrial Designer",
+    "altTitles": [
+      "Product Designer",
+      "Ceramic Designer",
+      "Furniture Designer",
+      "Glass Designer",
+      "Textile Designer"
+    ]
+  },
+  {
+    "id": "232313",
+    "name": "Jewellery Designer"
+  },
+  {
+    "id": "232411",
+    "name": "Graphic Designer",
+    "altTitles": [
+      "Graphic Artist",
+      "Exhibition Designer",
+      "Film and Video Graphics Designer",
+      "Publication Designer"
+    ]
+  },
+  {
+    "id": "232412",
+    "name": "Illustrator",
+    "altTitles": [
+      "Animator",
+      "Cartoonist",
+      "Technical Illustrator"
+    ]
+  },
+  {
+    "id": "232413",
+    "name": "Multimedia Designer",
+    "altTitles": [
+      "Digital Media Designer",
+      "Interactive Media Designer",
+      "Instructional Designer"
+    ]
+  },
+  {
+    "id": "232414",
+    "name": "Web Designer"
+  },
+  {
+    "id": "232511",
+    "name": "Interior Designer",
+    "altTitles": [
+      "Commercial Interior Designer",
+      "Environmental Designer",
+      "Residential Interior Designer",
+      "Retail Interior Designer"
+    ]
+  },
+  {
+    "id": "232611",
+    "name": "Urban and Regional Planner",
+    "altTitles": [
+      "Land Planner",
+      "Resource Management Planner (NZ)",
+      "Town Planner",
+      "Traffic and Transport Planner"
+    ]
+  },
+  {
+    "id": "233111",
+    "name": "Chemical Engineer"
+  },
+  {
+    "id": "233112",
+    "name": "Materials Engineer"
+  },
+  {
+    "id": "233211",
+    "name": "Civil Engineer",
+    "altTitles": [
+      "Airfield Engineer Officer (Air Force)",
+      "Hydraulics Engineer"
+    ]
+  },
+  {
+    "id": "233212",
+    "name": "Geotechnical Engineer"
+  },
+  {
+    "id": "233213",
+    "name": "Quantity Surveyor",
+    "altTitles": [
+      "Building Economist",
+      "Construction Economist"
+    ]
+  },
+  {
+    "id": "233214",
+    "name": "Structural Engineer"
+  },
+  {
+    "id": "233215",
+    "name": "Transport Engineer",
+    "altTitles": [
+      "Roading Engineer (NZ)"
+    ]
+  },
+  {
+    "id": "233311",
+    "name": "Electrical Engineer",
+    "altTitles": [
+      "Electrical Design Engineer",
+      "Railway Signalling Engineer",
+      "Signalling and Communications Engineer"
+    ]
+  },
+  {
+    "id": "233411",
+    "name": "Electronics Engineer",
+    "altTitles": [
+      "Communications Engineer (Army)"
+    ]
+  },
+  {
+    "id": "233511",
+    "name": "Industrial Engineer",
+    "altTitles": [
+      "Process Engineer (Industrial)"
+    ]
+  },
+  {
+    "id": "233512",
+    "name": "Mechanical Engineer",
+    "altTitles": [
+      "Airconditioning Engineer",
+      "Building Services Engineer",
+      "Heating and Ventilation Engineer"
+    ]
+  },
+  {
+    "id": "233513",
+    "name": "Production or Plant Engineer",
+    "altTitles": [
+      "Automation and Control Engineer"
+    ]
+  },
+  {
+    "id": "233611",
+    "name": "Mining Engineer (excluding Petroleum)",
+    "altTitles": [
+      "Process Engineer (Mining)"
+    ]
+  },
+  {
+    "id": "233612",
+    "name": "Petroleum Engineer",
+    "altTitles": [
+      "Mud Engineer",
+      "Petrophysical Engineer"
+    ]
+  },
+  {
+    "id": "233911",
+    "name": "Aeronautical Engineer",
+    "altTitles": [
+      "Aeronautical Engineering Officer (Navy)",
+      "Aerospace Engineer",
+      "Aerospace Engineer Officer - Aeronautical (Air Force)",
+      "Aerospace Engineer Officer - Armament (Air Force)",
+      "Aerospace Engineer Officer - Electronics (Air Force)",
+      "Avionics Systems Engineer",
+      "Weapons Aeronautical Engineering Officer (Navy)"
+    ]
+  },
+  {
+    "id": "233912",
+    "name": "Agricultural Engineer",
+    "altTitles": [
+      "Natural Resources Engineer"
+    ]
+  },
+  {
+    "id": "233913",
+    "name": "Biomedical Engineer",
+    "altTitles": [
+      "Bioengineer",
+      "Clinical Engineer",
+      "Medical Engineer"
+    ]
+  },
+  {
+    "id": "233914",
+    "name": "Engineering Technologist",
+    "altTitles": [
+      "Aeronautical Engineering Technologist",
+      "Agricultural Engineering Technologist",
+      "Biomedical Engineering Technologist",
+      "Chemical Engineering Technologist",
+      "Industrial Engineering Technologist",
+      "Mining Engineering Technologist"
+    ]
+  },
+  {
+    "id": "233915",
+    "name": "Environmental Engineer"
+  },
+  {
+    "id": "233916",
+    "name": "Naval Architect (Aus) Marine Designer (NZ)"
+  },
+  {
+    "id": "233999",
+    "name": "Engineering Professionals nec",
+    "altTitles": [
+      "Acoustic Engineer",
+      "Mechatronics Engineer",
+      "Product Design Engineer"
+    ]
+  },
+  {
+    "id": "234111",
+    "name": "Agricultural Consultant",
+    "altTitles": [
+      "Agricultural Adviser",
+      "Agricultural Extension Officer",
+      "Landcare Officer"
+    ]
+  },
+  {
+    "id": "234112",
+    "name": "Agricultural Scientist",
+    "altTitles": [
+      "Agronomist"
+    ]
+  },
+  {
+    "id": "234113",
+    "name": "Forester (Aus) Forest Scientist (NZ)",
+    "altTitles": [
+      "Forestry Adviser",
+      "Forestry Consultant"
+    ]
+  },
+  {
+    "id": "234211",
+    "name": "Chemist",
+    "altTitles": [
+      "Analytical Chemist",
+      "Industrial Chemist"
+    ]
+  },
+  {
+    "id": "234212",
+    "name": "Food Technologist",
+    "altTitles": [
+      "Food Scientist"
+    ]
+  },
+  {
+    "id": "234213",
+    "name": "Wine Maker",
+    "altTitles": [
+      "Oenologist"
+    ]
+  },
+  {
+    "id": "234311",
+    "name": "Conservation Officer",
+    "altTitles": [
+      "Landcare Facilitator (Aus)"
+    ]
+  },
+  {
+    "id": "234312",
+    "name": "Environmental Consultant",
+    "altTitles": [
+      "Environmental Adviser",
+      "Environmental Auditor",
+      "Environmental Officer"
+    ]
+  },
+  {
+    "id": "234313",
+    "name": "Environmental Research Scientist",
+    "altTitles": [
+      "Environmental Scientist",
+      "Air Pollution Analyst",
+      "Ecologist",
+      "Land Degradation Analyst",
+      "Water Quality Analyst"
+    ]
+  },
+  {
+    "id": "234314",
+    "name": "Park Ranger",
+    "altTitles": [
+      "Aboriginal and Torres Strait Islander Land and Sea Ranger (Aus)"
+    ]
+  },
+  {
+    "id": "234399",
+    "name": "Environmental Scientists nec",
+    "altTitles": [
+      "Environmental Educator",
+      "Soil Scientist"
+    ]
+  },
+  {
+    "id": "234411",
+    "name": "Geologist",
+    "altTitles": [
+      "Marine Geologist",
+      "Palaeontologist"
+    ]
+  },
+  {
+    "id": "234412",
+    "name": "Geophysicist",
+    "altTitles": [
+      "Oceanographer",
+      "Seismologist"
+    ]
+  },
+  {
+    "id": "234413",
+    "name": "Hydrogeologist"
+  },
+  {
+    "id": "234511",
+    "name": "Life Scientist (General)",
+    "altTitles": [
+      "Biologist (General)"
+    ]
+  },
+
+  {
+    "id": "234513",
+    "name": "Biochemist",
+    "altTitles": [
+      "Enzyme Chemist",
+      "Protein Chemist"
+    ]
+  },
+  {
+    "id": "234514",
+    "name": "Biotechnologist",
+    "altTitles": [
+      "Cell Geneticist",
+      "Molecular Biologist",
+      "Molecular Geneticist"
+    ]
+  },
+  {
+    "id": "234515",
+    "name": "Botanist",
+    "altTitles": [
+      "Plant Pathologist",
+      "Plant Physiologist",
+      "Plant Taxonomist"
+    ]
+  },
+  {
+    "id": "234516",
+    "name": "Marine Biologist"
+  },
+  {
+    "id": "234517",
+    "name": "Microbiologist",
+    "altTitles": [
+      "Bacteriologist (Non-medical)"
+    ]
+  },
+  {
+    "id": "234518",
+    "name": "Zoologist",
+    "altTitles": [
+      "Entomologist",
+      "Mammalogist",
+      "Ornithologist"
+    ]
+  },
+  {
+    "id": "234599",
+    "name": "Life Scientists nec",
+    "altTitles": [
+      "Anatomist",
+      "Animal Behaviourist",
+      "Neuroscientist",
+      "Parasitologist",
+      "Pharmacologist (Non-clinical)",
+      "Physiologist",
+      "Toxicologist"
+    ]
+  },
+  {
+    "id": "234611",
+    "name": "Medical Laboratory Scientist",
+    "altTitles": [
+      "Hospital Scientist",
+      "Medical Scientific Officer",
+      "IVF Embryologist"
+    ]
+  },
+  {
+    "id": "234711",
+    "name": "Veterinarian",
+    "altTitles": [
+      "Veterinary Surgeon",
+      "Veterinary Parasitologist",
+      "Veterinary Pathologist"
+    ]
+  },
+  {
+    "id": "234911",
+    "name": "Conservator",
+    "altTitles": [
+      "Art Conservator"
+    ]
+  },
+  {
+    "id": "234912",
+    "name": "Metallurgist",
+    "altTitles": [
+      "Hydrometallurgical Engineer",
+      "Metallographer",
+      "Pyrometallurgical Engineer",
+      "Radiological Metallurgist"
+    ]
+  },
+  {
+    "id": "234913",
+    "name": "Meteorologist",
+    "altTitles": [
+      "Climatologist",
+      "Weather Forecaster"
+    ]
+  },
+  {
+    "id": "234914",
+    "name": "Physicist",
+    "altTitles": [
+      "Astronomer",
+      "Medical Physicist"
+    ]
+  },
+  {
+    "id": "234915",
+    "name": "Exercise Physiologist"
+  },
+  {
+    "id": "234999",
+    "name": "Natural and Physical Science Professionals nec",
+    "altTitles": [
+      "Materials Scientist",
+      "Metrologist",
+      "Polymer Scientist",
+      "Respiratory Scientist",
+      "Sleep Scientist"
+    ]
+  },
+  {
+    "id": "241111",
+    "name": "Early Childhood (Pre-primary School) Teacher",
+    "altTitles": [
+      "Kindergarten Teacher",
+      "Preschool Director"
+    ]
+  },
+  {
+    "id": "241112",
+    "name": "Kaiako Kohanga Reo (Maori Language Nest Teacher)"
+  },
+  {
+    "id": "241211",
+    "name": "Kaiako Kura Kaupapa Maori (Maori-medium Primary School Teacher)"
+  },
+  {
+    "id": "241212",
+    "name": "Pouako Kura Kaupapa Maori (Maori-medium Primary School Senior Teacher)"
+  },
+  {
+    "id": "241213",
+    "name": "Primary School Teacher",
+    "altTitles": [
+      "Primary School Teacher-Librarian"
+    ]
+  },
+  {
+    "id": "241311",
+    "name": "Middle School Teacher (Aus) Intermediate School Teacher (NZ)"
+  },
+  {
+    "id": "241411",
+    "name": "Secondary School Teacher",
+    "altTitles": [
+      "Kaiako Kura Tuarua (NZ)",
+      "Secondary School Teacher-Librarian"
+    ]
+  },
+  {
+    "id": "241511",
+    "name": "Special Needs Teacher",
+    "altTitles": [
+      "Behaviour Support Teacher",
+      "Remedial Teacher",
+      "Teacher of Gifted Students"
+    ]
+  },
+  {
+    "id": "241512",
+    "name": "Teacher of the Hearing Impaired"
+  },
+  {
+    "id": "241513",
+    "name": "Teacher of the Sight Impaired"
+  },
+  {
+    "id": "241599",
+    "name": "Special Education Teachers nec",
+    "altTitles": [
+      "Aboriginal Education Teacher (Aus)",
+      "Correspondence School Teacher (NZ)",
+      "Distance Education Teacher (Aus)"
+    ]
+  },
+  {
+    "id": "242111",
+    "name": "University Lecturer"
+  },
+  {
+    "id": "242112",
+    "name": "University Tutor",
+    "altTitles": [
+      "University Demonstrator"
+    ]
+  },
+  {
+    "id": "242211",
+    "name": "Vocational Education Teacher (Aus) Polytechnic Teacher (NZ)",
+    "altTitles": [
+      "Adult Education Teacher",
+      "TAFE Lecturer",
+      "TAFE Teacher",
+      "Workplace Trainer and Assessor"
+    ]
+  },
+  {
+    "id": "249111",
+    "name": "Education Adviser",
+    "altTitles": [
+      "Curriculum Advisory Teacher",
+      "Education Officer",
+      "Home-School Liaison Officer",
+      "Preschool Adviser"
+    ]
+  },
+  {
+    "id": "249112",
+    "name": "Education Reviewer",
+    "altTitles": [
+      "School Inspector"
+    ]
+  },
+  {
+    "id": "249211",
+    "name": "Art Teacher (Private Tuition)"
+  },
+  {
+    "id": "249212",
+    "name": "Dance Teacher (Private Tuition)",
+    "altTitles": [
+      "Ballet Teacher (Private Tuition)"
+    ]
+  },
+  {
+    "id": "249213",
+    "name": "Drama Teacher (Private Tuition)",
+    "altTitles": [
+      "Elocution Teacher"
+    ]
+  },
+  {
+    "id": "249214",
+    "name": "Music Teacher (Private Tuition)",
+    "altTitles": [
+      "Singing Teacher (Private Tuition)"
+    ]
+  },
+  {
+    "id": "249299",
+    "name": "Private Tutors and Teachers nec",
+    "altTitles": [
+      "Dressmaking Teacher (Private Tuition)",
+      "Handicrafts Teacher (Private Tuition)",
+      "Language Tutor (Private Tuition)",
+      "Maths Tutor (Private Tuition)"
+    ]
+  },
+  {
+    "id": "249311",
+    "name": "Teacher of English to Speakers of Other Languages",
+    "altTitles": [
+      "English as a Second Language Teacher"
+    ]
+  },
+  {
+    "id": "251111",
+    "name": "Dietitian"
+  },
+  {
+    "id": "251112",
+    "name": "Nutritionist"
+  },
+  {
+    "id": "251211",
+    "name": "Medical Diagnostic Radiographer",
+    "altTitles": [
+      "Medical Imaging Technologist",
+      "Magnetic Resonance Technologist"
+    ]
+  },
+  {
+    "id": "251212",
+    "name": "Medical Radiation Therapist"
+  },
+  {
+    "id": "251213",
+    "name": "Nuclear Medicine Technologist"
+  },
+  {
+    "id": "251214",
+    "name": "Sonographer",
+    "altTitles": [
+      "Ultrasonographer"
+    ]
+  },
+  {
+    "id": "251311",
+    "name": "Environmental Health Officer",
+    "altTitles": [
+      "Food Safety Auditor",
+      "Food Safety Officer"
+    ]
+  },
+  {
+    "id": "251312",
+    "name": "Occupational Health and Safety Adviser",
+    "altTitles": [
+      "Occupational Health and Safety Coordinator",
+      "Occupational Health and Safety Officer",
+      "Occupational Hygienist",
+      "Workplace Rehabilitation Officer"
+    ]
+  },
+  {
+    "id": "251411",
+    "name": "Optometrist"
+  },
+  {
+    "id": "251412",
+    "name": "Orthoptist"
+  },
+  {
+    "id": "251511",
+    "name": "Hospital Pharmacist",
+    "altTitles": [
+      "Pharmaceutical Officer (Army)"
+    ]
+  },
+  {
+    "id": "251512",
+    "name": "Industrial Pharmacist"
+  },
+  {
+    "id": "251513",
+    "name": "Retail Pharmacist",
+    "altTitles": [
+      "Community Pharmacist"
+    ]
+  },
+  {
+    "id": "251911",
+    "name": "Health Promotion Officer",
+    "altTitles": [
+      "Community Health Worker",
+      "Health Educator",
+      "Asthma Educator",
+      "Childbirth Educator",
+      "Diabetes Educator"
+    ]
+  },
+  {
+    "id": "251912",
+    "name": "Orthotist or Prosthetist"
+  },
+  {
+    "id": "251999",
+    "name": "Health Diagnostic and Promotion Professionals nec",
+    "altTitles": [
+      "Genetic Counsellor"
+    ]
+  },
+  {
+    "id": "252111",
+    "name": "Chiropractor"
+  },
+  {
+    "id": "252112",
+    "name": "Osteopath"
+  },
+  {
+    "id": "252211",
+    "name": "Acupuncturist"
+  },
+  {
+    "id": "252212",
+    "name": "Homoeopath"
+  },
+  {
+    "id": "252213",
+    "name": "Naturopath"
+  },
+  {
+    "id": "252214",
+    "name": "Traditional Chinese Medicine Practitioner",
+    "altTitles": [
+      "Chinese Medicine Practitioner",
+      "Oriental Medicine Practitioner",
+      "Chinese Herbalist"
+    ]
+  },
+  {
+    "id": "252215",
+    "name": "Traditional Maori Health Practitioner"
+  },
+  {
+    "id": "252299",
+    "name": "Complementary Health Therapists nec",
+    "altTitles": [
+      "Dance Therapist",
+      "Drama Therapist",
+      "Hypnotherapist",
+      "Music Therapist",
+      "Play Therapist"
+    ]
+  },
+  {
+    "id": "252311",
+    "name": "Dental Specialist",
+    "altTitles": [
+      "Endodontist",
+      "Oral and Maxillofacial Surgeon",
+      "Oral Pathologist",
+      "Orthodontist",
+      "Paedodontist",
+      "Periodontist",
+      "Prosthodontist"
+    ]
+  },
+  {
+    "id": "252312",
+    "name": "Dentist",
+    "altTitles": [
+      "Dental Practitioner",
+      "Dental Surgeon"
+    ]
+  },
+  {
+    "id": "252411",
+    "name": "Occupational Therapist"
+  },
+  {
+    "id": "252511",
+    "name": "Physiotherapist",
+    "altTitles": [
+      "Physical Therapist",
+      "Aquatic Physiotherapist",
+      "Cardiothoracic Physiotherapist",
+      "Continence and Women's Health Physiotherapist",
+      "Gerentological Physiotherapist",
+      "Maori Physiotherapist (NZ)",
+      "Musculoskeletal Physiotherapist",
+      "Neurological Physiotherapist",
+      "Occupational Health Physiotherapist",
+      "Paediatric Physiotherapist",
+      "Sports Physiotherapist"
+    ]
+  },
+  {
+    "id": "252611",
+    "name": "Podiatrist",
+    "altTitles": [
+      "Podiatric Surgeon"
+    ]
+  },
+  {
+    "id": "252711",
+    "name": "Audiologist"
+  },
+  {
+    "id": "252712",
+    "name": "Speech Pathologist (Aus) Speech Language Therapist (NZ)",
+    "altTitles": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": "253111",
+    "name": "General Practitioner",
+    "altTitles": [
+      "General Medical Practitioner",
+      "Medical Officer (Navy)"
+    ]
+  },
+  {
+    "id": "253112",
+    "name": "Resident Medical Officer",
+    "altTitles": [
+      "Medical Intern"
+    ]
+  },
+  {
+    "id": "253211",
+    "name": "Anaesthetist",
+    "altTitles": [
+      "Intensive Care Anaesthetist",
+      "Obstetric Anaesthetist",
+      "Pain Management Specialist"
+    ]
+  },
+  {
+    "id": "253311",
+    "name": "Specialist Physician (General Medicine)"
+  },
+  {
+    "id": "253312",
+    "name": "Cardiologist"
+  },
+  {
+    "id": "253313",
+    "name": "Clinical Haematologist"
+  },
+  {
+    "id": "253314",
+    "name": "Medical Oncologist",
+    "altTitles": [
+      "Medical Oncology Physician"
+    ]
+  },
+  {
+    "id": "253315",
+    "name": "Endocrinologist",
+    "altTitles": [
+      "Diabetologist"
+    ]
+  },
+  {
+    "id": "253316",
+    "name": "Gastroenterologist"
+  },
+  {
+    "id": "253317",
+    "name": "Intensive Care Specialist",
+    "altTitles": [
+      "Intensive Care Medicine Specialist",
+      "Intensivist"
+    ]
+  },
+  {
+    "id": "253318",
+    "name": "Neurologist"
+  },
+  {
+    "id": "253321",
+    "name": "Paediatrician",
+    "altTitles": [
+      "Neonatologist",
+      "Paediatric Thoracic Physician"
+    ]
+  },
+  {
+    "id": "253322",
+    "name": "Renal Medicine Specialist",
+    "altTitles": [
+      "Nephrologist",
+      "Renal Medicine Physician"
+    ]
+  },
+  {
+    "id": "253323",
+    "name": "Rheumatologist"
+  },
+  {
+    "id": "253324",
+    "name": "Thoracic Medicine Specialist",
+    "altTitles": [
+      "Respiratory Medicine Physician",
+      "Thoracic Medicine Physician",
+      "Pulmonary Specialist",
+      "Respiratory Physician"
+    ]
+  },
+  {
+    "id": "253399",
+    "name": "Specialist Physicians nec",
+    "altTitles": [
+      "Clinical Allergist",
+      "Clinical Geneticist",
+      "Clinical Immunologist",
+      "Clinical Pharmacologist",
+      "Geriatrician",
+      "Infectious Diseases Physician",
+      "Musculoskeletal Physician (NZ)",
+      "Occupational Medicine Physician",
+      "Palliative Medicine Physician",
+      "Public Health Physician",
+      "Rehabilitation Medicine Physician",
+      "Sexual Health Physician",
+      "Sleep Medicine Physician"
+    ]
+  },
+  {
+    "id": "253411",
+    "name": "Psychiatrist",
+    "altTitles": [
+      "Adolescent Psychiatrist",
+      "Child and Adolescent Psychiatrist",
+      "Child Psychiatrist",
+      "Forensic Psychiatrist",
+      "Geriatric Psychiatrist",
+      "Medical Psychotherapist"
+    ]
+  },
+  {
+    "id": "253511",
+    "name": "Surgeon (General)"
+  },
+  {
+    "id": "253512",
+    "name": "Cardiothoracic Surgeon"
+  },
+  {
+    "id": "253513",
+    "name": "Neurosurgeon"
+  },
+  {
+    "id": "253514",
+    "name": "Orthopaedic Surgeon"
+  },
+  {
+    "id": "253515",
+    "name": "Otorhinolaryngologist",
+    "altTitles": [
+      "Ear, Nose and Throat Specialist",
+      "Head and Neck Surgeon",
+      "Laryngologist",
+      "Otologist",
+      "Rhinologist"
+    ]
+  },
+  {
+    "id": "253516",
+    "name": "Paediatric Surgeon"
+  },
+  {
+    "id": "253517",
+    "name": "Plastic and Reconstructive Surgeon"
+  },
+  {
+    "id": "253518",
+    "name": "Urologist"
+  },
+  {
+    "id": "253521",
+    "name": "Vascular Surgeon"
+  },
+  {
+    "id": "253911",
+    "name": "Dermatologist"
+  },
+  {
+    "id": "253912",
+    "name": "Emergency Medicine Specialist",
+    "altTitles": [
+      "Emergency Physician"
+    ]
+  },
+  {
+    "id": "253913",
+    "name": "Obstetrician and Gynaecologist",
+    "altTitles": [
+      "Gynaecological Oncologist",
+      "Reproductive Endocrinologist",
+      "Urogynaecologist"
+    ]
+  },
+  {
+    "id": "253914",
+    "name": "Ophthalmologist",
+    "altTitles": [
+      "Eye Specialist",
+      "Eye Surgeon"
+    ]
+  },
+  {
+    "id": "253915",
+    "name": "Pathologist",
+    "altTitles": [
+      "Clinical Cytopathologist",
+      "Forensic Pathologist",
+      "Immunologist"
+    ]
+  },
+  {
+    "id": "253917",
+    "name": "Diagnostic and Interventional Radiologist",
+    "altTitles": [
+      "Medical Imaging Specialist"
+    ]
+  },
+  {
+    "id": "253918",
+    "name": "Radiation Oncologist"
+  },
+  {
+    "id": "253999",
+    "name": "Medical Practitioners nec",
+    "altTitles": [
+      "Nuclear Medicine Physician",
+      "Sports Physician"
+    ]
+  },
+  {
+    "id": "254111",
+    "name": "Midwife",
+    "altTitles": [
+      "Certified Midwife",
+      "Registered Midwife",
+      "Community Midwife",
+      "Midwife Practitioner"
+    ]
+  },
+  {
+    "id": "254211",
+    "name": "Nurse Educator",
+    "altTitles": [
+      "Clinical Nurse Educator",
+      "Staff Development Nurse"
+    ]
+  },
+  {
+    "id": "254212",
+    "name": "Nurse Researcher"
+  },
+  {
+    "id": "254311",
+    "name": "Nurse Manager",
+    "altTitles": [
+      "Charge Nurse",
+      "Nurse Supervisor",
+      "Nurse Unit Manager"
+    ]
+  },
+  {
+    "id": "254411",
+    "name": "Nurse Practitioner"
+  },
+  {
+    "id": "254412",
+    "name": "Registered Nurse (Aged Care)",
+    "altTitles": [
+      "Registered Nurse (Gerontology)"
+    ]
+  },
+  {
+    "id": "254413",
+    "name": "Registered Nurse (Child and Family Health)",
+    "altTitles": [
+      "Plunket Nurse (NZ)"
+    ]
+  },
+  {
+    "id": "254414",
+    "name": "Registered Nurse (Community Health)",
+    "altTitles": [
+      "Registered Nurse (Health Education and Promotion)",
+      "Registered Nurse (Public Health)",
+      "Registered Nurse (School Nurse)"
+    ]
+  },
+  {
+    "id": "254415",
+    "name": "Registered Nurse (Critical Care and Emergency)",
+    "altTitles": [
+      "Registered Nurse (Acute Care)",
+      "Registered Nurse (Emergency/Trauma)",
+      "Registered Nurse (High Dependency)",
+      "Registered Nurse (Neonatal Intensive Care)",
+      "Registered Nurse (Paediatric Intensive Care)"
+    ]
+  },
+  {
+    "id": "254416",
+    "name": "Registered Nurse (Developmental Disability)",
+    "altTitles": [
+      "Mental Retardation Nurse"
+    ]
+  },
+  {
+    "id": "254417",
+    "name": "Registered Nurse (Disability and Rehabilitation)",
+    "altTitles": [
+      "Registered Nurse (Rehabilitation)"
+    ]
+  },
+  {
+    "id": "254418",
+    "name": "Registered Nurse (Medical)"
+  },
+  {
+    "id": "254421",
+    "name": "Registered Nurse (Medical Practice)",
+    "altTitles": [
+      "Practice Nurse",
+      "Primary Health Care Nurse (NZ)"
+    ]
+  },
+  {
+    "id": "254422",
+    "name": "Registered Nurse (Mental Health)",
+    "altTitles": [
+      "Psychiatric Nurse",
+      "Psychopaedic Nurse (NZ)",
+      "Registered Nurse (Child and Adolescence Mental Health)",
+      "Registered Nurse (Drug and Alcohol)",
+      "Registered Nurse (Psychiatric Rehabilitation)",
+      "Registered Nurse (Psychogeriatric Care)"
+    ]
+  },
+  {
+    "id": "254423",
+    "name": "Registered Nurse (Perioperative)",
+    "altTitles": [
+      "Operating Room Nurse",
+      "Registered Nurse (Anaesthetic)",
+      "Registered Nurse (Operating Room)",
+      "Registered Nurse (Recovery)"
+    ]
+  },
+  {
+    "id": "254424",
+    "name": "Registered Nurse (Surgical)"
+  },
+  {
+    "id": "254425",
+    "name": "Registered Nurse (Paediatrics)"
+  },
+  {
+    "id": "254499",
+    "name": "Registered Nurses nec",
+    "altTitles": [
+      "Flight Nurse",
+      "Nursing Officer (Defence Forces)",
+      "Registered Nurse (Infection Control)",
+      "Registered Nurse (Remote or Rural Area)"
+    ]
+  },
+  {
+    "id": "261111",
+    "name": "ICT Business Analyst",
+    "altTitles": [
+      "BA (ICT)",
+      "Business Consultant (ICT)",
+      "Business Systems Analyst"
+    ]
+  },
+  {
+    "id": "261112",
+    "name": "Systems Analyst"
+  },
+  {
+    "id": "261211",
+    "name": "Multimedia Specialist",
+    "altTitles": [
+      "Electronic Game Developer",
+      "Multimedia Developer",
+      "Multimedia Programmer"
+    ]
+  },
+  {
+    "id": "261212",
+    "name": "Web Developer",
+    "altTitles": [
+      "Web Programmer"
+    ]
+  },
+  {
+    "id": "261311",
+    "name": "Analyst Programmer",
+    "altTitles": [
+      "Programmer Analyst"
+    ]
+  },
+  {
+    "id": "261312",
+    "name": "Developer Programmer",
+    "altTitles": [
+      "Applications Developer",
+      "ICT Developer",
+      "ICT Programmer",
+      "Communications Programmer (Systems)",
+      "Database Developer",
+      "Database Programmer (Systems)",
+      "Network Programmer",
+      "Software Developer",
+      "Software Programmer"
+    ]
+  },
+  {
+    "id": "261313",
+    "name": "Software Engineer",
+    "altTitles": [
+      "Software Architect",
+      "Software Designer",
+      "Computer Applications Engineer",
+      "Database Designer",
+      "Systems Architect"
+    ]
+  },
+  {
+    "id": "261314",
+    "name": "Software Tester"
+  },
+  {
+    "id": "261399",
+    "name": "Software and Applications Programmers nec"
+  },
+  {
+    "id": "262111",
+    "name": "Database Administrator",
+    "altTitles": [
+      "Database Operator",
+      "Database Specialist",
+      "Database Support",
+      "DBA",
+      "Database Analyst"
+    ]
+  },
+  {
+    "id": "262112",
+    "name": "ICT Security Specialist",
+    "altTitles": [
+      "Security Administrator",
+      "Information Technology Security Manager"
+    ]
+  },
+  {
+    "id": "262113",
+    "name": "Systems Administrator",
+    "altTitles": [
+      "Systems Manager"
+    ]
+  },
+  {
+    "id": "263111",
+    "name": "Computer Network and Systems Engineer",
+    "altTitles": [
+      "Computer Network Engineer",
+      "Computer Systems Integrator"
+    ]
+  },
+  {
+    "id": "263112",
+    "name": "Network Administrator",
+    "altTitles": [
+      "Network Specialist",
+      "Network Support",
+      "LAN Administrator"
+    ]
+  },
+  {
+    "id": "263113",
+    "name": "Network Analyst",
+    "altTitles": [
+      "Network Designer",
+      "Network Strategist",
+      "Network Consultant",
+      "Network Architect"
+    ]
+  },
+  {
+    "id": "263211",
+    "name": "ICT Quality Assurance Engineer",
+    "altTitles": [
+      "Quality Analyst (ICT)",
+      "Quality Manager (ICT)",
+      "Quality Specialist (ICT)",
+      "Computer Systems Auditor",
+      "Systems Auditor (ICT)"
+    ]
+  },
+  {
+    "id": "263212",
+    "name": "ICT Support Engineer",
+    "altTitles": [
+      "Support Analyst",
+      "Support Architect"
+    ]
+  },
+  {
+    "id": "263213",
+    "name": "ICT Systems Test Engineer",
+    "altTitles": [
+      "Systems Tester",
+      "Test Analyst (ICT)"
+    ]
+  },
+  {
+    "id": "263299",
+    "name": "ICT Support and Test Engineers nec",
+    "altTitles": [
+      "Usability Architect"
+    ]
+  },
+  {
+    "id": "263311",
+    "name": "Telecommunications Engineer",
+    "altTitles": [
+      "Signals Officer (Army) (NZ)"
+    ]
+  },
+  {
+    "id": "263312",
+    "name": "Telecommunications Network Engineer",
+    "altTitles": [
+      "Communications Consultant",
+      "Communications Specialist (ICT)",
+      "Telecommunications Consultant",
+      "Telecommunications Specialist"
+    ]
+  },
+  {
+    "id": "271111",
+    "name": "Barrister",
+    "altTitles": [
+      "Queen's Counsel",
+      "Senior Counsel (Aus)"
+    ]
+  },
+  {
+    "id": "271211",
+    "name": "Judge",
+    "altTitles": [
+      "District Court Judge",
+      "Family Court Justice",
+      "High Court Justice",
+      "Supreme Court Judge",
+      "Youth Court Judge (NZ)"
+    ]
+  },
+  {
+    "id": "271212",
+    "name": "Magistrate",
+    "altTitles": [
+      "Chamber Magistrate",
+      "Children's Court Magistrate",
+      "Industrial Court Magistrate",
+      "Licensing Court Magistrate"
+    ]
+  },
+  {
+    "id": "271213",
+    "name": "Tribunal Member",
+    "altTitles": [
+      "Administrative Appeals Tribunal Member",
+      "Industrial Relations Commissioner",
+      "Waitangi Tribunal Member (NZ)"
+    ]
+  },
+  {
+    "id": "271214",
+    "name": "Intellectual Property Lawyer",
+    "altTitles": [
+      "Patent Attorney",
+      "Trade Mark Attorney"
+    ]
+  },
+  {
+    "id": "271299",
+    "name": "Judicial and Other Legal Professionals nec",
+    "altTitles": [
+      "Family Court Registrar (Aus)",
+      "Family Law Mediator",
+      "Judicial Registrar (Aus)",
+      "Legal Officer",
+      "Legal Researcher",
+      "Parliamentary Counsel"
+    ]
+  },
+  {
+    "id": "271311",
+    "name": "Solicitor"
+  },
+  {
+    "id": "272111",
+    "name": "Careers Counsellor",
+    "altTitles": [
+      "Careers Adviser"
+    ]
+  },
+  {
+    "id": "272112",
+    "name": "Drug and Alcohol Counsellor"
+  },
+  {
+    "id": "272113",
+    "name": "Family and Marriage Counsellor",
+    "altTitles": [
+      "Family Court Counsellor"
+    ]
+  },
+  {
+    "id": "272114",
+    "name": "Rehabilitation Counsellor"
+  },
+  {
+    "id": "272115",
+    "name": "Student Counsellor",
+    "altTitles": [
+      "School Counsellor"
+    ]
+  },
+  {
+    "id": "272199",
+    "name": "Counsellors nec",
+    "altTitles": [
+      "Gambling Counsellor",
+      "Grief Counsellor",
+      "Life Coach",
+      "Sexual Abuse Counsellor (NZ)",
+      "Sexual Assault Counsellor (Aus)",
+      "Trauma Counsellor"
+    ]
+  },
+  {
+    "id": "272211",
+    "name": "Minister of Religion",
+    "altTitles": [
+      "Aboriginal Ceremonial Celebrant (Aus)",
+      "Chaplain",
+      "Imam",
+      "Monk",
+      "Priest",
+      "Rabbi",
+      "Salvation Army Officer"
+    ]
+  },
+  {
+    "id": "272311",
+    "name": "Clinical Psychologist",
+    "altTitles": [
+      "Forensic Psychologist",
+      "Health Psychologist",
+      "Neuropsychologist"
+    ]
+  },
+  {
+    "id": "272312",
+    "name": "Educational Psychologist"
+  },
+  {
+    "id": "272313",
+    "name": "Organisational Psychologist",
+    "altTitles": [
+      "Industrial Psychologist",
+      "Occupational Psychologist"
+    ]
+  },
+  {
+    "id": "272314",
+    "name": "Psychotherapist",
+    "altTitles": [
+      "Art Psychotherapist or Therapist"
+    ]
+  },
+  {
+    "id": "272399",
+    "name": "Psychologists nec",
+    "altTitles": [
+      "Counselling Psychologist",
+      "Sport Psychologist"
+    ]
+  },
+  {
+    "id": "272411",
+    "name": "Historian",
+    "altTitles": [
+      "Art Historian",
+      "Cultural Historian",
+      "Economic Historian",
+      "Geographical Historian"
+    ]
+  },
+  {
+    "id": "272412",
+    "name": "Interpreter",
+    "altTitles": [
+      "Kai Whakaruruhau (NZ)"
+    ]
+  },
+  {
+    "id": "272413",
+    "name": "Translator"
+  },
+  {
+    "id": "272414",
+    "name": "Archaeologist"
+  },
+  {
+    "id": "272499",
+    "name": "Social Professionals nec",
+    "altTitles": [
+      "Anthropologist",
+      "Criminologist",
+      "Geographer",
+      "Heritage Consultant",
+      "Linguist",
+      "Parole Board Member",
+      "Political Scientist",
+      "Sociologist",
+      "Transport Analyst"
+    ]
+  },
+  {
+    "id": "272511",
+    "name": "Social Worker",
+    "altTitles": [
+      "Whanau Support Worker (NZ)"
+    ]
+  },
+  {
+    "id": "272611",
+    "name": "Community Arts Worker",
+    "altTitles": [
+      "Community Artist",
+      "Community Arts Officer",
+      "Community Cultural Development Officer"
+    ]
+  },
+  {
+    "id": "272612",
+    "name": "Recreation Officer (Aus) Recreation Coordinator (NZ)",
+    "altTitles": [
+      "Recreation Adviser"
+    ]
+  },
+  {
+    "id": "272613",
+    "name": "Welfare Worker",
+    "altTitles": [
+      "Welfare Case Worker"
+    ]
+  },
+  {
+    "id": "311111",
+    "name": "Agricultural Technician",
+    "altTitles": [
+      "Agricultural Technical Officer",
+      "Agriculture Laboratory Technician",
+      "Artificial Insemination Technical Officer",
+      "Dairy Technician",
+      "Field Crop Technical Officer",
+      "Herd Tester",
+      "Horticultural Technical Officer"
+    ]
+  },
+  {
+    "id": "311211",
+    "name": "Anaesthetic Technician"
+  },
+  {
+    "id": "311212",
+    "name": "Cardiac Technician",
+    "altTitles": [
+      "Cardiac Technologist",
+      "Electrocardiographic Technician"
+    ]
+  },
+  {
+    "id": "311213",
+    "name": "Medical Laboratory Technician",
+    "altTitles": [
+      "Medical Laboratory Technical Officer"
+    ]
+  },
+  {
+    "id": "311214",
+    "name": "Operating Theatre Technician"
+  },
+  {
+    "id": "311215",
+    "name": "Pharmacy Technician",
+    "altTitles": [
+      "Dispensary Technician"
+    ]
+  },
+  {
+    "id": "311216",
+    "name": "Pathology Collector (Aus) Phlebotomist (NZ)",
+    "altTitles": [
+      "Specimen Collector",
+      "Blood Collector"
+    ]
+  },
+  {
+    "id": "311299",
+    "name": "Medical Technicians nec",
+    "altTitles": [
+      "Audiometrist",
+      "Dialysis Technician",
+      "Electroencephalographic Technician",
+      "Mortuary Technician",
+      "Neurophysiological Technician",
+      "Orthotic and Prosthetic Technician",
+      "Ophthalmic Technician",
+      "Perfusionist",
+      "Renal Technician",
+      "Respiratory Technician",
+      "Sleep Technician"
+    ]
+  },
+  {
+    "id": "311311",
+    "name": "Fisheries Officer",
+    "altTitles": [
+      "Fisheries Inspector"
+    ]
+  },
+  {
+    "id": "311312",
+    "name": "Meat Inspector"
+  },
+  {
+    "id": "311313",
+    "name": "Quarantine Officer",
+    "altTitles": [
+      "Biosecurity Officer (Ministry for Primary Industry) (NZ)",
+      "Quarantine Inspector"
+    ]
+  },
+  {
+    "id": "311399",
+    "name": "Primary Products Inspectors nec",
+    "altTitles": [
+      "Dairy Quality Assurance Officer",
+      "Fruit and Vegetable Inspector"
+    ]
+  },
+  {
+    "id": "311411",
+    "name": "Chemistry Technician",
+    "altTitles": [
+      "Chemistry Technical Officer",
+      "Chemical Instrumentation Officer",
+      "Chemical Process Analyst",
+      "Chemistry Laboratory Technician",
+      "Dairy Laboratory Technician",
+      "Petroleum Laboratory Technician",
+      "Sugar Laboratory Assistant"
+    ]
+  },
+  {
+    "id": "311412",
+    "name": "Earth Science Technician",
+    "altTitles": [
+      "Earth Science Technical Officer",
+      "Earth Science Laboratory Technician",
+      "Geochemical Laboratory Technician",
+      "Geological Technical Officer",
+      "Geoscience Laboratory Technician",
+      "Hydrographical Technical Officer",
+      "Hydrological Technical Officer",
+      "Meteorological Observer",
+      "Seismology Technical Officer",
+      "Soil Science Technical Officer",
+      "Water Resources Technical Officer"
+    ]
+  },
+  {
+    "id": "311413",
+    "name": "Life Science Technician",
+    "altTitles": [
+      "Life Science Technical Officer",
+      "Biological Technical Officer",
+      "Botanical Technical Officer",
+      "Ecological Technical Officer",
+      "Environmental Technical Officer",
+      "Fisheries Technical Officer",
+      "Forestry Technical Officer",
+      "Forestry Technician",
+      "Wood Technologist",
+      "Zoology Technical Officer"
+    ]
+  },
+  {
+    "id": "311414",
+    "name": "School Laboratory Technician"
+  },
+  {
+    "id": "311415",
+    "name": "Hydrographer"
+  },
+  {
+    "id": "311499",
+    "name": "Science Technicians nec",
+    "altTitles": [
+      "Calibration Technician",
+      "Fibre Technologist",
+      "Optics Technical Officer",
+      "Physics Technical Officer",
+      "Textile Technical Officer"
+    ]
+  },
+  {
+    "id": "312111",
+    "name": "Architectural Draftsperson",
+    "altTitles": [
+      "Architectural Associate",
+      "Building Drafting Officer"
+    ]
+  },
+  {
+    "id": "312112",
+    "name": "Building Associate",
+    "altTitles": [
+      "Building Construction Supervisor",
+      "Clerk of Works"
+    ]
+  },
+  {
+    "id": "312113",
+    "name": "Building Inspector",
+    "altTitles": [
+      "Building Certifier",
+      "Building Surveyor",
+      "Electrical Installation Inspector"
+    ]
+  },
+  {
+    "id": "312114",
+    "name": "Construction Estimator",
+    "altTitles": [
+      "Building Estimator"
+    ]
+  },
+  {
+    "id": "312115",
+    "name": "Plumbing Inspector",
+    "altTitles": [
+      "Drainage Inspector",
+      "Gas Plumbing Inspector",
+      "Sanitary Plumbing and Water Supply Inspector"
+    ]
+  },
+  {
+    "id": "312116",
+    "name": "Surveying or Spatial Science Technician",
+    "altTitles": [
+      "GIS Technician",
+      "Aerial Survey Technician",
+      "Photogrammetrist"
+    ]
+  },
+  {
+    "id": "312199",
+    "name": "Architectural, Building and Surveying Technicians nec",
+    "altTitles": [
+      "Roof Truss Detailer",
+      "Structural Steel Detailer"
+    ]
+  },
+  {
+    "id": "312211",
+    "name": "Civil Engineering Draftsperson",
+    "altTitles": [
+      "Civil Engineering Design Draftsperson",
+      "Plumbing Engineering Draftsperson",
+      "Road Design Draftsperson",
+      "Sewage Reticulation Drafting Officer",
+      "Structural Engineering Drafting Officer"
+    ]
+  },
+  {
+    "id": "312212",
+    "name": "Civil Engineering Technician",
+    "altTitles": [
+      "Civil Engineering Assistant",
+      "Civil Laboratory Technician",
+      "Geotechnical Laboratory Technician"
+    ]
+  },
+  {
+    "id": "312311",
+    "name": "Electrical Engineering Draftsperson",
+    "altTitles": [
+      "Electrical Engineering Design Draftsperson",
+      "Electrical Engineering Detail Draftsperson",
+      "Electrical Engineering Drafting Officer",
+      "Relays Draftsperson",
+      "Substation Design Draftsperson"
+    ]
+  },
+  {
+    "id": "312312",
+    "name": "Electrical Engineering Technician",
+    "altTitles": [
+      "Electrical Engineering Technical Officer",
+      "Electrical Engineering Laboratory Technician",
+      "Electrical Instrument Technician"
+    ]
+  },
+  {
+    "id": "312411",
+    "name": "Electronic Engineering Draftsperson",
+    "altTitles": [
+      "Communications and Data Systems Drafting Officer",
+      "Control Systems Drafting Officer",
+      "Electronics Detail Draftsperson"
+    ]
+  },
+  {
+    "id": "312412",
+    "name": "Electronic Engineering Technician",
+    "altTitles": [
+      "Aircraft Electronics Technical Officer",
+      "Communications Engineering Technical Officer",
+      "Communications Engineering Technician",
+      "Digital Controls Technical Officer",
+      "Flight Surveyor",
+      "Printed Circuit Board Designer",
+      "Process Control Technician",
+      "Telemetry Technician"
+    ]
+  },
+  {
+    "id": "312511",
+    "name": "Mechanical Engineering Draftsperson",
+    "altTitles": [
+      "Airconditioning Drafting Officer",
+      "Heating and Ventilating Technical Officer",
+      "Tool Design Draftsperson",
+      "Tool Designer"
+    ]
+  },
+  {
+    "id": "312512",
+    "name": "Mechanical Engineering Technician",
+    "altTitles": [
+      "Boiler Testing Technician",
+      "Hydraulic Controls Technician",
+      "Mechanical Laboratory Technician",
+      "Pipe Testing Technician"
+    ]
+  },
+  {
+    "id": "312611",
+    "name": "Safety Inspector",
+    "altTitles": [
+      "Boilers and Pressure Vessels Inspector",
+      "Gas Examiner",
+      "Lifts and Cranes Inspector",
+      "Mines Inspector",
+      "Occupational Health and Safety Inspector"
+    ]
+  },
+  {
+    "id": "312911",
+    "name": "Maintenance Planner",
+    "altTitles": [
+      "Maintenance Scheduler",
+      "Shutdown Coordinator",
+      "Shutdown Planner"
+    ]
+  },
+  {
+    "id": "312912",
+    "name": "Metallurgical or Materials Technician",
+    "altTitles": [
+      "Dye Penetrant Testing Technician",
+      "Heat Treatment Technician",
+      "Magnetic Testing Technician",
+      "Metallurgy Laboratory Technician",
+      "Non-destructive Testing Technician",
+      "Petroleum Products Laboratory Technician",
+      "Petroleum Refinery Laboratory Technician",
+      "Pressure Testing Technician",
+      "Ultrasound Technician"
+    ]
+  },
+  {
+    "id": "312913",
+    "name": "Mine Deputy",
+    "altTitles": [
+      "Mining Technician",
+      "Open Cut Examiner"
+    ]
+  },
+  {
+    "id": "312999",
+    "name": "Building and Engineering Technicians nec",
+    "altTitles": [
+      "Aircraft Detail Draftsperson",
+      "Aircraft Systems Technician (Air Force)",
+      "Airframe Technical Officer",
+      "Avionics Systems Technician (Air Force)",
+      "Biomedical Technician",
+      "Corrosion Technician",
+      "Mining Detail Draftsperson",
+      "Shipbuilding Draftsperson"
+    ]
+  },
+  {
+    "id": "313111",
+    "name": "Hardware Technician"
+  },
+  {
+    "id": "313112",
+    "name": "ICT Customer Support Officer",
+    "altTitles": [
+      "ICT Help Desk Officer",
+      "ICT Help Desk Technician",
+      "Systems Support Officer",
+      "Network Support Technician",
+      "Operator Command Support Systems (Army)"
+    ]
+  },
+  {
+    "id": "313113",
+    "name": "Web Administrator",
+    "altTitles": [
+      "Web Master"
+    ]
+  },
+  {
+    "id": "313199",
+    "name": "ICT Support Technicians nec",
+    "altTitles": [
+      "Applications Packager",
+      "Computer Systems Technician",
+      "Telecommunications Computer Systems Technician"
+    ]
+  },
+  {
+    "id": "313211",
+    "name": "Radiocommunications Technician"
+  },
+  {
+    "id": "313212",
+    "name": "Telecommunications Field Engineer"
+  },
+  {
+    "id": "313213",
+    "name": "Telecommunications Network Planner"
+  },
+  {
+    "id": "313214",
+    "name": "Telecommunications Technical Officer or Technologist"
+  },
+  {
+    "id": "321111",
+    "name": "Automotive Electrician",
+    "altTitles": [
+      "Automotive Electrical Fitter"
+    ]
+  },
+  {
+    "id": "321211",
+    "name": "Motor Mechanic (General)",
+    "altTitles": [
+      "Automotive Light Mechanic",
+      "Automatic Transmission Mechanic",
+      "Automotive Airconditioning Mechanic",
+      "Brake Mechanic",
+      "Ground Support Equipment Fitter (Air Force)",
+      "Roadside Mechanic",
+      "Vehicle Mechanic (Army)"
+    ]
+  },
+  {
+    "id": "321212",
+    "name": "Diesel Motor Mechanic",
+    "altTitles": [
+      "Automotive Heavy Mechanic"
+    ]
+  },
+  {
+    "id": "321213",
+    "name": "Motorcycle Mechanic"
+  },
+  {
+    "id": "321214",
+    "name": "Small Engine Mechanic",
+    "altTitles": [
+      "Chainsaw Mechanic",
+      "Lawnmower Mechanic",
+      "Outboard Motor Mechanic"
+    ]
+  },
+  {
+    "id": "322111",
+    "name": "Blacksmith",
+    "altTitles": [
+      "Hammer Smith",
+      "Spring Maker",
+      "Tool Smith"
+    ]
+  },
+  {
+    "id": "322112",
+    "name": "Electroplater",
+    "altTitles": [
+      "Anodiser",
+      "Electroformer",
+      "Galvaniser"
+    ]
+  },
+  {
+    "id": "322113",
+    "name": "Farrier"
+  },
+  {
+    "id": "322114",
+    "name": "Metal Casting Trades Worker",
+    "altTitles": [
+      "Coremaker",
+      "Metal Moulder"
+    ]
+  },
+  {
+    "id": "322115",
+    "name": "Metal Polisher"
+  },
+  {
+    "id": "322211",
+    "name": "Sheetmetal Trades Worker",
+    "altTitles": [
+      "Metal Spinner",
+      "Sheetmetal Patternmaker"
+    ]
+  },
+  {
+    "id": "322311",
+    "name": "Metal Fabricator",
+    "altTitles": [
+      "Boilermaker-Welder",
+      "Brass Finisher",
+      "Metal Fabricator-Welder",
+      "Metal Template Maker",
+      "Structural Steel Trades Worker"
+    ]
+  },
+  {
+    "id": "322312",
+    "name": "Pressure Welder"
+  },
+  {
+    "id": "322313",
+    "name": "Welder (First Class) (Aus) Welder (NZ)",
+    "altTitles": [
+      "Special Class Welder"
+    ]
+  },
+  {
+    "id": "323111",
+    "name": "Aircraft Maintenance Engineer (Avionics)",
+    "altTitles": [
+      "Aircraft Maintenance Engineer (Electrical)",
+      "Aircraft Maintenance Engineer (Instruments)",
+      "Aircraft Maintenance Engineer (Radio)",
+      "Avionics Technician (Defence)",
+      "Licensed Aircraft Maintenance Engineer (Electrical)",
+      "Licensed Aircraft Maintenance Engineer (Instruments)",
+      "Licensed Aircraft Maintenance Engineer (Radio)"
+    ]
+  },
+  {
+    "id": "323112",
+    "name": "Aircraft Maintenance Engineer (Mechanical)",
+    "altTitles": [
+      "Aircraft Maintenance Engineer (Airframes)",
+      "Aircraft Maintenance Engineer (Engines)",
+      "Aircraft Technician (Air Force, Army)",
+      "Aviation Technician Aircraft (Navy)",
+      "Licensed Aircraft Maintenance Engineer (Airframes)",
+      "Licensed Aircraft Maintenance Engineer (Engines)"
+    ]
+  },
+  {
+    "id": "323113",
+    "name": "Aircraft Maintenance Engineer (Structures)",
+    "altTitles": [
+      "Aircraft Structural Fitter (Air Force, Army)"
+    ]
+  },
+  {
+    "id": "323211",
+    "name": "Fitter (General)",
+    "altTitles": [
+      "Computer Numeric Control Setter",
+      "Diesel Fitter-Mechanic",
+      "Fitter-Machinist",
+      "Fitter-Mechanic",
+      "Maintenance Fitter",
+      "Mechanic (Diesel and Heavy Earthmoving Equipment)",
+      "Plant Mechanic"
+    ]
+  },
+  {
+    "id": "323212",
+    "name": "Fitter and Turner",
+    "altTitles": [
+      "Fitter Armament (Army)"
+    ]
+  },
+  {
+    "id": "323213",
+    "name": "Fitter-Welder"
+  },
+  {
+    "id": "323214",
+    "name": "Metal Machinist (First Class)",
+    "altTitles": [
+      "Aircraft Machinist",
+      "Automotive Machinist",
+      "Metal Machine Setter",
+      "Metal Turner",
+      "Milling Machinist",
+      "Vertical Borer"
+    ]
+  },
+  {
+    "id": "323215",
+    "name": "Textile, Clothing and Footwear Mechanic",
+    "altTitles": [
+      "Loom Tuner",
+      "Sewing Machine Mechanic",
+      "Textile Machine Mechanic"
+    ]
+  },
+  {
+    "id": "323299",
+    "name": "Metal Fitters and Machinists nec",
+    "altTitles": [
+      "Printing Engineer"
+    ]
+  },
+  {
+    "id": "323311",
+    "name": "Engraver"
+  },
+  {
+    "id": "323312",
+    "name": "Gunsmith"
+  },
+  {
+    "id": "323313",
+    "name": "Locksmith",
+    "altTitles": [
+      "Safemaker"
+    ]
+  },
+  {
+    "id": "323314",
+    "name": "Precision Instrument Maker and Repairer",
+    "altTitles": [
+      "Camera Repairer",
+      "Scalemaker",
+      "Scientific Instrument Maker and Repairer"
+    ]
+  },
+  {
+    "id": "323315",
+    "name": "Saw Maker and Repairer",
+    "altTitles": [
+      "Saw Sharpener"
+    ]
+  },
+  {
+    "id": "323316",
+    "name": "Watch and Clock Maker and Repairer"
+  },
+  {
+    "id": "323411",
+    "name": "Engineering Patternmaker"
+  },
+  {
+    "id": "323412",
+    "name": "Toolmaker",
+    "altTitles": [
+      "Die Caster",
+      "Die Sinker",
+      "Jigmaker (Metal)",
+      "Plastic Mould Maker",
+      "Press-tool Maker"
+    ]
+  },
+  {
+    "id": "324111",
+    "name": "Panelbeater",
+    "altTitles": [
+      "Collision Repairer"
+    ]
+  },
+  {
+    "id": "324211",
+    "name": "Vehicle Body Builder",
+    "altTitles": [
+      "Vehicle Body Maker",
+      "Coach Builder"
+    ]
+  },
+  {
+    "id": "324212",
+    "name": "Vehicle Trimmer",
+    "altTitles": [
+      "Vehicle Upholsterer"
+    ]
+  },
+  {
+    "id": "324311",
+    "name": "Vehicle Painter",
+    "altTitles": [
+      "Vehicle Refinisher"
+    ]
+  },
+  {
+    "id": "331111",
+    "name": "Bricklayer",
+    "altTitles": [
+      "Blocklayer",
+      "Chimney Builder",
+      "Refractory Bricklayer",
+      "Retort Setter (Bricklaying)",
+      "Tuckpointer"
+    ]
+  },
+  {
+    "id": "331112",
+    "name": "Stonemason",
+    "altTitles": [
+      "Construction Stonemason",
+      "Monumental Stonemason"
+    ]
+  },
+  {
+    "id": "331211",
+    "name": "Carpenter and Joiner",
+    "altTitles": [
+      "Shopfitter"
+    ]
+  },
+  {
+    "id": "331212",
+    "name": "Carpenter",
+    "altTitles": [
+      "Fixing Carpenter",
+      "Formwork Carpenter",
+      "Prop and Scenery Maker"
+    ]
+  },
+  {
+    "id": "331213",
+    "name": "Joiner",
+    "altTitles": [
+      "Joinery Machinist",
+      "Joinery Patternmaker",
+      "Joinery Setter-out"
+    ]
+  },
+  {
+    "id": "332111",
+    "name": "Floor Finisher",
+    "altTitles": [
+      "Carpet Layer",
+      "Parquetry Layer"
+    ]
+  },
+  {
+    "id": "332211",
+    "name": "Painting Trades Worker",
+    "altTitles": [
+      "Paperhanger"
+    ]
+  },
+  {
+    "id": "333111",
+    "name": "Glazier",
+    "altTitles": [
+      "Glass Beveller",
+      "Glass Embosser",
+      "Glass Etcher",
+      "Glass Silverer"
+    ]
+  },
+  {
+    "id": "333211",
+    "name": "Fibrous Plasterer",
+    "altTitles": [
+      "Dry Wall Plasterer"
+    ]
+  },
+  {
+    "id": "333212",
+    "name": "Solid Plasterer"
+  },
+  {
+    "id": "333311",
+    "name": "Roof Tiler",
+    "altTitles": [
+      "Roof Fixer",
+      "Roof Shingler",
+      "Roof Slater"
+    ]
+  },
+  {
+    "id": "333411",
+    "name": "Wall and Floor Tiler",
+    "altTitles": [
+      "Ceramic Tiler",
+      "Mosaic Tiler"
+    ]
+  },
+  {
+    "id": "334111",
+    "name": "Plumber (General)",
+    "altTitles": [
+      "Fire Services Plumber",
+      "Sanitary Plumber",
+      "Water Plumber"
+    ]
+  },
+  {
+    "id": "334112",
+    "name": "Airconditioning and Mechanical Services Plumber",
+    "altTitles": [
+      "Ductfixing Plumber"
+    ]
+  },
+  {
+    "id": "334113",
+    "name": "Drainer (Aus) Drainlayer (NZ)",
+    "altTitles": [
+      "Septic Tank Installer"
+    ]
+  },
+  {
+    "id": "334114",
+    "name": "Gasfitter",
+    "altTitles": [
+      "Gas Main and Line Fitter",
+      "Liquefied Petroleum Gasfitter"
+    ]
+  },
+  {
+    "id": "334115",
+    "name": "Roof Plumber",
+    "altTitles": [
+      "Industrial Roof Plumber"
+    ]
+  },
+  {
+    "id": "341111",
+    "name": "Electrician (General)",
+    "altTitles": [
+      "Electrical Fitter",
+      "Armature Winder",
+      "Electrical Contractor",
+      "Heavy Coil Winder",
+      "Railway Signal Electrician"
+    ]
+  },
+  {
+    "id": "341112",
+    "name": "Electrician (Special Class)"
+  },
+  {
+    "id": "341113",
+    "name": "Lift Mechanic",
+    "altTitles": [
+      "Lift Electrician"
+    ]
+  },
+  {
+    "id": "342111",
+    "name": "Airconditioning and Refrigeration Mechanic"
+  },
+  {
+    "id": "342211",
+    "name": "Electrical Linesworker (Aus) Electrical Line Mechanic (NZ)",
+    "altTitles": [
+      "Electrical Line Mechanic (Distribution) (NZ)",
+      "Electrical Line Mechanic (Transmission) (NZ)",
+      "Electrical Linesworker (Distribution) (Aus)",
+      "Electrical Linesworker (Transmission) (Aus)",
+      "Railway Traction Line Worker"
+    ]
+  },
+  {
+    "id": "342212",
+    "name": "Technical Cable Jointer"
+  },
+  {
+    "id": "342311",
+    "name": "Business Machine Mechanic",
+    "altTitles": [
+      "Office Equipment Technician",
+      "Office Machine Technician",
+      "Photocopier Technician"
+    ]
+  },
+  {
+    "id": "342312",
+    "name": "Communications Operator",
+    "altTitles": [
+      "Communication Information Systems Sailor (Navy)",
+      "Communications and Information Systems Controller (Air Force)",
+      "Operator Specialist Communications (Army)"
+    ]
+  },
+  {
+    "id": "342313",
+    "name": "Electronic Equipment Trades Worker",
+    "altTitles": [
+      "Audiovisual Technician",
+      "Fire Alarm Technician",
+      "Home Theatre Technician",
+      "Security Technician",
+      "Video Technician"
+    ]
+  },
+  {
+    "id": "342314",
+    "name": "Electronic Instrument Trades Worker (General)",
+    "altTitles": [
+      "Instrument and Control Service Person",
+      "Communication Electronic Technician (Air Force)",
+      "Electronic Technician (Navy)"
+    ]
+  },
+  {
+    "id": "342315",
+    "name": "Electronic Instrument Trades Worker (Special Class)",
+    "altTitles": [
+      "Industrial Measurement and Control Technician"
+    ]
+  },
+  {
+    "id": "342411",
+    "name": "Cabler (Data and Telecommunications)"
+  },
+  {
+    "id": "342412",
+    "name": "Telecommunications Cable Jointer",
+    "altTitles": [
+      "Fibre Optic Cable Splicer",
+      "Fibre Optics Jointer"
+    ]
+  },
+  {
+    "id": "342413",
+    "name": "Telecommunications Linesworker (Aus) Telecommunications Line Mechanic (NZ)",
+    "altTitles": [
+      "Operator Bearer Systems (Army)"
+    ]
+  },
+  {
+    "id": "342414",
+    "name": "Telecommunications Technician",
+    "altTitles": [
+      "Communications Technician",
+      "Technician Telecommunication Systems (Army)"
+    ]
+  },
+  {
+    "id": "351111",
+    "name": "Baker",
+    "altTitles": [
+      "Doughmaker"
+    ]
+  },
+  {
+    "id": "351112",
+    "name": "Pastrycook",
+    "altTitles": [
+      "Cake Decorator"
+    ]
+  },
+  {
+    "id": "351211",
+    "name": "Butcher or Smallgoods Maker"
+  },
+  {
+    "id": "351311",
+    "name": "Chef",
+    "altTitles": [
+      "Chef de Partie",
+      "Commis Chef",
+      "Demi Chef",
+      "Second Chef",
+      "Sous Chef"
+    ]
+  },
+  {
+    "id": "351411",
+    "name": "Cook"
+  },
+  {
+    "id": "361111",
+    "name": "Dog Handler or Trainer"
+  },
+  {
+    "id": "361112",
+    "name": "Horse Trainer",
+    "altTitles": [
+      "Horse Breaker"
+    ]
+  },
+  {
+    "id": "361113",
+    "name": "Pet Groomer"
+  },
+  {
+    "id": "361114",
+    "name": "Zookeeper",
+    "altTitles": [
+      "Aquarist"
+    ]
+  },
+  {
+    "id": "361115",
+    "name": "Kennel Hand"
+  },
+  {
+    "id": "361199",
+    "name": "Animal Attendants and Trainers nec",
+    "altTitles": [
+      "Crutching Contractor",
+      "Muleser"
+    ]
+  },
+  {
+    "id": "361211",
+    "name": "Shearer"
+  },
+  {
+    "id": "361311",
+    "name": "Veterinary Nurse",
+    "altTitles": [
+      "Animal Nurse",
+      "Veterinary Assistant"
+    ]
+  },
+  {
+    "id": "362111",
+    "name": "Florist"
+  },
+  {
+    "id": "362211",
+    "name": "Gardener (General)"
+  },
+  {
+    "id": "362212",
+    "name": "Arborist",
+    "altTitles": [
+      "Tree Surgeon"
+    ]
+  },
+  {
+    "id": "362213",
+    "name": "Landscape Gardener"
+  },
+  {
+    "id": "362311",
+    "name": "Greenkeeper",
+    "altTitles": [
+      "Turf Keeper"
+    ]
+  },
+  {
+    "id": "362411",
+    "name": "Nurseryperson",
+    "altTitles": [
+      "Plant Propagator"
+    ]
+  },
+  {
+    "id": "391111",
+    "name": "Hairdresser",
+    "altTitles": [
+      "Barber"
+    ]
+  },
+  {
+    "id": "392111",
+    "name": "Print Finisher",
+    "altTitles": [
+      "Mailhouse Operator (Aus)",
+      "Paper Guillotine Operator (Bookbinding)"
+    ]
+  },
+  {
+    "id": "392112",
+    "name": "Screen Printer",
+    "altTitles": [
+      "Screen Printing Stencil Preparer",
+      "Textiles Printer"
+    ]
+  },
+  {
+    "id": "392211",
+    "name": "Graphic Pre-press Trades Worker",
+    "altTitles": [
+      "Desktop Publishing Operator"
+    ]
+  },
+  {
+    "id": "392311",
+    "name": "Printing Machinist",
+    "altTitles": [
+      "Flexographic Printing Machinist",
+      "Gravure Printing Machinist",
+      "Label Printing Machinist",
+      "Letterpress Printing Machinist",
+      "Lithographic Printing Machinist",
+      "Reel Fed Printer",
+      "Sheet Fed Printer"
+    ]
+  },
+  {
+    "id": "392312",
+    "name": "Small Offset Printer",
+    "altTitles": [
+      "Instant Printer Operator",
+      "Digital Printer"
+    ]
+  },
+  {
+    "id": "393111",
+    "name": "Canvas Goods Fabricator",
+    "altTitles": [
+      "Canvas Goods Maker"
+    ]
+  },
+  {
+    "id": "393112",
+    "name": "Leather Goods Maker",
+    "altTitles": [
+      "Saddler"
+    ]
+  },
+  {
+    "id": "393113",
+    "name": "Sail Maker"
+  },
+  {
+    "id": "393114",
+    "name": "Shoemaker",
+    "altTitles": [
+      "Medical Grade Shoemaker",
+      "Shoe Repairer"
+    ]
+  },
+  {
+    "id": "393211",
+    "name": "Apparel Cutter"
+  },
+  {
+    "id": "393212",
+    "name": "Clothing Patternmaker",
+    "altTitles": [
+      "Pattern Grader (Clothing)",
+      "Patternmaker-Grader"
+    ]
+  },
+  {
+    "id": "393213",
+    "name": "Dressmaker or Tailor",
+    "altTitles": [
+      "Costume Maker",
+      "Wardrobe Assistant",
+      "Wardrobe Coordinator"
+    ]
+  },
+  {
+    "id": "393299",
+    "name": "Clothing Trades Workers nec",
+    "altTitles": [
+      "Milliner"
+    ]
+  },
+  {
+    "id": "393311",
+    "name": "Upholsterer",
+    "altTitles": [
+      "Furniture Upholsterer",
+      "Mattress Maker"
+    ]
+  },
+  {
+    "id": "394111",
+    "name": "Cabinetmaker",
+    "altTitles": [
+      "Antique Furniture Reproducer",
+      "Antique Furniture Restorer",
+      "Chair and Couch Maker",
+      "Coffin Maker"
+    ]
+  },
+  {
+    "id": "394211",
+    "name": "Furniture Finisher",
+    "altTitles": [
+      "French Polisher"
+    ]
+  },
+  {
+    "id": "394212",
+    "name": "Picture Framer"
+  },
+  {
+    "id": "394213",
+    "name": "Wood Machinist",
+    "altTitles": [
+      "Automatic Profile Sander Operator",
+      "Copy Lathe Operator",
+      "Edge Bander Operator",
+      "Jigmaker (Wood)",
+      "Panel Saw Operator",
+      "Woodworking Machine Setter"
+    ]
+  },
+  {
+    "id": "394214",
+    "name": "Wood Turner"
+  },
+  {
+    "id": "394299",
+    "name": "Wood Machinists and Other Wood Trades Workers nec",
+    "altTitles": [
+      "Cane Furniture Maker",
+      "Cooper",
+      "Wood Model Maker"
+    ]
+  },
+  {
+    "id": "399111",
+    "name": "Boat Builder and Repairer",
+    "altTitles": [
+      "Composite Boat Builder",
+      "Rigger (Boat)",
+      "Sparmaker",
+      "Wooden Boat Builder",
+      "Yacht Builder"
+    ]
+  },
+  {
+    "id": "399112",
+    "name": "Shipwright",
+    "altTitles": [
+      "Loftsman/woman (Marine)",
+      "Ship's Carpenter"
+    ]
+  },
+  {
+    "id": "399211",
+    "name": "Chemical Plant Operator",
+    "altTitles": [
+      "Chemicals Distiller",
+      "Chemicals Fermentation Operator",
+      "Industrial Gas Production Operator",
+      "Paint Maker",
+      "Pharmaceutical Plant Operator",
+      "Pilot Plant Operator"
+    ]
+  },
+  {
+    "id": "399212",
+    "name": "Gas or Petroleum Operator",
+    "altTitles": [
+      "Oil and Gas Well Treatment Operator",
+      "Oil, Gas and Pipe Tester",
+      "Petroleum and Gas Refining and Pumping Operator",
+      "Gas Compressor Turbine Operator",
+      "Petroleum Blending Plant Operator",
+      "Petroleum Terminal Plant Operator",
+      "Refinery Pipeline Operator"
+    ]
+  },
+  {
+    "id": "399213",
+    "name": "Power Generation Plant Operator",
+    "altTitles": [
+      "Hydro-electric Station Operator",
+      "Power Generation Turbine Room Operator"
+    ]
+  },
+  {
+    "id": "399311",
+    "name": "Gallery or Museum Technician",
+    "altTitles": [
+      "Taxidermist"
+    ]
+  },
+  {
+    "id": "399312",
+    "name": "Library Technician"
+  },
+  {
+    "id": "399411",
+    "name": "Jeweller",
+    "altTitles": [
+      "Diamond Cutter",
+      "Faceter",
+      "Gem Setter",
+      "Goldsmith",
+      "Lapidary",
+      "Opal Polisher",
+      "Ring Maker",
+      "Silversmith"
+    ]
+  },
+  {
+    "id": "399511",
+    "name": "Broadcast Transmitter Operator"
+  },
+  {
+    "id": "399512",
+    "name": "Camera Operator (Film, Television or Video)",
+    "altTitles": [
+      "Focus Puller (Film)"
+    ]
+  },
+  {
+    "id": "399513",
+    "name": "Light Technician"
+  },
+  {
+    "id": "399514",
+    "name": "Make Up Artist"
+  },
+  {
+    "id": "399515",
+    "name": "Musical Instrument Maker or Repairer",
+    "altTitles": [
+      "Piano Tuner"
+    ]
+  },
+  {
+    "id": "399516",
+    "name": "Sound Technician",
+    "altTitles": [
+      "Audio Operator",
+      "Dubbing Machine Operator",
+      "Foley Artist",
+      "Re-recording Mixer",
+      "Sound Editor",
+      "Sound Effects Person",
+      "Sound Mixer",
+      "Sound Recordist",
+      "Video and Sound Recorder"
+    ]
+  },
+  {
+    "id": "399517",
+    "name": "Television Equipment Operator",
+    "altTitles": [
+      "Vision Mixer"
+    ]
+  },
+  {
+    "id": "399599",
+    "name": "Performing Arts Technicians nec",
+    "altTitles": [
+      "Continuity Person",
+      "Microphone Boom Operator",
+      "Performing Arts Road Manager",
+      "Special Effects Person",
+      "Theatrical Dresser"
+    ]
+  },
+  {
+    "id": "399611",
+    "name": "Signwriter",
+    "altTitles": [
+      "Sign Manufacturer"
+    ]
+  },
+  {
+    "id": "399911",
+    "name": "Diver",
+    "altTitles": [
+      "Abalone Diver",
+      "Clearance Diver (Navy)",
+      "Fisheries Diver",
+      "Hyperbaric Welder Diver",
+      "Offshore Diver",
+      "Onshore Diver",
+      "Pearl Diver",
+      "Saturation Diver",
+      "Scientific Diver"
+    ]
+  },
+  {
+    "id": "399912",
+    "name": "Interior Decorator"
+  },
+  {
+    "id": "399913",
+    "name": "Optical Dispenser (Aus) Dispensing Optician (NZ)"
+  },
+  {
+    "id": "399914",
+    "name": "Optical Mechanic"
+  },
+  {
+    "id": "399915",
+    "name": "Photographer's Assistant"
+  },
+  {
+    "id": "399916",
+    "name": "Plastics Technician",
+    "altTitles": [
+      "Plastics Fitter"
+    ]
+  },
+  {
+    "id": "399917",
+    "name": "Wool Classer"
+  },
+  {
+    "id": "399918",
+    "name": "Fire Protection Equipment Technician",
+    "altTitles": [
+      "Fire Extinguisher Technician"
+    ]
+  },
+  {
+    "id": "399999",
+    "name": "Technicians and Trades Workers nec",
+    "altTitles": [
+      "Airborne Electronics Analyst (Air Force)",
+      "Architectural Model Maker",
+      "Canoe Maker",
+      "Coffee Machine Technician",
+      "Fibre Composite Technician",
+      "Glass Blower",
+      "Hide and Skin Classer",
+      "Irrigation Designer",
+      "Kayak Maker",
+      "Milking Machine Technician",
+      "Parachute Rigger",
+      "Pearl Technician",
+      "Pyrotechnician",
+      "Ski Technician",
+      "Surfboard Maker"
+    ]
+  },
+  {
+    "id": "411111",
+    "name": "Ambulance Officer",
+    "altTitles": [
+      "Paramedic (Aus)",
+      "Patient Transport Officer (Aus)"
+    ]
+  },
+  {
+    "id": "411112",
+    "name": "Intensive Care Ambulance Paramedic (Aus) Ambulance Paramedic (NZ)"
+  },
+  {
+    "id": "411211",
+    "name": "Dental Hygienist"
+  },
+  {
+    "id": "411212",
+    "name": "Dental Prosthetist",
+    "altTitles": [
+      "Clinical Dental Technician"
+    ]
+  },
+  {
+    "id": "411213",
+    "name": "Dental Technician",
+    "altTitles": [
+      "Dental Laboratory Assistant"
+    ]
+  },
+  {
+    "id": "411214",
+    "name": "Dental Therapist",
+    "altTitles": [
+      "Oral Health Therapist"
+    ]
+  },
+  {
+    "id": "411311",
+    "name": "Diversional Therapist",
+    "altTitles": [
+      "Recreational Therapist",
+      "Activities Coordinator",
+      "Activities Officer"
+    ]
+  },
+  {
+    "id": "411411",
+    "name": "Enrolled Nurse",
+    "altTitles": [
+      "Nursing Assistant (NZ)",
+      "Medical Assistant (Defence)"
+    ]
+  },
+  {
+    "id": "411412",
+    "name": "Mothercraft Nurse"
+  },
+  {
+    "id": "411511",
+    "name": "Aboriginal and Torres Strait Islander Health Worker"
+  },
+  {
+    "id": "411512",
+    "name": "Kaiawhina (Hauora) (Maori Health Assistant)"
+  },
+  {
+    "id": "411611",
+    "name": "Massage Therapist",
+    "altTitles": [
+      "Chinese (Tui-Na) Masseur",
+      "Remedial Masseur",
+      "Shiatsu Therapist",
+      "Sports Medicine Masseur",
+      "Thai Masseur"
+    ]
+  },
+  {
+    "id": "411711",
+    "name": "Community Worker",
+    "altTitles": [
+      "Community Development Officer",
+      "Community Support Worker",
+      "Housing Officer"
+    ]
+  },
+  {
+    "id": "411712",
+    "name": "Disabilities Services Officer"
+  },
+  {
+    "id": "411713",
+    "name": "Family Support Worker"
+  },
+  {
+    "id": "411714",
+    "name": "Parole or Probation Officer"
+  },
+  {
+    "id": "411715",
+    "name": "Residential Care Officer"
+  },
+  {
+    "id": "411716",
+    "name": "Youth Worker",
+    "altTitles": [
+      "Youth Officer",
+      "Youth Support Worker",
+      "Juvenile Justice Officer",
+      "Youth Accommodation Support Worker",
+      "Youth Liaison Officer"
+    ]
+  },
+  {
+    "id": "421111",
+    "name": "Child Care Worker",
+    "altTitles": [
+      "Child Care Aide",
+      "Child Care Group Leader (Aus)",
+      "Children's Nursery Assistant",
+      "Creche Attendant",
+      "Early Childhood Worker"
+    ]
+  },
+  {
+    "id": "421112",
+    "name": "Family Day Care Worker",
+    "altTitles": [
+      "Family Day Carer"
+    ]
+  },
+  {
+    "id": "421113",
+    "name": "Nanny"
+  },
+  {
+    "id": "421114",
+    "name": "Out of School Hours Care Worker"
+  },
+  {
+    "id": "422111",
+    "name": "Aboriginal and Torres Strait Islander Education Worker",
+    "altTitles": [
+      "Aboriginal Education Worker Coordinator",
+      "Aboriginal Home-School Liaison Officer"
+    ]
+  },
+  {
+    "id": "422112",
+    "name": "Integration Aide"
+  },
+  {
+    "id": "422113",
+    "name": "Kaiawhina Kohanga Reo (Maori Language Nest Assistant)"
+  },
+  {
+    "id": "422114",
+    "name": "Kaiawhina Kura Kaupapa Maori (Maori-medium School Assistant)"
+  },
+  {
+    "id": "422115",
+    "name": "Preschool Aide",
+    "altTitles": [
+      "Kindergarten Assistant"
+    ]
+  },
+  {
+    "id": "422116",
+    "name": "Teachers' Aide",
+    "altTitles": [
+      "School Services Officer",
+      "Student Liaison Officer",
+      "Teachers' Assistant"
+    ]
+  },
+  {
+    "id": "423111",
+    "name": "Aged or Disabled Carer",
+    "altTitles": [
+      "Aged or Disabled Care Worker",
+      "Personal Care Worker",
+      "Personal Carer"
+    ]
+  },
+  {
+    "id": "423211",
+    "name": "Dental Assistant",
+    "altTitles": [
+      "Dental Chairside Assistant",
+      "Dental Nurse"
+    ]
+  },
+  {
+    "id": "423311",
+    "name": "Hospital Orderly",
+    "altTitles": [
+      "Patient Services Assistant",
+      "Wardsperson"
+    ]
+  },
+  {
+    "id": "423312",
+    "name": "Nursing Support Worker",
+    "altTitles": [
+      "Assistant in Nursing",
+      "Nurses' Aide (NZ)",
+      "Paramedical Aide"
+    ]
+  },
+  {
+    "id": "423313",
+    "name": "Personal Care Assistant"
+  },
+  {
+    "id": "423314",
+    "name": "Therapy Aide",
+    "altTitles": [
+      "Therapist's Assistant",
+      "Diversional Therapist's Assistant",
+      "Occupational Therapist's Assistant",
+      "Physiotherapist's Assistant"
+    ]
+  },
+  {
+    "id": "423411",
+    "name": "Child or Youth Residential Care Assistant"
+  },
+  {
+    "id": "423412",
+    "name": "Hostel Parent",
+    "altTitles": [
+      "House Parent"
+    ]
+  },
+  {
+    "id": "423413",
+    "name": "Refuge Worker"
+  },
+  {
+    "id": "431111",
+    "name": "Bar Attendant",
+    "altTitles": [
+      "Bar Steward"
+    ]
+  },
+  {
+    "id": "431112",
+    "name": "Barista"
+  },
+  {
+    "id": "431211",
+    "name": "Cafe Worker",
+    "altTitles": [
+      "Cafe Assistant",
+      "Cafe Attendant",
+      "Canteen Attendant"
+    ]
+  },
+  {
+    "id": "431311",
+    "name": "Gaming Worker",
+    "altTitles": [
+      "Croupier",
+      "Casino Gaming Inspector",
+      "Gaming Pit Boss"
+    ]
+  },
+  {
+    "id": "431411",
+    "name": "Hotel Service Manager",
+    "altTitles": [
+      "Hotel Service Supervisor",
+      "Front Office Manager (Hotel)",
+      "Head Housekeeper",
+      "Head Porter (Hotel)",
+      "Hotel Concierge",
+      "Hotel Office Manager"
+    ]
+  },
+  {
+    "id": "431511",
+    "name": "Waiter",
+    "altTitles": [
+      "Food and Beverage Attendant",
+      "Drink Waiter",
+      "Formal Service Waiter",
+      "Silver Service Waiter",
+      "Sommelier",
+      "Wine Steward"
+    ]
+  },
+  {
+    "id": "431911",
+    "name": "Bar Useful or Busser",
+    "altTitles": [
+      "Bar Back",
+      "Glassie"
+    ]
+  },
+  {
+    "id": "431912",
+    "name": "Doorperson or Luggage Porter"
+  },
+  {
+    "id": "431999",
+    "name": "Hospitality Workers nec",
+    "altTitles": [
+      "Cellar Hand (Hotel)",
+      "Uniform Room Attendant"
+    ]
+  },
+  {
+    "id": "441111",
+    "name": "Defence Force Member - Other Ranks",
+    "altTitles": [
+      "Acoustic Warfare Analyst (Navy)",
+      "Air Dispatcher (Army)",
+      "Air Surveillance Operator (Air Force)",
+      "Aircraft Life Support Fitter (Air Force)",
+      "Aircraft Life Support Fitter (Army)",
+      "Aircrewman (Navy)",
+      "Airfield Defence Guard (Air Force)",
+      "Boatswains Mate (Navy)",
+      "Combat Engineer (Army)",
+      "Combat Systems Operator (Navy)",
+      "Combat Systems Operator Mine Warfare (Navy)",
+      "Commando (Army)",
+      "Crewman Armoured Personnel Carrier M113 (Army)",
+      "Crewman Australian Light Armoured Vehicle (ASLAV) (Army)",
+      "Crewman Main Battle Tank (Army)",
+      "Electronic Warfare - Linguist (Navy)",
+      "Electronic Warfare - Technical (Navy)",
+      "Geospatial Imagery Intelligence Analyst (Air Force)",
+      "Ground Crewman Mission Support (Army)",
+      "Gun Number (Army)",
+      "Marine Specialist (Army)",
+      "Naval Police Coxswain (Navy)",
+      "Operator Artillery Meteorology and Surveyor (Army)",
+      "Operator Electronic Warfare (Army)",
+      "Operator Ground Based Air Defence (Army)",
+      "Operator Weapon Locating Radar (Army)",
+      "Rifleman (Army)",
+      "Security Police (Air Force)",
+      "Signal Operator Linguist (Air Force)",
+      "Signal Operator Technical (Air Force)"
+    ]
+  },
+  {
+    "id": "441211",
+    "name": "Emergency Service Worker",
+    "altTitles": [
+      "Emergency Response Officer",
+      "Industrial Paramedic"
+    ]
+  },
+  {
+    "id": "441212",
+    "name": "Fire Fighter",
+    "altTitles": [
+      "Fire Engineer (Army)",
+      "Fire Prevention Officer",
+      "Leading Firefighter"
+    ]
+  },
+  {
+    "id": "441311",
+    "name": "Detective",
+    "altTitles": [
+      "Detective Sergeant",
+      "Plain Clothes Police Officer"
+    ]
+  },
+  {
+    "id": "441312",
+    "name": "Police Officer",
+    "altTitles": [
+      "Bomb Squad Officer",
+      "Mounted Police Officer",
+      "Search and Rescue Officer",
+      "Tactical Response Group Officer"
+    ]
+  },
+  {
+    "id": "442111",
+    "name": "Prison Officer",
+    "altTitles": [
+      "Corrections Officer (NZ)",
+      "Correctional Officer (Aus)",
+      "Custodial Officer"
+    ]
+  },
+  {
+    "id": "442211",
+    "name": "Alarm, Security or Surveillance Monitor"
+  },
+  {
+    "id": "442212",
+    "name": "Armoured Car Escort"
+  },
+  {
+    "id": "442213",
+    "name": "Crowd Controller",
+    "altTitles": [
+      "Bouncer"
+    ]
+  },
+  {
+    "id": "442214",
+    "name": "Private Investigator",
+    "altTitles": [
+      "Private Inquiry Agent"
+    ]
+  },
+  {
+    "id": "442215",
+    "name": "Retail Loss Prevention Officer"
+  },
+  {
+    "id": "442216",
+    "name": "Security Consultant"
+  },
+  {
+    "id": "442217",
+    "name": "Security Officer",
+    "altTitles": [
+      "Security Guard",
+      "Mobile Patrol Officer",
+      "Railway Patrol Officer"
+    ]
+  },
+  {
+    "id": "442299",
+    "name": "Security Officers and Guards nec",
+    "altTitles": [
+      "Bodyguard"
+    ]
+  },
+  {
+    "id": "451111",
+    "name": "Beauty Therapist",
+    "altTitles": [
+      "Electrologist (Hair Remover)",
+      "Manicurist",
+      "Nail Technician"
+    ]
+  },
+  {
+    "id": "451211",
+    "name": "Driving Instructor",
+    "altTitles": [
+      "Motorcycle Riding Instructor"
+    ]
+  },
+  {
+    "id": "451311",
+    "name": "Funeral Director",
+    "altTitles": [
+      "Mortician",
+      "Undertaker"
+    ]
+  },
+  {
+    "id": "451399",
+    "name": "Funeral Workers nec",
+    "altTitles": [
+      "Embalmer",
+      "Funeral Director's Assistant"
+    ]
+  },
+  {
+    "id": "451411",
+    "name": "Gallery or Museum Guide",
+    "altTitles": [
+      "Gallery or Museum Attendant"
+    ]
+  },
+  {
+    "id": "451412",
+    "name": "Tour Guide",
+    "altTitles": [
+      "Tour Escort",
+      "Tour Leader",
+      "Regional Guide"
+    ]
+  },
+  {
+    "id": "451511",
+    "name": "Natural Remedy Consultant",
+    "altTitles": [
+      "Aromatherapist",
+      "Holistic Pulser",
+      "Iridologist",
+      "Kinesiologist",
+      "Reflexologist"
+    ]
+  },
+  {
+    "id": "451512",
+    "name": "Weight Loss Consultant"
+  },
+  {
+    "id": "451513",
+    "name": "Herbalist (Western)"
+  },
+  {
+    "id": "451611",
+    "name": "Tourist Information Officer",
+    "altTitles": [
+      "Tourist Adviser"
+    ]
+  },
+  {
+    "id": "451612",
+    "name": "Travel Consultant",
+    "altTitles": [
+      "Travel Agent",
+      "Business Travel Consultant",
+      "Domestic Travel Consultant",
+      "International Travel Consultant"
+    ]
+  },
+  {
+    "id": "451711",
+    "name": "Flight Attendant",
+    "altTitles": [
+      "Cabin Crew",
+      "Cabin Supervisor (Aircraft)",
+      "Crew Attendant (Air Force)"
+    ]
+  },
+  {
+    "id": "451799",
+    "name": "Travel Attendants nec",
+    "altTitles": [
+      "Marine Steward"
+    ]
+  },
+  {
+    "id": "451811",
+    "name": "Civil Celebrant"
+  },
+  {
+    "id": "451812",
+    "name": "Hair or Beauty Salon Assistant"
+  },
+  {
+    "id": "451813",
+    "name": "Sex Worker or Escort",
+    "altTitles": [
+      "Prostitute",
+      "Dominatrix",
+      "Telephone Sex Worker"
+    ]
+  },
+  {
+    "id": "451814",
+    "name": "Body Artist",
+    "altTitles": [
+      "Body Piercer",
+      "Tattooist"
+    ]
+  },
+  {
+    "id": "451815",
+    "name": "First Aid Trainer",
+    "altTitles": [
+      "First Aid Instructor"
+    ]
+  },
+  {
+    "id": "451816",
+    "name": "Religious Assistant",
+    "altTitles": [
+      "Pastoral Worker"
+    ]
+  },
+  {
+    "id": "451899",
+    "name": "Personal Service Workers nec",
+    "altTitles": [
+      "Astrologer",
+      "Bus Escort",
+      "Butler",
+      "Dog Walker",
+      "First Aid Officer",
+      "Horse Racing Analyst"
+    ]
+  },
+  {
+    "id": "452111",
+    "name": "Fitness Instructor",
+    "altTitles": [
+      "Aerobics Instructor",
+      "Gym Instructor",
+      "Physical Fitness Trainer"
+    ]
+  },
+  {
+    "id": "452211",
+    "name": "Bungy Jump Master"
+  },
+  {
+    "id": "452212",
+    "name": "Fishing Guide",
+    "altTitles": [
+      "Fly Fishing Guide",
+      "Ocean Fishing Guide"
+    ]
+  },
+  {
+    "id": "452213",
+    "name": "Hunting Guide"
+  },
+  {
+    "id": "452214",
+    "name": "Mountain or Glacier Guide",
+    "altTitles": [
+      "Climbing Guide",
+      "Ski Guide"
+    ]
+  },
+  {
+    "id": "452215",
+    "name": "Outdoor Adventure Instructor",
+    "altTitles": [
+      "Outdoor Adventure Leader",
+      "Abseiling Instructor",
+      "Adventure Challenge Instructor",
+      "Hang-gliding Instructor",
+      "Outdoor Education Teacher",
+      "Outdoor Pursuits Instructor",
+      "Paragliding Instructor",
+      "Rock Climbing Instructor"
+    ]
+  },
+  {
+    "id": "452216",
+    "name": "Trekking Guide",
+    "altTitles": [
+      "Bushwalking Guide"
+    ]
+  },
+  {
+    "id": "452217",
+    "name": "Whitewater Rafting Guide"
+  },
+  {
+    "id": "452299",
+    "name": "Outdoor Adventure Guides nec",
+    "altTitles": [
+      "Caving Guide",
+      "Cycle Touring Guide",
+      "Horse Trekking Guide",
+      "Sea Kayaking Guide",
+      "Skydiving Instructor"
+    ]
+  },
+  {
+    "id": "452311",
+    "name": "Diving Instructor (Open Water)",
+    "altTitles": [
+      "Dive Master",
+      "Scuba Instructor",
+      "Snorkelling Instructor",
+      "Surface Supply Breathing Apparatus (SSBA) Instructor"
+    ]
+  },
+  {
+    "id": "452312",
+    "name": "Gymnastics Coach or Instructor",
+    "altTitles": [
+      "Callisthenics Instructor",
+      "Rhythmic Gymnastics Coach"
+    ]
+  },
+  {
+    "id": "452313",
+    "name": "Horse Riding Coach or Instructor",
+    "altTitles": [
+      "Dressage Instructor",
+      "Polo Coach",
+      "Show Jumping Instructor"
+    ]
+  },
+  {
+    "id": "452314",
+    "name": "Snowsport Instructor",
+    "altTitles": [
+      "Skiing Instructor",
+      "Snowboarding Instructor"
+    ]
+  },
+  {
+    "id": "452315",
+    "name": "Swimming Coach or Instructor",
+    "altTitles": [
+      "Diving Coach",
+      "Learn to Swim Instructor"
+    ]
+  },
+  {
+    "id": "452316",
+    "name": "Tennis Coach"
+  },
+  {
+    "id": "452317",
+    "name": "Other Sports Coach or Instructor",
+    "altTitles": [
+      "Basketball Coach",
+      "Cricket Coach",
+      "Football Coach",
+      "Martial Arts Instructor",
+      "Sports Trainer",
+      "Windsurfing Instructor"
+    ]
+  },
+  {
+    "id": "452318",
+    "name": "Dog or Horse Racing Official",
+    "altTitles": [
+      "Race Steward",
+      "Handicapper (Racing)"
+    ]
+  },
+  {
+    "id": "452321",
+    "name": "Sports Development Officer"
+  },
+  {
+    "id": "452322",
+    "name": "Sports Umpire",
+    "altTitles": [
+      "Referee",
+      "Linesperson (Sport)"
+    ]
+  },
+  {
+    "id": "452323",
+    "name": "Other Sports Official",
+    "altTitles": [
+      "Timekeeper (Sports)"
+    ]
+  },
+  {
+    "id": "452411",
+    "name": "Footballer",
+    "altTitles": [
+      "Australian Rules Footballer",
+      "Rugby League Footballer",
+      "Rugby Union Footballer",
+      "Soccer Player"
+    ]
+  },
+  {
+    "id": "452412",
+    "name": "Golfer"
+  },
+  {
+    "id": "452413",
+    "name": "Jockey",
+    "altTitles": [
+      "Apprentice Jockey",
+      "Steeplechase Jockey"
+    ]
+  },
+  {
+    "id": "452414",
+    "name": "Lifeguard"
+  },
+  {
+    "id": "452499",
+    "name": "Sportspersons nec",
+    "altTitles": [
+      "Athlete",
+      "Cricketer",
+      "Cyclist",
+      "Racing Driver",
+      "Surfer",
+      "Tennis Player"
+    ]
+  },
+  {
+    "id": "511111",
+    "name": "Contract Administrator",
+    "altTitles": [
+      "Contract Officer"
+    ]
+  },
+  {
+    "id": "511112",
+    "name": "Program or Project Administrator",
+    "altTitles": [
+      "Project Coordinator"
+    ]
+  },
+  {
+    "id": "512111",
+    "name": "Office Manager"
+  },
+  {
+    "id": "512211",
+    "name": "Health Practice Manager",
+    "altTitles": [
+      "Chiropractic Practice Manager",
+      "Dental Practice Manager",
+      "Medical Practice Manager",
+      "Physiotherapy Practice Manager"
+    ]
+  },
+  {
+    "id": "512299",
+    "name": "Practice Managers nec",
+    "altTitles": [
+      "Accounting Practice Manager",
+      "Architectural Practice Manager",
+      "Legal Practice Manager",
+      "Veterinary Practice Manager"
+    ]
+  },
+  {
+    "id": "521111",
+    "name": "Personal Assistant"
+  },
+  {
+    "id": "521211",
+    "name": "Secretary (General)"
+  },
+  {
+    "id": "521212",
+    "name": "Legal Secretary"
+  },
+  {
+    "id": "531111",
+    "name": "General Clerk"
+  },
+  {
+    "id": "532111",
+    "name": "Data Entry Operator",
+    "altTitles": [
+      "Data Processing Operator"
+    ]
+  },
+  {
+    "id": "532112",
+    "name": "Machine Shorthand Reporter",
+    "altTitles": [
+      "Braille Transcriber",
+      "Court Reporter",
+      "Hansard Reporter",
+      "Realtime Reporter",
+      "Stenocaptioner"
+    ]
+  },
+  {
+    "id": "532113",
+    "name": "Word Processing Operator",
+    "altTitles": [
+      "Typist"
+    ]
+  },
+  {
+    "id": "541111",
+    "name": "Call or Contact Centre Team Leader",
+    "altTitles": [
+      "Call Centre Supervisor",
+      "Contact Centre Supervisor",
+      "Call or Contact Centre Coach",
+      "Call or Contact Centre Workforce Planner"
+    ]
+  },
+  {
+    "id": "541112",
+    "name": "Call or Contact Centre Operator"
+  },
+  {
+    "id": "541211",
+    "name": "Information Officer"
+  },
+  {
+    "id": "542111",
+    "name": "Receptionist (General)"
+  },
+  {
+    "id": "542112",
+    "name": "Admissions Clerk",
+    "altTitles": [
+      "Hospital Ward Clerk"
+    ]
+  },
+  {
+    "id": "542113",
+    "name": "Hotel or Motel Receptionist"
+  },
+  {
+    "id": "542114",
+    "name": "Medical Receptionist"
+  },
+  {
+    "id": "551111",
+    "name": "Accounts Clerk",
+    "altTitles": [
+      "Accounts Payable or Receivable Clerk",
+      "Audit Clerk",
+      "Investment Accounting Clerk"
+    ]
+  },
+  {
+    "id": "551112",
+    "name": "Cost Clerk"
+  },
+  {
+    "id": "551211",
+    "name": "Bookkeeper",
+    "altTitles": [
+      "Financial Administration Officer"
+    ]
+  },
+  {
+    "id": "551311",
+    "name": "Payroll Clerk",
+    "altTitles": [
+      "Pay Clerk",
+      "Payroll Officer"
+    ]
+  },
+  {
+    "id": "552111",
+    "name": "Bank Worker"
+  },
+  {
+    "id": "552211",
+    "name": "Credit or Loans Officer (Aus) Finance Clerk (NZ)",
+    "altTitles": [
+      "Lending Consultant",
+      "Loans Consultant",
+      "Loans Officer"
+    ]
+  },
+  {
+    "id": "552311",
+    "name": "Bookmaker"
+  },
+  {
+    "id": "552312",
+    "name": "Insurance Consultant",
+    "altTitles": [
+      "Insurance Clerk",
+      "Health Insurance Assessor",
+      "Superannuation Clerk"
+    ]
+  },
+  {
+    "id": "552313",
+    "name": "Money Market Clerk",
+    "altTitles": [
+      "Scrip Clerk (Stockbroking)",
+      "Securities Clerk"
+    ]
+  },
+  {
+    "id": "552314",
+    "name": "Statistical Clerk",
+    "altTitles": [
+      "Actuarial Clerk"
+    ]
+  },
+  {
+    "id": "561111",
+    "name": "Betting Agency Counter Clerk"
+  },
+  {
+    "id": "561112",
+    "name": "Bookmaker's Clerk",
+    "altTitles": [
+      "Penciller",
+      "Bagman/woman (Aus)"
+    ]
+  },
+  {
+    "id": "561113",
+    "name": "Telephone Betting Clerk"
+  },
+  {
+    "id": "561199",
+    "name": "Betting Clerks nec",
+    "altTitles": [
+      "Bingo Caller",
+      "Keno Terminal Operator"
+    ]
+  },
+  {
+    "id": "561211",
+    "name": "Courier",
+    "altTitles": [
+      "Bicycle Courier",
+      "Motorbike Courier",
+      "Parcel Contractor",
+      "Rural Mail Contractor"
+    ]
+  },
+  {
+    "id": "561212",
+    "name": "Postal Delivery Officer",
+    "altTitles": [
+      "Postie"
+    ]
+  },
+  {
+    "id": "561311",
+    "name": "Filing or Registry Clerk",
+    "altTitles": [
+      "Records Clerk",
+      "Medical Record Clerk"
+    ]
+  },
+  {
+    "id": "561411",
+    "name": "Mail Clerk",
+    "altTitles": [
+      "Mail Officer"
+    ]
+  },
+  {
+    "id": "561412",
+    "name": "Postal Sorting Officer",
+    "altTitles": [
+      "Parcel Post Officer"
+    ]
+  },
+  {
+    "id": "561511",
+    "name": "Survey Interviewer",
+    "altTitles": [
+      "Interviewer",
+      "Market Research Interviewer"
+    ]
+  },
+  {
+    "id": "561611",
+    "name": "Switchboard Operator",
+    "altTitles": [
+      "Telephone Operator"
+    ]
+  },
+  {
+    "id": "561911",
+    "name": "Classified Advertising Clerk"
+  },
+  {
+    "id": "561912",
+    "name": "Meter Reader"
+  },
+  {
+    "id": "561913",
+    "name": "Parking Inspector"
+  },
+  {
+    "id": "561999",
+    "name": "Clerical and Office Support Workers nec",
+    "altTitles": [
+      "Cash Processor (Aus)",
+      "Media Monitor (Aus)"
+    ]
+  },
+  {
+    "id": "591112",
+    "name": "Production Clerk",
+    "altTitles": [
+      "Production Recorder",
+      "Schedule Clerk",
+      "Delivery Clerk",
+      "Logistics Clerk"
+    ]
+  },
+  {
+    "id": "591113",
+    "name": "Purchasing Officer",
+    "altTitles": [
+      "Procurement Officer"
+    ]
+  },
+  {
+    "id": "591115",
+    "name": "Stock Clerk",
+    "altTitles": [
+      "Stock Control Clerk",
+      "Stores Clerk",
+      "Inventory Clerk",
+      "Supply Clerk"
+    ]
+  },
+  {
+    "id": "591116",
+    "name": "Warehouse Administrator"
+  },
+  {
+    "id": "591117",
+    "name": "Order Clerk",
+    "altTitles": [
+      "Customer Orders Clerk",
+      "Sales Order Clerk",
+      "Internal Salesperson (Aus)",
+      "Mail Order Clerk"
+    ]
+  },
+  {
+    "id": "591211",
+    "name": "Despatching and Receiving Clerk",
+    "altTitles": [
+      "Despatch Clerk",
+      "Freight Clerk",
+      "Aircraft Load Controller",
+      "Shipping and Receiving Clerk",
+      "Truck Despatcher"
+    ]
+  },
+  {
+    "id": "591212",
+    "name": "Import-Export Clerk",
+    "altTitles": [
+      "Customs Broker",
+      "Bond Clerk",
+      "Customs Agent",
+      "Wharf Tally Clerk"
+    ]
+  },
+  {
+    "id": "599111",
+    "name": "Conveyancer",
+    "altTitles": [
+      "Settlement Agent"
+    ]
+  },
+  {
+    "id": "599112",
+    "name": "Legal Executive"
+  },
+  {
+    "id": "599211",
+    "name": "Clerk of Court"
+  },
+  {
+    "id": "599212",
+    "name": "Court Bailiff or Sheriff (Aus) Court Collections Officer (NZ)",
+    "altTitles": [
+      "Sheriff's Officer (Aus)"
+    ]
+  },
+  {
+    "id": "599213",
+    "name": "Court Orderly (Aus) Court Registry Officer (NZ)",
+    "altTitles": [
+      "Court Attendant",
+      "Court Officer",
+      "Court Usher"
+    ]
+  },
+  {
+    "id": "599214",
+    "name": "Law Clerk",
+    "altTitles": [
+      "Legal Clerk"
+    ]
+  },
+  {
+    "id": "599215",
+    "name": "Trust Officer",
+    "altTitles": [
+      "Trust Clerk"
+    ]
+  },
+  {
+    "id": "599311",
+    "name": "Debt Collector",
+    "altTitles": [
+      "Debt Recovery Officer",
+      "Mercantile Agent (Aus)",
+      "Collection Agent",
+      "Collection Officer",
+      "Repossession Agent"
+    ]
+  },
+  {
+    "id": "599411",
+    "name": "Human Resource Clerk",
+    "altTitles": [
+      "Employment Office Clerk",
+      "Human Resources Records Clerk",
+      "Personnel Records Clerk",
+      "Psychological Examiner (Army)",
+      "Roster Clerk"
+    ]
+  },
+  {
+    "id": "599511",
+    "name": "Customs Officer",
+    "altTitles": [
+      "Customs Inspector",
+      "Customs Investigator"
+    ]
+  },
+  {
+    "id": "599512",
+    "name": "Immigration Officer"
+  },
+  {
+    "id": "599513",
+    "name": "Motor Vehicle Licence Examiner"
+  },
+  {
+    "id": "599514",
+    "name": "Noxious Weeds and Pest Inspector",
+    "altTitles": [
+      "Biosecurity Officer (Weeds and Pests)"
+    ]
+  },
+  {
+    "id": "599515",
+    "name": "Social Security Assessor"
+  },
+  {
+    "id": "599516",
+    "name": "Taxation Inspector"
+  },
+  {
+    "id": "599517",
+    "name": "Train Examiner",
+    "altTitles": [
+      "Locomotive Inspector"
+    ]
+  },
+  {
+    "id": "599518",
+    "name": "Transport Operations Inspector",
+    "altTitles": [
+      "Bus Inspector",
+      "Tram Inspector"
+    ]
+  },
+  {
+    "id": "599521",
+    "name": "Water Inspector",
+    "altTitles": [
+      "Boring Inspector",
+      "Stream Control Officer"
+    ]
+  },
+  {
+    "id": "599599",
+    "name": "Inspectors and Regulatory Officers nec",
+    "altTitles": [
+      "Dog Catcher",
+      "Technician Preventative Medicine (Army)",
+      "Trade Mark Examiner (Aus)",
+      "Travel Accommodation Inspector",
+      "Weights and Measures Inspector"
+    ]
+  },
+  {
+    "id": "599611",
+    "name": "Insurance Investigator"
+  },
+  {
+    "id": "599612",
+    "name": "Insurance Loss Adjuster",
+    "altTitles": [
+      "Insurance Loss Assessor"
+    ]
+  },
+  {
+    "id": "599613",
+    "name": "Insurance Risk Surveyor"
+  },
+  {
+    "id": "599711",
+    "name": "Library Assistant",
+    "altTitles": [
+      "Library Attendant",
+      "Library Clerk"
+    ]
+  },
+  {
+    "id": "599912",
+    "name": "Production Assistant (Film, Television, Radio or Stage)"
+  },
+  {
+    "id": "599913",
+    "name": "Proof Reader"
+  },
+  {
+    "id": "599914",
+    "name": "Radio Despatcher",
+    "altTitles": [
+      "Communications Controller",
+      "Control Room Operator"
+    ]
+  },
+  {
+    "id": "599915",
+    "name": "Clinical Coder"
+  },
+  {
+    "id": "599916",
+    "name": "Facilities Administrator",
+    "altTitles": [
+      "Facilities Assistant",
+      "Facilities Coordinator",
+      "Facilities Officer"
+    ]
+  },
+  {
+    "id": "599999",
+    "name": "Clerical and Administrative Workers nec",
+    "altTitles": [
+      "Coding Clerk",
+      "Examination Supervisor",
+      "Train Planner",
+      "Travel Clerk"
+    ]
+  },
+  {
+    "id": "611111",
+    "name": "Auctioneer"
+  },
+  {
+    "id": "611112",
+    "name": "Stock and Station Agent"
+  },
+  {
+    "id": "611211",
+    "name": "Insurance Agent",
+    "altTitles": [
+      "Insurance Underwriter",
+      "Life Assurance Representative"
+    ]
+  },
+  {
+    "id": "611311",
+    "name": "Sales Representative (Building and Plumbing Supplies)"
+  },
+  {
+    "id": "611312",
+    "name": "Sales Representative (Business Services)",
+    "altTitles": [
+      "Sales Representative (Advertising)",
+      "Sales Representative (Printing)"
+    ]
+  },
+  {
+    "id": "611313",
+    "name": "Sales Representative (Motor Vehicle Parts and Accessories)"
+  },
+  {
+    "id": "611314",
+    "name": "Sales Representative (Personal and Household Goods)"
+  },
+  {
+    "id": "611399",
+    "name": "Sales Representatives nec",
+    "altTitles": [
+      "Sales Representative (Jewellery and Watches)",
+      "Sales Representative (Musical Goods)",
+      "Sales Representative (Photographic Equipment and Supplies)"
+    ]
+  },
+  {
+    "id": "612111",
+    "name": "Business Broker",
+    "altTitles": [
+      "Business Agent",
+      "Franchise Broker"
+    ]
+  },
+  {
+    "id": "612112",
+    "name": "Property Manager",
+    "altTitles": [
+      "Body Corporate Manager"
+    ]
+  },
+  {
+    "id": "612113",
+    "name": "Real Estate Agency Principal (Aus) Real Estate Agency Licensee (NZ)"
+  },
+  {
+    "id": "612114",
+    "name": "Real Estate Agent"
+  },
+  {
+    "id": "612115",
+    "name": "Real Estate Representative",
+    "altTitles": [
+      "Real Estate Salesperson",
+      "Real Estate Subagent",
+      "Property Portfolio Officer"
+    ]
+  },
+  {
+    "id": "621111",
+    "name": "Sales Assistant (General)",
+    "altTitles": [
+      "Retail Sales Assistant",
+      "Clothing Sales Assistant",
+      "Cosmetic Sales Assistant",
+      "Fast Food Sales Assistant",
+      "Hardware Sales Assistant"
+    ]
+  },
+  {
+    "id": "621211",
+    "name": "ICT Sales Assistant",
+    "altTitles": [
+      "Mobile Phone Salesperson"
+    ]
+  },
+  {
+    "id": "621311",
+    "name": "Motor Vehicle or Caravan Salesperson",
+    "altTitles": [
+      "Motor Vehicle Salesperson",
+      "Fleet Salesperson"
+    ]
+  },
+  {
+    "id": "621312",
+    "name": "Motor Vehicle Parts Interpreter (Aus) Automotive Parts Salesperson (NZ)",
+    "altTitles": [
+      "Automotive Parts Interpreter"
+    ]
+  },
+  {
+    "id": "621411",
+    "name": "Pharmacy Sales Assistant"
+  },
+  {
+    "id": "621511",
+    "name": "Retail Supervisor",
+    "altTitles": [
+      "Checkout Supervisor",
+      "Sales Department Supervisor"
+    ]
+  },
+  {
+    "id": "621611",
+    "name": "Service Station Attendant",
+    "altTitles": [
+      "Driveway Attendant"
+    ]
+  },
+  {
+    "id": "621711",
+    "name": "Cash Van Salesperson",
+    "altTitles": [
+      "Ice-cream Van Vendor",
+      "Milk Vendor"
+    ]
+  },
+  {
+    "id": "621712",
+    "name": "Door-to-door Salesperson",
+    "altTitles": [
+      "Door-to-door Fundraising Collector",
+      "Party Plan Salesperson"
+    ]
+  },
+  {
+    "id": "621713",
+    "name": "Street Vendor",
+    "altTitles": [
+      "Market Stall Vendor"
+    ]
+  },
+  {
+    "id": "621911",
+    "name": "Materials Recycler",
+    "altTitles": [
+      "Scrap Materials Buyer",
+      "Automotive Dismantler",
+      "Bottle Dealer",
+      "Waste Recycler"
+    ]
+  },
+  {
+    "id": "621912",
+    "name": "Rental Salesperson",
+    "altTitles": [
+      "Rental Clerk",
+      "Car Rental Sales Assistant",
+      "Industrial Hire Sales Assistant",
+      "Video Library Assistant"
+    ]
+  },
+  {
+    "id": "621999",
+    "name": "Sales Assistants and Salespersons nec",
+    "altTitles": [
+      "Carpet Measurer",
+      "Lotteries Agent",
+      "Swimming Pool Salesperson"
+    ]
+  },
+  {
+    "id": "631111",
+    "name": "Checkout Operator",
+    "altTitles": [
+      "Service Station Console Operator"
+    ]
+  },
+  {
+    "id": "631112",
+    "name": "Office Cashier",
+    "altTitles": [
+      "Cashier"
+    ]
+  },
+  {
+    "id": "639111",
+    "name": "Model"
+  },
+  {
+    "id": "639112",
+    "name": "Sales Demonstrator",
+    "altTitles": [
+      "Merchandiser"
+    ]
+  },
+  {
+    "id": "639211",
+    "name": "Retail Buyer",
+    "altTitles": [
+      "Merchandise Planner"
+    ]
+  },
+  {
+    "id": "639212",
+    "name": "Wool Buyer"
+  },
+  {
+    "id": "639311",
+    "name": "Telemarketer"
+  },
+  {
+    "id": "639411",
+    "name": "Ticket Seller",
+    "altTitles": [
+      "Booking Clerk",
+      "Reservations Clerk"
+    ]
+  },
+  {
+    "id": "639412",
+    "name": "Transport Conductor"
+  },
+  {
+    "id": "639511",
+    "name": "Visual Merchandiser",
+    "altTitles": [
+      "Window Dresser"
+    ]
+  },
+  {
+    "id": "639911",
+    "name": "Other Sales Support Worker",
+    "altTitles": [
+      "Mystery Shopper",
+      "Personal Shopper"
+    ]
+  },
+  {
+    "id": "711111",
+    "name": "Clay Products Machine Operator",
+    "altTitles": [
+      "Brick Extruder Operator",
+      "Porcelain Turner",
+      "Slip Caster"
+    ]
+  },
+  {
+    "id": "711112",
+    "name": "Concrete Products Machine Operator",
+    "altTitles": [
+      "Concrete Pipe Machine Operator",
+      "Concrete Precast Moulder",
+      "Concrete Tile Machine Operator"
+    ]
+  },
+  {
+    "id": "711113",
+    "name": "Glass Production Machine Operator",
+    "altTitles": [
+      "Glass Furnace Operator",
+      "Glass Laminating Operator",
+      "Glass Maker",
+      "Glass Melt Operator",
+      "Glass Toughening Operator",
+      "Glassware Maker"
+    ]
+  },
+  {
+    "id": "711114",
+    "name": "Stone Processing Machine Operator",
+    "altTitles": [
+      "Marble Cutter",
+      "Stone Polisher",
+      "Stone Sawyer"
+    ]
+  },
+  {
+    "id": "711199",
+    "name": "Clay, Concrete, Glass and Stone Processing Machine Operators nec",
+    "altTitles": [
+      "Brake Lining Maker",
+      "Fibre Cement Moulder",
+      "Plaster Caster",
+      "Plaster Machine Operator"
+    ]
+  },
+  {
+    "id": "711211",
+    "name": "Industrial Spraypainter",
+    "altTitles": [
+      "Powder Coater",
+      "Rust Proofer"
+    ]
+  },
+  {
+    "id": "711311",
+    "name": "Paper Products Machine Operator",
+    "altTitles": [
+      "Carton Making Machinist",
+      "Embosser",
+      "Paper Bag Making Machinist"
+    ]
+  },
+  {
+    "id": "711313",
+    "name": "Sawmilling Operator",
+    "altTitles": [
+      "Sawmiller",
+      "Band Saw Operator",
+      "Beam Saw Operator",
+      "Cant Gang Sawyer",
+      "Resawyer",
+      "Ripsaw Operator"
+    ]
+  },
+  {
+    "id": "711314",
+    "name": "Other Wood Processing Machine Operator",
+    "altTitles": [
+      "Debarker Operator",
+      "Docking Saw Operator",
+      "Log Preparer",
+      "Plywood and Veneer Repairer",
+      "Sawmill Moulder Operator",
+      "Veneer Production Machine Operator"
+    ]
+  },
+  {
+    "id": "711411",
+    "name": "Photographic Developer and Printer",
+    "altTitles": [
+      "Copy Camera Operator",
+      "Dark Room Attendant",
+      "Digital Photographic Printer",
+      "Film Process Operator",
+      "Minilab Operator",
+      "Photographic Enlarger Operator",
+      "Silver Recovery Operator (Aus)",
+      "Slide Developer"
+    ]
+  },
+  {
+    "id": "711511",
+    "name": "Plastic Cablemaking Machine Operator",
+    "altTitles": [
+      "Insulation Extruder Operator",
+      "Optic Fibre Drawer",
+      "Wire Drawer (Plastics)"
+    ]
+  },
+  {
+    "id": "711512",
+    "name": "Plastic Compounding and Reclamation Machine Operator",
+    "altTitles": [
+      "Pelletising Extruder Operator",
+      "Powder Hand (Plastics)",
+      "Shredder/Granulator Operator"
+    ]
+  },
+  {
+    "id": "711513",
+    "name": "Plastics Fabricator or Welder",
+    "altTitles": [
+      "Acrylic Fabricator",
+      "Vinyl Welder and Fabricator"
+    ]
+  },
+  {
+    "id": "711514",
+    "name": "Plastics Production Machine Operator (General)",
+    "altTitles": [
+      "Blow Moulding Machine Operator",
+      "Extruding Machine Operator (Plastics)",
+      "Injection Moulding Machine Operator (Plastics)",
+      "Lamination Machine Operator",
+      "Plastic Production Machine Setter",
+      "Rotational Moulding Operator (Plastics)"
+    ]
+  },
+  {
+    "id": "711515",
+    "name": "Reinforced Plastic and Composite Production Worker",
+    "altTitles": [
+      "Fibreglass Gun Hand",
+      "Fibreglass Laminator",
+      "Resin Transfer Moulding Machine Operator"
+    ]
+  },
+  {
+    "id": "711516",
+    "name": "Rubber Production Machine Operator",
+    "altTitles": [
+      "Rubber Belt Splicer",
+      "Rubber Compounder",
+      "Rubber Extrusion Machine Operator",
+      "Rubber Knitting and Reinforcing Machine Operator",
+      "Rubber Moulding Machine Operator",
+      "Rubber Roller Grinder Operator",
+      "Tyre Builder",
+      "Tyre Retreader"
+    ]
+  },
+  {
+    "id": "711599",
+    "name": "Plastics and Rubber Production Machine Operators nec",
+    "altTitles": [
+      "Thermoforming Machine Operator"
+    ]
+  },
+  {
+    "id": "711611",
+    "name": "Sewing Machinist",
+    "altTitles": [
+      "Embroiderer"
+    ]
+  },
+  {
+    "id": "711711",
+    "name": "Footwear Production Machine Operator",
+    "altTitles": [
+      "Shoemaking Cutter",
+      "Shoemaking Finisher"
+    ]
+  },
+  {
+    "id": "711712",
+    "name": "Hide and Skin Processing Machine Operator",
+    "altTitles": [
+      "Leather Production Machine Operator",
+      "Fellmongering Machine Operator",
+      "Hide and Skin Fleshing Machine Operator",
+      "Sammying Machine Operator",
+      "Tanner"
+    ]
+  },
+  {
+    "id": "711713",
+    "name": "Knitting Machine Operator",
+    "altTitles": [
+      "Textile Knitter",
+      "Flat Bed Knitter",
+      "Warp Knitter"
+    ]
+  },
+  {
+    "id": "711714",
+    "name": "Textile Dyeing and Finishing Machine Operator",
+    "altTitles": [
+      "Textile Dyer",
+      "Textile Finisher"
+    ]
+  },
+  {
+    "id": "711715",
+    "name": "Weaving Machine Operator",
+    "altTitles": [
+      "Loom Operator",
+      "Beamer",
+      "Carpet Weaver",
+      "Warper"
+    ]
+  },
+  {
+    "id": "711716",
+    "name": "Yarn Carding and Spinning Machine Operator",
+    "altTitles": [
+      "Cotton Ginner",
+      "Gill Box Operator",
+      "Yarn Comber",
+      "Yarn Texture Machine Operator"
+    ]
+  },
+  {
+    "id": "711799",
+    "name": "Textile and Footwear Production Machine Operators nec",
+    "altTitles": [
+      "Feltmaker",
+      "Net Maker",
+      "Rope Making Machine Operator",
+      "Tufting Machine Operator"
+    ]
+  },
+  {
+    "id": "711911",
+    "name": "Chemical Production Machine Operator",
+    "altTitles": [
+      "Bullet Maker",
+      "Candle Maker",
+      "Cosmetics Machine Operator",
+      "Explosives Mixer Operator",
+      "Nitrocellulose Maker",
+      "Paint Tinter",
+      "Tablet Making Machine Operator"
+    ]
+  },
+  {
+    "id": "711912",
+    "name": "Motion Picture Projectionist"
+  },
+  {
+    "id": "711913",
+    "name": "Sand Blaster"
+  },
+  {
+    "id": "711914",
+    "name": "Sterilisation Technician"
+  },
+  {
+    "id": "711999",
+    "name": "Machine Operators nec",
+    "altTitles": [
+      "Amusement Ride Operator",
+      "Asbestos Remover",
+      "Brush Maker",
+      "Film Cutter",
+      "Pressurised Container Filler",
+      "Remotely Operated Vehicle (ROV) Pilot",
+      "Venetian Blind Machine Operator"
+    ]
+  },
+  {
+    "id": "712111",
+    "name": "Crane, Hoist or Lift Operator",
+    "altTitles": [
+      "Chairlift Operator",
+      "Cherry Picker Operator",
+      "Elevated Work Platform Operator",
+      "Pile Driver",
+      "Portainer Operator",
+      "Tower Crane Operator",
+      "Winch Operator"
+    ]
+  },
+  {
+    "id": "712211",
+    "name": "Driller",
+    "altTitles": [
+      "Drilling Plant Operator",
+      "Directional Driller",
+      "Exploration Driller",
+      "Jumbo Operator",
+      "Power Tong Operator",
+      "Raise Drill Operator",
+      "Rig Manager",
+      "Rock Drill Operator",
+      "Stope Miner",
+      "Tool Pusher"
+    ]
+  },
+  {
+    "id": "712212",
+    "name": "Miner",
+    "altTitles": [
+      "Mining Plant Operator",
+      "Bogger Operator",
+      "Coal Cutter",
+      "Dragline Operator",
+      "Opal Miner",
+      "Underground Truck Operator"
+    ]
+  },
+  {
+    "id": "712213",
+    "name": "Shot Firer",
+    "altTitles": [
+      "Powder Monkey (Aus)"
+    ]
+  },
+  {
+    "id": "712311",
+    "name": "Engineering Production Worker",
+    "altTitles": [
+      "Alumina Refinery Operator",
+      "Arc Welder",
+      "Brake Press Operator",
+      "Computer Numeric Control Machine Operator",
+      "Foundry Operator",
+      "Furnace Operator (Metals)",
+      "Kiln Operator (Metals)",
+      "Metal Rolling Mill Operator",
+      "Sheetmetal Worker (Second Class)",
+      "Tool Setter",
+      "Turret Punch Operator"
+    ]
+  },
+  {
+    "id": "712911",
+    "name": "Boiler or Engine Operator",
+    "altTitles": [
+      "Airconditioning Plant Operator",
+      "Marine Engine Driver",
+      "Motorman/woman (Fluids Drilling)",
+      "Refrigeration Plant Operator"
+    ]
+  },
+  {
+    "id": "712912",
+    "name": "Bulk Materials Handling Plant Operator",
+    "altTitles": [
+      "Bulk Fluids Handler",
+      "Conveyor Belt Operator",
+      "Grain Handler",
+      "Palletiser Operator",
+      "Tank Farm Operator (Petroleum)"
+    ]
+  },
+  {
+    "id": "712913",
+    "name": "Cement Production Plant Operator",
+    "altTitles": [
+      "Cement Crusher Operator",
+      "Cement Despatch Operator",
+      "Cement Grinding Mill Operator",
+      "Cement Kiln Operator"
+    ]
+  },
+  {
+    "id": "712914",
+    "name": "Concrete Batching Plant Operator",
+    "altTitles": [
+      "Premix Concrete Batcher"
+    ]
+  },
+  {
+    "id": "712915",
+    "name": "Concrete Pump Operator",
+    "altTitles": [
+      "Concrete Boom Operator"
+    ]
+  },
+  {
+    "id": "712916",
+    "name": "Paper and Pulp Mill Operator",
+    "altTitles": [
+      "Paper Machine Operator",
+      "Paper Maker",
+      "Bleach Plant Operator",
+      "Dryerman/woman (Paper Mill)",
+      "Fourdrinier Machine Operator",
+      "Inverform Machine Operator",
+      "Paper Rewinder Operator",
+      "Paperboard Machine Operator"
+    ]
+  },
+  {
+    "id": "712917",
+    "name": "Railway Signal Operator",
+    "altTitles": [
+      "Railway Switching and Signalling Operator",
+      "Railway Shunter",
+      "Railway Yard Assistant"
+    ]
+  },
+  {
+    "id": "712918",
+    "name": "Train Controller"
+  },
+  {
+    "id": "712921",
+    "name": "Waste Water or Water Plant Operator"
+  },
+  {
+    "id": "712922",
+    "name": "Weighbridge Operator",
+    "altTitles": [
+      "Licensed Weigher"
+    ]
+  },
+  {
+    "id": "712999",
+    "name": "Stationary Plant Operators nec",
+    "altTitles": [
+      "Air Compressor Operator",
+      "Beverage Distiller",
+      "Bitumen Plant Operator",
+      "Crematorium Operator",
+      "Lock Master (Water Transport)",
+      "Snow Maker",
+      "Timber Treatment Plant Operator",
+      "Wash Plant Operator"
+    ]
+  },
+  {
+    "id": "721111",
+    "name": "Agricultural and Horticultural Mobile Plant Operator",
+    "altTitles": [
+      "Cotton Picking Machine Operator (Aus)",
+      "Harvester Operator",
+      "Tractor Operator"
+    ]
+  },
+  {
+    "id": "721112",
+    "name": "Logging Plant Operator",
+    "altTitles": [
+      "Forwarder Operator",
+      "Skidder Operator",
+      "Tree Feller Operator"
+    ]
+  },
+  {
+    "id": "721211",
+    "name": "Earthmoving Plant Operator (General)",
+    "altTitles": [
+      "Construction Plant Operator (General)"
+    ]
+  },
+  {
+    "id": "721212",
+    "name": "Backhoe Operator"
+  },
+  {
+    "id": "721213",
+    "name": "Bulldozer Operator",
+    "altTitles": [
+      "Scraper Operator (Earthmoving)"
+    ]
+  },
+  {
+    "id": "721214",
+    "name": "Excavator Operator",
+    "altTitles": [
+      "Hydraulic Rockbreaker Operator",
+      "Trench Digging Machine Operator"
+    ]
+  },
+  {
+    "id": "721215",
+    "name": "Grader Operator"
+  },
+  {
+    "id": "721216",
+    "name": "Loader Operator",
+    "altTitles": [
+      "Bobcat Operator",
+      "Front-end Loader Operator"
+    ]
+  },
+  {
+    "id": "721311",
+    "name": "Forklift Driver",
+    "altTitles": [
+      "Fork Truck Operator",
+      "Forklift Operator",
+      "Reach Truck Operator"
+    ]
+  },
+  {
+    "id": "721911",
+    "name": "Aircraft Baggage Handler and Airline Ground Crew",
+    "altTitles": [
+      "Ramp Agent"
+    ]
+  },
+  {
+    "id": "721912",
+    "name": "Linemarker",
+    "altTitles": [
+      "Road Marker"
+    ]
+  },
+  {
+    "id": "721913",
+    "name": "Paving Plant Operator"
+  },
+  {
+    "id": "721914",
+    "name": "Railway Track Plant Operator"
+  },
+  {
+    "id": "721915",
+    "name": "Road Roller Operator"
+  },
+  {
+    "id": "721916",
+    "name": "Streetsweeper Operator"
+  },
+  {
+    "id": "721999",
+    "name": "Mobile Plant Operators nec",
+    "altTitles": [
+      "Cable Ferry Operator",
+      "Dredge Operator",
+      "Mulcher Operator",
+      "Snow Groomer",
+      "Straddle Carrier Operator",
+      "Tunneller"
+    ]
+  },
+  {
+    "id": "731111",
+    "name": "Chauffeur",
+    "altTitles": [
+      "Hire Car Driver",
+      "Limousine Driver"
+    ]
+  },
+  {
+    "id": "731112",
+    "name": "Taxi Driver"
+  },
+  {
+    "id": "731199",
+    "name": "Automobile Drivers nec",
+    "altTitles": [
+      "Oversize Load Pilot Escort",
+      "Rental Car Ferry Driver"
+    ]
+  },
+  {
+    "id": "731211",
+    "name": "Bus Driver",
+    "altTitles": [
+      "Minibus Driver",
+      "School Bus Driver"
+    ]
+  },
+  {
+    "id": "731212",
+    "name": "Charter and Tour Bus Driver",
+    "altTitles": [
+      "Coach Tour Driver"
+    ]
+  },
+  {
+    "id": "731213",
+    "name": "Passenger Coach Driver"
+  },
+  {
+    "id": "731311",
+    "name": "Train Driver",
+    "altTitles": [
+      "Locomotive Driver",
+      "Electric Train Driver",
+      "Fireperson (Railway)",
+      "Locomotive Observer",
+      "Rail Car Driver",
+      "Steam Train Driver"
+    ]
+  },
+  {
+    "id": "731312",
+    "name": "Tram Driver"
+  },
+  {
+    "id": "732111",
+    "name": "Delivery Driver",
+    "altTitles": [
+      "Van Driver",
+      "Fast Food Delivery Driver",
+      "Grocery Deliverer",
+      "Meals on Wheels Driver",
+      "Taxi Truck Driver"
+    ]
+  },
+  {
+    "id": "733111",
+    "name": "Truck Driver (General)",
+    "altTitles": [
+      "Cement Mixer Driver",
+      "Compactor Driver (Rubbish Collection)",
+      "Haulpak Driver",
+      "Kaitaraiwa Taraka (NZ)",
+      "Livestock Haulier",
+      "Logging Truck Driver",
+      "Road Train Driver",
+      "Tilt Tray Driver"
+    ]
+  },
+  {
+    "id": "733112",
+    "name": "Aircraft Refueller",
+    "altTitles": [
+      "Ground Crewman Aircraft Support (Army)"
+    ]
+  },
+  {
+    "id": "733113",
+    "name": "Furniture Removalist",
+    "altTitles": [
+      "Office Mover"
+    ]
+  },
+  {
+    "id": "733114",
+    "name": "Tanker Driver",
+    "altTitles": [
+      "Milk Tanker Driver",
+      "Petrol Tanker Driver",
+      "Water Tanker Driver"
+    ]
+  },
+  {
+    "id": "733115",
+    "name": "Tow Truck Driver",
+    "altTitles": [
+      "Mechanic Recovery (Army)"
+    ]
+  },
+  {
+    "id": "741111",
+    "name": "Storeperson",
+    "altTitles": [
+      "Stores Assistant",
+      "Warehouse Assistant",
+      "Chiller Hand",
+      "Manufacturing Storeperson",
+      "Operator Supply (Army)",
+      "Order Picker/Assembler",
+      "Stores Despatch Hand",
+      "Stores Naval (Navy)"
+    ]
+  },
+  {
+    "id": "811111",
+    "name": "Car Detailer",
+    "altTitles": [
+      "Vehicle Detailer"
+    ]
+  },
+  {
+    "id": "811211",
+    "name": "Commercial Cleaner",
+    "altTitles": [
+      "Aircraft Cabin Cleaner",
+      "School Cleaner"
+    ]
+  },
+  {
+    "id": "811311",
+    "name": "Domestic Cleaner"
+  },
+  {
+    "id": "811411",
+    "name": "Commercial Housekeeper"
+  },
+  {
+    "id": "811412",
+    "name": "Domestic Housekeeper"
+  },
+  {
+    "id": "811511",
+    "name": "Laundry Worker (General)",
+    "altTitles": [
+      "Folding Machine Operator",
+      "Linen Sorter"
+    ]
+  },
+  {
+    "id": "811512",
+    "name": "Drycleaner"
+  },
+  {
+    "id": "811513",
+    "name": "Ironer or Presser"
+  },
+  {
+    "id": "811611",
+    "name": "Carpet Cleaner",
+    "altTitles": [
+      "Upholstery Cleaner"
+    ]
+  },
+  {
+    "id": "811612",
+    "name": "Window Cleaner"
+  },
+  {
+    "id": "811699",
+    "name": "Cleaners nec",
+    "altTitles": [
+      "Chimney Sweep",
+      "Graffiti Cleaner",
+      "High Pressure Cleaner",
+      "Swimming Pool Cleaner"
+    ]
+  },
+  {
+    "id": "821111",
+    "name": "Builder's Labourer",
+    "altTitles": [
+      "Construction Worker",
+      "Bricklayer's Assistant",
+      "Carpenter's Assistant",
+      "Tiler's Assistant"
+    ]
+  },
+  {
+    "id": "821112",
+    "name": "Drainage, Sewerage and Stormwater Labourer"
+  },
+  {
+    "id": "821113",
+    "name": "Earthmoving Labourer",
+    "altTitles": [
+      "Grave Digger"
+    ]
+  },
+  {
+    "id": "821114",
+    "name": "Plumber's Assistant"
+  },
+  {
+    "id": "821211",
+    "name": "Concreter",
+    "altTitles": [
+      "Concrete Worker"
+    ]
+  },
+  {
+    "id": "821311",
+    "name": "Fencer",
+    "altTitles": [
+      "Fence Erector"
+    ]
+  },
+  {
+    "id": "821411",
+    "name": "Building Insulation Installer",
+    "altTitles": [
+      "Window Tinter (Building)"
+    ]
+  },
+  {
+    "id": "821412",
+    "name": "Home Improvement Installer",
+    "altTitles": [
+      "Awning Installer",
+      "Carport Erector",
+      "Curtain Fitter",
+      "Security Door Installer",
+      "Shower Screen Installer"
+    ]
+  },
+  {
+    "id": "821511",
+    "name": "Paving and Surfacing Labourer"
+  },
+  {
+    "id": "821611",
+    "name": "Railway Track Worker",
+    "altTitles": [
+      "Track Inspector"
+    ]
+  },
+  {
+    "id": "821711",
+    "name": "Construction Rigger"
+  },
+  {
+    "id": "821712",
+    "name": "Scaffolder"
+  },
+  {
+    "id": "821713",
+    "name": "Steel Fixer"
+  },
+  {
+    "id": "821714",
+    "name": "Structural Steel Erector"
+  },
+  {
+    "id": "821911",
+    "name": "Crane Chaser",
+    "altTitles": [
+      "Dogman/woman",
+      "Slinger"
+    ]
+  },
+  {
+    "id": "821912",
+    "name": "Driller's Assistant",
+    "altTitles": [
+      "Driller's Offsider",
+      "Roustabout (Oil and Gas)",
+      "Derrick Hand",
+      "Roughneck",
+      "Well Treatment Offsider"
+    ]
+  },
+  {
+    "id": "821913",
+    "name": "Lagger"
+  },
+  {
+    "id": "821914",
+    "name": "Mining Support Worker",
+    "altTitles": [
+      "Mineral Ore Processing Labourer",
+      "Pit Crew Support Worker"
+    ]
+  },
+  {
+    "id": "821915",
+    "name": "Surveyor's Assistant",
+    "altTitles": [
+      "Geological Survey Field Assistant",
+      "Seismic Survey Assistant"
+    ]
+  },
+  {
+    "id": "831111",
+    "name": "Baking Factory Worker",
+    "altTitles": [
+      "Biscuit Factory Worker",
+      "Bread Room Hand"
+    ]
+  },
+  {
+    "id": "831112",
+    "name": "Brewery Worker"
+  },
+  {
+    "id": "831113",
+    "name": "Confectionery Maker",
+    "altTitles": [
+      "Chocolate Maker"
+    ]
+  },
+  {
+    "id": "831114",
+    "name": "Dairy Products Maker",
+    "altTitles": [
+      "Butter Maker",
+      "Cheese Factory Worker",
+      "Cheese Maker",
+      "Milk Processing Worker",
+      "Milk Treater",
+      "Pasteuriser Operator",
+      "Yoghurt Maker"
+    ]
+  },
+  {
+    "id": "831115",
+    "name": "Fruit and Vegetable Factory Worker"
+  },
+  {
+    "id": "831116",
+    "name": "Grain Mill Worker",
+    "altTitles": [
+      "Stockfeed Miller"
+    ]
+  },
+  {
+    "id": "831117",
+    "name": "Sugar Mill Worker"
+  },
+  {
+    "id": "831118",
+    "name": "Winery Cellar Hand"
+  },
+  {
+    "id": "831199",
+    "name": "Food and Drink Factory Workers nec",
+    "altTitles": [
+      "Coffee Roaster",
+      "Egg Factory Worker",
+      "Ice-cream Maker",
+      "Margarine Maker",
+      "Pasta Maker"
+    ]
+  },
+  {
+    "id": "831211",
+    "name": "Meat Boner and Slicer",
+    "altTitles": [
+      "Meat Trimmer"
+    ]
+  },
+  {
+    "id": "831212",
+    "name": "Slaughterer",
+    "altTitles": [
+      "Stunner and Shackler (Abattoir)"
+    ]
+  },
+  {
+    "id": "831311",
+    "name": "Meat Process Worker",
+    "altTitles": [
+      "Offal Separator"
+    ]
+  },
+  {
+    "id": "831312",
+    "name": "Poultry Process Worker",
+    "altTitles": [
+      "Poultry Boner",
+      "Poultry Slaughterer"
+    ]
+  },
+  {
+    "id": "831313",
+    "name": "Seafood Process Worker",
+    "altTitles": [
+      "Abalone Sheller",
+      "Mussel Opener (NZ)",
+      "Oyster Opener"
+    ]
+  },
+  {
+    "id": "832111",
+    "name": "Chocolate Packer"
+  },
+  {
+    "id": "832112",
+    "name": "Container Filler",
+    "altTitles": [
+      "Bottling Attendant",
+      "Cannery Worker",
+      "Labelling Machine Operator"
+    ]
+  },
+  {
+    "id": "832113",
+    "name": "Fruit and Vegetable Packer"
+  },
+  {
+    "id": "832114",
+    "name": "Meat Packer"
+  },
+  {
+    "id": "832115",
+    "name": "Seafood Packer"
+  },
+  {
+    "id": "832199",
+    "name": "Packers nec",
+    "altTitles": [
+      "Biscuit Packer",
+      "Bread Packer",
+      "Cheese Packer",
+      "Egg Packer"
+    ]
+  },
+  {
+    "id": "832211",
+    "name": "Product Assembler",
+    "altTitles": [
+      "Electrical and Electronic Assembler",
+      "Light Coil Winder",
+      "Vehicle Assembler"
+    ]
+  },
+  {
+    "id": "839111",
+    "name": "Metal Engineering Process Worker",
+    "altTitles": [
+      "Boilermaker's Assistant",
+      "Fitter's Assistant",
+      "Metal Forger's Assistant",
+      "Metal Moulder's Assistant"
+    ]
+  },
+  {
+    "id": "839211",
+    "name": "Plastics Factory Worker",
+    "altTitles": [
+      "Plastics Process Hand",
+      "Cellular Plastics Cutter",
+      "Fibreglass Lay Up Worker"
+    ]
+  },
+  {
+    "id": "839212",
+    "name": "Rubber Factory Worker",
+    "altTitles": [
+      "Rubber Process Hand",
+      "Latex Foam Worker"
+    ]
+  },
+  {
+    "id": "839311",
+    "name": "Product Examiner",
+    "altTitles": [
+      "Quality Assurance Assessor",
+      "Quality Control Assessor",
+      "Film Examiner",
+      "Metal Products Viewer",
+      "Textile Examiner",
+      "Tyre Finisher and Examiner",
+      "Vehicle Assembly Inspector"
+    ]
+  },
+  {
+    "id": "839312",
+    "name": "Product Grader",
+    "altTitles": [
+      "Fruit and Vegetable Classer",
+      "Meat Grader",
+      "Milk and Cream Grader",
+      "Timber Grader"
+    ]
+  },
+  {
+    "id": "839313",
+    "name": "Product Tester",
+    "altTitles": [
+      "Coal Sample Tester",
+      "Glassware Verifier",
+      "Iron Pellet Tester"
+    ]
+  },
+  {
+    "id": "839411",
+    "name": "Paper and Pulp Mill Worker",
+    "altTitles": [
+      "Pulp, Paper Making and Paper Products Labourer"
+    ]
+  },
+  {
+    "id": "839412",
+    "name": "Sawmill or Timber Yard Worker",
+    "altTitles": [
+      "Timber Mill Worker",
+      "Wood Processing Worker",
+      "Dry Mill Worker (NZ)",
+      "Tailer-out"
+    ]
+  },
+  {
+    "id": "839413",
+    "name": "Wood and Wood Products Factory Worker",
+    "altTitles": [
+      "Wood and Wood Products Labourer",
+      "Hardboard Factory Worker",
+      "Joinery Factory Worker",
+      "Particleboard Factory Worker",
+      "Plywood Factory Worker"
+    ]
+  },
+  {
+    "id": "839911",
+    "name": "Cement and Concrete Plant Worker"
+  },
+  {
+    "id": "839912",
+    "name": "Chemical Plant Worker",
+    "altTitles": [
+      "Gas Plant Worker",
+      "Munitions Factory Worker",
+      "Paint Factory Worker"
+    ]
+  },
+  {
+    "id": "839913",
+    "name": "Clay Processing Factory Worker",
+    "altTitles": [
+      "Clay Processing Labourer",
+      "Brick Handler",
+      "Kiln Labourer"
+    ]
+  },
+  {
+    "id": "839914",
+    "name": "Fabric and Textile Factory Worker"
+  },
+  {
+    "id": "839915",
+    "name": "Footwear Factory Worker"
+  },
+  {
+    "id": "839916",
+    "name": "Glass Processing Worker",
+    "altTitles": [
+      "Glass Mould Cleaner"
+    ]
+  },
+  {
+    "id": "839917",
+    "name": "Hide and Skin Processing Worker",
+    "altTitles": [
+      "Fellmongery Worker",
+      "Hand Flesher",
+      "Tannery Worker"
+    ]
+  },
+  {
+    "id": "839918",
+    "name": "Recycling Worker",
+    "altTitles": [
+      "Recycling Sorter"
+    ]
+  },
+  {
+    "id": "839999",
+    "name": "Factory Process Workers nec",
+    "altTitles": [
+      "Sheltered Workshop Worker"
+    ]
+  },
+  {
+    "id": "841111",
+    "name": "Aquaculture Worker"
+  },
+  {
+    "id": "841211",
+    "name": "Fruit or Nut Farm Worker",
+    "altTitles": [
+      "Orchard Worker"
+    ]
+  },
+  {
+    "id": "841212",
+    "name": "Fruit or Nut Picker"
+  },
+  {
+    "id": "841213",
+    "name": "Grain, Oilseed or Pasture Farm Worker (Aus) Field Crop Farm Worker (NZ)"
+  },
+  {
+    "id": "841214",
+    "name": "Vegetable Farm Worker (Aus) Market Garden Worker (NZ)"
+  },
+  {
+    "id": "841215",
+    "name": "Vegetable Picker"
+  },
+  {
+    "id": "841216",
+    "name": "Vineyard Worker"
+  },
+  {
+    "id": "841217",
+    "name": "Mushroom Picker"
+  },
+  {
+    "id": "841299",
+    "name": "Crop Farm Workers nec",
+    "altTitles": [
+      "Coffee Plantation Worker (Aus)",
+      "Flower Buncher or Picker",
+      "Hop Farm Worker",
+      "Lavender Farm Worker",
+      "Sugar Cane Planter (Aus)",
+      "Tea Plantation Worker (Aus)",
+      "Tea Tree Farm Worker",
+      "Turf Farm Worker"
+    ]
+  },
+  {
+    "id": "841311",
+    "name": "Forestry Worker",
+    "altTitles": [
+      "Fire Lookout",
+      "Forestry Tree Pruner",
+      "Tree Planter",
+      "Tree Thinner (NZ)"
+    ]
+  },
+  {
+    "id": "841312",
+    "name": "Logging Assistant",
+    "altTitles": [
+      "Logger",
+      "Sleeper Cutter"
+    ]
+  },
+  {
+    "id": "841313",
+    "name": "Tree Faller",
+    "altTitles": [
+      "Tree Feller",
+      "Hardwood Faller",
+      "Softwood Faller"
+    ]
+  },
+  {
+    "id": "841411",
+    "name": "Garden Labourer",
+    "altTitles": [
+      "Lawn Mower"
+    ]
+  },
+  {
+    "id": "841412",
+    "name": "Horticultural Nursery Assistant",
+    "altTitles": [
+      "Nursery Hand (Horticulture)"
+    ]
+  },
+  {
+    "id": "841511",
+    "name": "Beef Cattle Farm Worker"
+  },
+  {
+    "id": "841512",
+    "name": "Dairy Cattle Farm Worker"
+  },
+  {
+    "id": "841513",
+    "name": "Mixed Livestock Farm Worker"
+  },
+  {
+    "id": "841514",
+    "name": "Poultry Farm Worker"
+  },
+  {
+    "id": "841515",
+    "name": "Sheep Farm Worker",
+    "altTitles": [
+      "Shepherd"
+    ]
+  },
+  {
+    "id": "841516",
+    "name": "Stablehand",
+    "altTitles": [
+      "Horse Stud Worker",
+      "Track Rider"
+    ]
+  },
+  {
+    "id": "841517",
+    "name": "Wool Handler",
+    "altTitles": [
+      "Shearing Shed Hand",
+      "Shearing Shed Worker"
+    ]
+  },
+  {
+    "id": "841599",
+    "name": "Livestock Farm Workers nec",
+    "altTitles": [
+      "Deer Farm Worker",
+      "Emu Farm Worker (Aus)",
+      "Goat Herder",
+      "Ostrich Farm Worker",
+      "Piggery Worker"
+    ]
+  },
+  {
+    "id": "841611",
+    "name": "Mixed Crop and Livestock Farm Worker",
+    "altTitles": [
+      "General Farm Hand"
+    ]
+  },
+  {
+    "id": "841911",
+    "name": "Hunter-Trapper",
+    "altTitles": [
+      "Hunter",
+      "Possum Trapper (NZ)",
+      "Shooter"
+    ]
+  },
+  {
+    "id": "841913",
+    "name": "Pest Controller",
+    "altTitles": [
+      "Pest Control Operator",
+      "Pest Control Technician",
+      "Fumigator",
+      "Termite Technician"
+    ]
+  },
+  {
+    "id": "841999",
+    "name": "Farm, Forestry and Garden Workers nec",
+    "altTitles": [
+      "Bush Regenerator (Aus)",
+      "Indoor Plant Technician",
+      "Irrigationist",
+      "Kelp or Seagrass Gatherer",
+      "Seed Collector",
+      "Weed Controller"
+    ]
+  },
+  {
+    "id": "851111",
+    "name": "Fast Food Cook",
+    "altTitles": [
+      "Short Order Cook"
+    ]
+  },
+  {
+    "id": "851211",
+    "name": "Pastrycook's Assistant",
+    "altTitles": [
+      "Bakery Assistant"
+    ]
+  },
+  {
+    "id": "851299",
+    "name": "Food Trades Assistants nec",
+    "altTitles": [
+      "Butcher's Assistant",
+      "Chef's Assistant",
+      "Cook's Assistant"
+    ]
+  },
+  {
+    "id": "851311",
+    "name": "Kitchenhand",
+    "altTitles": [
+      "Kitchen Steward",
+      "Dishwasher",
+      "Pantry Attendant",
+      "Sandwich Hand"
+    ]
+  },
+  {
+    "id": "891111",
+    "name": "Freight Handler (Rail or Road)",
+    "altTitles": [
+      "Freight Loader"
+    ]
+  },
+  {
+    "id": "891112",
+    "name": "Truck Driver's Offsider",
+    "altTitles": [
+      "Furniture Removalist's Assistant"
+    ]
+  },
+  {
+    "id": "891113",
+    "name": "Waterside Worker",
+    "altTitles": [
+      "Stevedore",
+      "Wharf Labourer"
+    ]
+  },
+  {
+    "id": "891211",
+    "name": "Shelf Filler",
+    "altTitles": [
+      "Night Filler"
+    ]
+  },
+  {
+    "id": "899111",
+    "name": "Caretaker",
+    "altTitles": [
+      "Janitor"
+    ]
+  },
+  {
+    "id": "899211",
+    "name": "Deck Hand",
+    "altTitles": [
+      "Seafarer",
+      "Barge Hand",
+      "Ferry Hand",
+      "Tug Hand"
+    ]
+  },
+  {
+    "id": "899212",
+    "name": "Fishing Hand",
+    "altTitles": [
+      "Fishing Boat Mate",
+      "Cray Fishing Hand",
+      "Prawn Trawler Hand",
+      "Purse Seining Hand"
+    ]
+  },
+  {
+    "id": "899311",
+    "name": "Handyperson",
+    "altTitles": [
+      "Hotel Yardperson"
+    ]
+  },
+  {
+    "id": "899411",
+    "name": "Motor Vehicle Parts and Accessories Fitter (General)"
+  },
+  {
+    "id": "899412",
+    "name": "Autoglazier",
+    "altTitles": [
+      "Windscreen Fitter",
+      "Vehicle Window Tinter"
+    ]
+  },
+  {
+    "id": "899413",
+    "name": "Exhaust and Muffler Repairer",
+    "altTitles": [
+      "Exhaust and Muffler Fitter"
+    ]
+  },
+  {
+    "id": "899414",
+    "name": "Radiator Repairer",
+    "altTitles": [
+      "Radiator Fitter"
+    ]
+  },
+  {
+    "id": "899415",
+    "name": "Tyre Fitter"
+  },
+  {
+    "id": "899511",
+    "name": "Printer's Assistant"
+  },
+  {
+    "id": "899512",
+    "name": "Printing Table Worker",
+    "altTitles": [
+      "Printing Bindery Assistant",
+      "Printing Table Hand"
+    ]
+  },
+  {
+    "id": "899611",
+    "name": "Recycling or Rubbish Collector",
+    "altTitles": [
+      "Waste Removalist",
+      "Garbage Depot Worker"
+    ]
+  },
+  {
+    "id": "899711",
+    "name": "Vending Machine Attendant",
+    "altTitles": [
+      "Vending Machine Refiller",
+      "Poker Machine Attendant"
+    ]
+  },
+  {
+    "id": "899911",
+    "name": "Bicycle Mechanic",
+    "altTitles": [
+      "Bicycle Repairer",
+      "Bicycle Technician"
+    ]
+  },
+  {
+    "id": "899912",
+    "name": "Car Park Attendant"
+  },
+  {
+    "id": "899913",
+    "name": "Crossing Supervisor"
+  },
+  {
+    "id": "899914",
+    "name": "Electrical or Telecommunications Trades Assistant"
+  },
+  {
+    "id": "899915",
+    "name": "Leaflet or Newspaper Deliverer"
+  },
+  {
+    "id": "899916",
+    "name": "Mechanic's Assistant",
+    "altTitles": [
+      "Lube Attendant"
+    ]
+  },
+  {
+    "id": "899917",
+    "name": "Railways Assistant"
+  },
+  {
+    "id": "899918",
+    "name": "Sign Erector"
+  },
+  {
+    "id": "899921",
+    "name": "Ticket Collector or Usher",
+    "altTitles": [
+      "Venue Attendant",
+      "Entertainment Usher",
+      "Gatekeeper",
+      "Turnstile Attendant"
+    ]
+  },
+  {
+    "id": "899922",
+    "name": "Trolley Collector"
+  },
+  {
+    "id": "899923",
+    "name": "Road Traffic Controller",
+    "altTitles": [
+      "Events Traffic Controller"
+    ]
+  },
+  {
+    "id": "899999",
+    "name": "Labourers nec",
+    "altTitles": [
+      "Bowling Alley Attendant",
+      "Grip",
+      "Milk Runner",
+      "Racecourse Barrier Attendant",
+      "Stagehand",
+      "Studio Hand",
+      "Swimming Pool Serviceperson"
+    ]
+  }
+]

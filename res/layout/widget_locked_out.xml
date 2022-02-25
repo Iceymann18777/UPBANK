@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:id="@id/error_root" android:background="@xml/widget_background" android:padding="@dimen/widget_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:id="@id/lock" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="1.0dip" android:layout_above="@id/locked_out_text">
+        <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/ic_lock_illustration" android:contentDescription="@string/zap" app:srcCompat="@drawable/ic_lock_illustration" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/locked_out_text" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingHorizontal="8.0dip">
+        <TextView android:textColor="@color/altWhite" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/widget_disabled" android:fontFamily="@font/circular_std_book" android:textAlignment="center" />
+        <TextView android:textSize="13.0sp" android:textColor="@color/textDark" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/locked_out_text" android:fontFamily="@font/circular_std_book" android:textAlignment="center" />
+    </LinearLayout>
+</RelativeLayout>

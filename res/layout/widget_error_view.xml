@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:id="@id/error_root" android:background="@xml/widget_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/zap" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/sign_in_zap" android:contentDescription="@string/zap" app:srcCompat="@drawable/sign_in_zap" />
+    <TextView android:textColor="@color/primaryDark" android:id="@id/error_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Please sign in" android:layout_below="@id/zap" android:fontFamily="@font/circular_std_book" android:textAlignment="center" />
+</RelativeLayout>

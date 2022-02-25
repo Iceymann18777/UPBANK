@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/saver_widget_root" android:background="@xml/widget_background" android:padding="@dimen/widget_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/info_piece_wrapper" android:paddingVertical="8.0dip">
+        <TextView android:textSize="24.0sp" android:textColor="@color/brandOrange" android:id="@id/saver_balance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/available_balance_widget_balance_desc" android:fontFamily="@font/circular_std_medium" />
+        <TextView android:textSize="13.0sp" android:textColor="@color/altWhite" android:id="@id/saver_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/circular_std_book" android:textAlignment="center" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/info_piece_wrapper" android:background="@xml/widget_extra_info_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

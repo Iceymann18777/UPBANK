@@ -1,0 +1,43 @@
+.class final Lj$/util/stream/Nodes$CollectorTask$OfLong;
+.super Lj$/util/stream/Nodes$CollectorTask;
+.source "Nodes.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lj$/util/stream/Nodes$CollectorTask;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1a
+    name = "OfLong"
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "<P_IN:",
+        "Ljava/lang/Object;",
+        ">",
+        "Lj$/util/stream/Nodes$CollectorTask<",
+        "TP_IN;",
+        "Ljava/lang/Long;",
+        "Lj$/util/stream/Node$OfLong;",
+        "Lj$/util/stream/Node$Builder$OfLong;",
+        ">;"
+    }
+.end annotation
+
+
+# direct methods
+.method constructor <init>(Lj$/util/stream/PipelineHelper;Lj$/util/Spliterator;)V
+    .locals 2
+
+    .line 1
+    sget-object v0, Lj$/util/stream/-$$Lambda$HS-vRLc9gpt3bdGlOTXMj9kASCQ;->INSTANCE:Lj$/util/stream/-$$Lambda$HS-vRLc9gpt3bdGlOTXMj9kASCQ;
+
+    sget-object v1, Lj$/util/stream/-$$Lambda$ETYhpmxI-qv9x5dQSjE4nVb_LMQ;->INSTANCE:Lj$/util/stream/-$$Lambda$ETYhpmxI-qv9x5dQSjE4nVb_LMQ;
+
+    invoke-direct {p0, p1, p2, v0, v1}, Lj$/util/stream/Nodes$CollectorTask;-><init>(Lj$/util/stream/PipelineHelper;Lj$/util/Spliterator;Lj$/util/function/LongFunction;Lj$/util/function/BinaryOperator;)V
+
+    return-void
+.end method

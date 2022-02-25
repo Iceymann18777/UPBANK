@@ -1,0 +1,365 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: au.com.up.money_2022-02-10.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity-ktx.version
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.biometric_biometric.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.databinding_viewbinding.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/com.google.android.material_material.version
+- mp4
+- assets/net/time4j/calendar/names/buddhist/buddhist_bs.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_en.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_eu.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_hr.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_it.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_km.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_lb.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_lo.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_sr.properties
+- assets/net/time4j/calendar/names/buddhist/buddhist_sv.properties
+- assets/net/time4j/calendar/names/coptic/coptic_am.properties
+- assets/net/time4j/calendar/names/generic/generic_es_DO.properties
+- assets/net/time4j/calendar/names/generic/generic_es_MX.properties
+- assets/net/time4j/calendar/names/generic/generic_es_US.properties
+- assets/net/time4j/calendar/names/generic/generic_pt_PT.properties
+- assets/net/time4j/calendar/names/hebrew/hebrew_bs.properties
+- assets/net/time4j/calendar/names/hebrew/hebrew_hr.properties
+- assets/net/time4j/calendar/names/hebrew/hebrew_it.properties
+- assets/net/time4j/calendar/names/hebrew/hebrew_lb.properties
+- assets/net/time4j/calendar/names/hebrew/hebrew_pt_PT.properties
+- assets/net/time4j/calendar/names/hebrew/hebrew_ug.properties
+- assets/net/time4j/calendar/names/islamic/islamic_en.properties
+- assets/net/time4j/calendar/names/islamic/islamic_it.properties
+- assets/net/time4j/calendar/names/islamic/islamic_lb.properties
+- assets/net/time4j/calendar/names/islamic/islamic_pt_PT.properties
+- assets/net/time4j/calendar/names/japanese/japanese_pt_PT.properties
+- assets/net/time4j/calendar/names/roc/roc_lo.properties
+- assets/net/time4j/calendar/names/roc/roc_pt_PT.properties
+- assets/net/time4j/i18n/numbers/symbol_af.properties
+- assets/net/time4j/i18n/numbers/symbol_am.properties
+- assets/net/time4j/i18n/numbers/symbol_ar.properties
+- assets/net/time4j/i18n/numbers/symbol_ar_DZ.properties
+- assets/net/time4j/i18n/numbers/symbol_ar_EH.properties
+- assets/net/time4j/i18n/numbers/symbol_ar_LY.properties
+- assets/net/time4j/i18n/numbers/symbol_ar_MA.properties
+- assets/net/time4j/i18n/numbers/symbol_ar_TN.properties
+- assets/net/time4j/i18n/numbers/symbol_as.properties
+- assets/net/time4j/i18n/numbers/symbol_ast.properties
+- assets/net/time4j/i18n/numbers/symbol_az.properties
+- assets/net/time4j/i18n/numbers/symbol_be.properties
+- assets/net/time4j/i18n/numbers/symbol_bg.properties
+- assets/net/time4j/i18n/numbers/symbol_bn.properties
+- assets/net/time4j/i18n/numbers/symbol_br.properties
+- assets/net/time4j/i18n/numbers/symbol_bs.properties
+- assets/net/time4j/i18n/numbers/symbol_ca.properties
+- assets/net/time4j/i18n/numbers/symbol_cs.properties
+- assets/net/time4j/i18n/numbers/symbol_cy.properties
+- assets/net/time4j/i18n/numbers/symbol_da.properties
+- assets/net/time4j/i18n/numbers/symbol_de.properties
+- assets/net/time4j/i18n/numbers/symbol_ee.properties
+- assets/net/time4j/i18n/numbers/symbol_el.properties
+- assets/net/time4j/i18n/numbers/symbol_en.properties
+- assets/net/time4j/i18n/numbers/symbol_eo.properties
+- assets/net/time4j/i18n/numbers/symbol_es.properties
+- assets/net/time4j/i18n/numbers/symbol_et.properties
+- assets/net/time4j/i18n/numbers/symbol_eu.properties
+- assets/net/time4j/i18n/numbers/symbol_fa.properties
+- assets/net/time4j/i18n/numbers/symbol_fi.properties
+- assets/net/time4j/i18n/numbers/symbol_fil.properties
+- assets/net/time4j/i18n/numbers/symbol_fo.properties
+- assets/net/time4j/i18n/numbers/symbol_fr.properties
+- assets/net/time4j/i18n/numbers/symbol_fy.properties
+- assets/net/time4j/i18n/numbers/symbol_ga.properties
+- assets/net/time4j/i18n/numbers/symbol_gd.properties
+- assets/net/time4j/i18n/numbers/symbol_gl.properties
+- assets/net/time4j/i18n/numbers/symbol_gsw.properties
+- assets/net/time4j/i18n/numbers/symbol_gu.properties
+- assets/net/time4j/i18n/numbers/symbol_hi.properties
+- assets/net/time4j/i18n/numbers/symbol_hr.properties
+- assets/net/time4j/i18n/numbers/symbol_hu.properties
+- assets/net/time4j/i18n/numbers/symbol_hy.properties
+- assets/net/time4j/i18n/numbers/symbol_id.properties
+- assets/net/time4j/i18n/numbers/symbol_is.properties
+- assets/net/time4j/i18n/numbers/symbol_it.properties
+- assets/net/time4j/i18n/numbers/symbol_ja.properties
+- assets/net/time4j/i18n/numbers/symbol_ka.properties
+- assets/net/time4j/i18n/numbers/symbol_kab.properties
+- assets/net/time4j/i18n/numbers/symbol_kk.properties
+- assets/net/time4j/i18n/numbers/symbol_km.properties
+- assets/net/time4j/i18n/numbers/symbol_kn.properties
+- assets/net/time4j/i18n/numbers/symbol_ko.properties
+- assets/net/time4j/i18n/numbers/symbol_ku.properties
+- assets/net/time4j/i18n/numbers/symbol_ky.properties
+- assets/net/time4j/i18n/numbers/symbol_lb.properties
+- assets/net/time4j/i18n/numbers/symbol_lo.properties
+- assets/net/time4j/i18n/numbers/symbol_lt.properties
+- assets/net/time4j/i18n/numbers/symbol_lv.properties
+- assets/net/time4j/i18n/numbers/symbol_mk.properties
+- assets/net/time4j/i18n/numbers/symbol_ml.properties
+- assets/net/time4j/i18n/numbers/symbol_mn.properties
+- assets/net/time4j/i18n/numbers/symbol_mr.properties
+- assets/net/time4j/i18n/numbers/symbol_ms.properties
+- assets/net/time4j/i18n/numbers/symbol_mt.properties
+- assets/net/time4j/i18n/numbers/symbol_nb.properties
+- assets/net/time4j/i18n/numbers/symbol_ne.properties
+- assets/net/time4j/i18n/numbers/symbol_nl.properties
+- assets/net/time4j/i18n/numbers/symbol_nn.properties
+- assets/net/time4j/i18n/numbers/symbol_or.properties
+- assets/net/time4j/i18n/numbers/symbol_pa.properties
+- assets/net/time4j/i18n/numbers/symbol_pl.properties
+- assets/net/time4j/i18n/numbers/symbol_pt.properties
+- assets/net/time4j/i18n/numbers/symbol_ro.properties
+- assets/net/time4j/i18n/numbers/symbol_ru.properties
+- assets/net/time4j/i18n/numbers/symbol_sd.properties
+- assets/net/time4j/i18n/numbers/symbol_si.properties
+- assets/net/time4j/i18n/numbers/symbol_sk.properties
+- assets/net/time4j/i18n/numbers/symbol_sl.properties
+- assets/net/time4j/i18n/numbers/symbol_so.properties
+- assets/net/time4j/i18n/numbers/symbol_sq.properties
+- assets/net/time4j/i18n/numbers/symbol_sr.properties
+- assets/net/time4j/i18n/numbers/symbol_sv.properties
+- assets/net/time4j/i18n/numbers/symbol_sw.properties
+- assets/net/time4j/i18n/numbers/symbol_ta.properties
+- assets/net/time4j/i18n/numbers/symbol_te.properties
+- assets/net/time4j/i18n/numbers/symbol_th.properties
+- assets/net/time4j/i18n/numbers/symbol_tk.properties
+- assets/net/time4j/i18n/numbers/symbol_to.properties
+- assets/net/time4j/i18n/numbers/symbol_tr.properties
+- assets/net/time4j/i18n/numbers/symbol_ug.properties
+- assets/net/time4j/i18n/numbers/symbol_uk.properties
+- assets/net/time4j/i18n/numbers/symbol_ur_IN.properties
+- assets/net/time4j/i18n/numbers/symbol_uz.properties
+- assets/net/time4j/i18n/numbers/symbol_vi.properties
+- assets/net/time4j/i18n/numbers/symbol_zh.properties
+- assets/net/time4j/i18n/numbers/symbol_zu.properties
+- assets/net/time4j/i18n/units/upattern_en_GB.properties
+- assets/net/time4j/olson/zones/tzname_gsw.properties
+- lib/arm64-v8a/libRSSupport.so
+- lib/arm64-v8a/libbugsnag-ndk.so
+- lib/arm64-v8a/libbugsnag-plugin-android-anr.so
+- lib/arm64-v8a/libbugsnag-root-detection.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libconceal.so
+- lib/arm64-v8a/libfb.so
+- lib/arm64-v8a/libfbjni.so
+- lib/arm64-v8a/libfolly_futures.so
+- lib/arm64-v8a/libfolly_json.so
+- lib/arm64-v8a/libgifimage.so
+- lib/arm64-v8a/libglog.so
+- lib/arm64-v8a/libglog_init.so
+- lib/arm64-v8a/libhermes-executor-release.so
+- lib/arm64-v8a/libhermes.so
+- lib/arm64-v8a/libimagepipeline.so
+- lib/arm64-v8a/libjsijniprofiler.so
+- lib/arm64-v8a/libjsinspector.so
+- lib/arm64-v8a/libnative-filters.so
+- lib/arm64-v8a/libnative-imagetranscoder.so
+- lib/arm64-v8a/libnative-lib.so
+- lib/arm64-v8a/libreactnativeblob.so
+- lib/arm64-v8a/libreactnativejni.so
+- lib/arm64-v8a/librsjni.so
+- lib/arm64-v8a/librsjni_androidx.so
+- lib/arm64-v8a/libstatic-webp.so
+- lib/arm64-v8a/libtool-checker.so
+- lib/arm64-v8a/libucrop.so
+- lib/arm64-v8a/libyoga.so
+- lib/armeabi-v7a/libRSSupport.so
+- lib/armeabi-v7a/libbugsnag-ndk.so
+- lib/armeabi-v7a/libbugsnag-plugin-android-anr.so
+- lib/armeabi-v7a/libbugsnag-root-detection.so
+- lib/armeabi-v7a/libc++_shared.so
+- lib/armeabi-v7a/libconceal.so
+- lib/armeabi-v7a/libfb.so
+- lib/armeabi-v7a/libfbjni.so
+- lib/armeabi-v7a/libfolly_futures.so
+- lib/armeabi-v7a/libfolly_json.so
+- lib/armeabi-v7a/libgifimage.so
+- lib/armeabi-v7a/libglog.so
+- lib/armeabi-v7a/libglog_init.so
+- lib/armeabi-v7a/libhermes-executor-release.so
+- lib/armeabi-v7a/libhermes.so
+- lib/armeabi-v7a/libimagepipeline.so
+- lib/armeabi-v7a/libjsijniprofiler.so
+- lib/armeabi-v7a/libjsinspector.so
+- lib/armeabi-v7a/libnative-filters.so
+- lib/armeabi-v7a/libnative-imagetranscoder.so
+- lib/armeabi-v7a/libnative-lib.so
+- lib/armeabi-v7a/libreactnativeblob.so
+- lib/armeabi-v7a/libreactnativejni.so
+- lib/armeabi-v7a/librsjni.so
+- lib/armeabi-v7a/librsjni_androidx.so
+- lib/armeabi-v7a/libstatic-webp.so
+- lib/armeabi-v7a/libtool-checker.so
+- lib/armeabi-v7a/libucrop.so
+- lib/armeabi-v7a/libyoga.so
+- lib/x86/libRSSupport.so
+- lib/x86/libbugsnag-ndk.so
+- lib/x86/libbugsnag-plugin-android-anr.so
+- lib/x86/libbugsnag-root-detection.so
+- lib/x86/libc++_shared.so
+- lib/x86/libconceal.so
+- lib/x86/libfb.so
+- lib/x86/libfbjni.so
+- lib/x86/libfolly_futures.so
+- lib/x86/libfolly_json.so
+- lib/x86/libgifimage.so
+- lib/x86/libglog.so
+- lib/x86/libglog_init.so
+- lib/x86/libhermes-executor-release.so
+- lib/x86/libhermes.so
+- lib/x86/libimagepipeline.so
+- lib/x86/libjsijniprofiler.so
+- lib/x86/libjsinspector.so
+- lib/x86/libnative-filters.so
+- lib/x86/libnative-imagetranscoder.so
+- lib/x86/libnative-lib.so
+- lib/x86/libreactnativeblob.so
+- lib/x86/libreactnativejni.so
+- lib/x86/librsjni.so
+- lib/x86/librsjni_androidx.so
+- lib/x86/libstatic-webp.so
+- lib/x86/libtool-checker.so
+- lib/x86/libucrop.so
+- lib/x86/libyoga.so
+- lib/x86_64/libRSSupport.so
+- lib/x86_64/libbugsnag-ndk.so
+- lib/x86_64/libbugsnag-plugin-android-anr.so
+- lib/x86_64/libbugsnag-root-detection.so
+- lib/x86_64/libc++_shared.so
+- lib/x86_64/libconceal.so
+- lib/x86_64/libfb.so
+- lib/x86_64/libfbjni.so
+- lib/x86_64/libfolly_futures.so
+- lib/x86_64/libfolly_json.so
+- lib/x86_64/libgifimage.so
+- lib/x86_64/libglog.so
+- lib/x86_64/libglog_init.so
+- lib/x86_64/libhermes-executor-release.so
+- lib/x86_64/libhermes.so
+- lib/x86_64/libimagepipeline.so
+- lib/x86_64/libjsijniprofiler.so
+- lib/x86_64/libjsinspector.so
+- lib/x86_64/libnative-filters.so
+- lib/x86_64/libnative-imagetranscoder.so
+- lib/x86_64/libnative-lib.so
+- lib/x86_64/libreactnativeblob.so
+- lib/x86_64/libreactnativejni.so
+- lib/x86_64/librsjni.so
+- lib/x86_64/librsjni_androidx.so
+- lib/x86_64/libstatic-webp.so
+- lib/x86_64/libtool-checker.so
+- lib/x86_64/libucrop.so
+- lib/x86_64/libyoga.so
+- png
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  LICENSE-junit.txt: '8'
+  androidsupportmultidexversion.txt: '0'
+  firebase-annotations.properties: '8'
+  firebase-appindexing.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-datatransport.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-encoders.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  firebase-ml-common.properties: '8'
+  firebase-ml-vision.properties: '8'
+  kotlin-tooling-metadata.json: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-analytics-impl.properties: '8'
+  play-services-analytics.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-clearcut.properties: '8'
+  play-services-cloud-messaging.properties: '8'
+  play-services-flags.properties: '8'
+  play-services-identity.properties: '8'
+  play-services-maps.properties: '8'
+  play-services-phenotype.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tagmanager-v4-impl.properties: '8'
+  play-services-tapandpay.properties: '8'
+  play-services-tasks.properties: '8'
+  play-services-vision-common.properties: '8'
+  play-services-vision.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  stamp-cert-sha256: '8'
+  junit/runner/logo.gif: '0'
+  junit/runner/smalllogo.gif: '0'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+  org/spongycastle/x509/CertPathReviewerMessages.properties: '8'
+  org/spongycastle/x509/CertPathReviewerMessages_de.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.0
+versionInfo:
+  versionCode: '3980'
+  versionName: 2.2.9

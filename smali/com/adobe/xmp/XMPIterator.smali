@@ -1,0 +1,14 @@
+.class public interface abstract Lcom/adobe/xmp/XMPIterator;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Ljava/util/Iterator;
+.implements Lj$/util/Iterator;
+
+
+# virtual methods
+.method public abstract skipSiblings()V
+.end method
+
+.method public abstract skipSubtree()V
+.end method

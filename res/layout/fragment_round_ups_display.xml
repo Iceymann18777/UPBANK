@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" android:layout_marginBottom="8.0dip" android:layout_alignParentBottom="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="12.0sp" android:textColor="@color/textDark" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/this_month" android:fontFamily="@font/circular_std_book" />
+    <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginEnd="8.0dip">
+            <ImageView android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/round_up_tick" android:layout_weight="1.0" android:contentDescription="@string/round_up_icon" app:srcCompat="@drawable/round_up_tick" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="12.0sp" android:textColor="@color/primaryDark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/round_ups" android:drawablePadding="-3.0dip" android:fontFamily="@font/circular_std_book" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/success" android:id="@id/round_ups_total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/circular_std_book" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

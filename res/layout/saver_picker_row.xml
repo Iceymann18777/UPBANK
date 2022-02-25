@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/text_wrapper" android:paddingLeft="4.0dip" android:paddingTop="12.0dip" android:paddingRight="4.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="4.0dip" android:paddingVertical="12.0dip">
+        <TextView android:textSize="16.0sp" android:id="@id/saver_icon" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="💰" android:fontFamily="@font/circular_std_book" android:textAlignment="viewStart" android:paddingStart="8.0dip" android:paddingEnd="16.0dip" android:paddingVertical="4.0dip" />
+        <TextView android:textSize="15.0sp" android:textColor="@color/primaryDark" android:id="@id/saver_name" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fontFamily="@font/circular_std_book" />
+    </LinearLayout>
+    <View android:id="@id/divider" android:background="#ffe8e8e8" android:layout_width="0.0dip" android:layout_height="1.0px" android:layout_alignBottom="@id/text_wrapper" android:layout_marginStart="12.0dip" android:layout_marginEnd="0.0dip" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" />
+</RelativeLayout>
