@@ -1,0 +1,12 @@
+version: '2'
+services:
+  f70d0686aa5a:
+    image: 'sha256:f70d0686aa5ac0cbcee94b6b56975130706d9e0ee47398bac2c1101a27e58681'
+    ports:
+      - '80'
+  imgfit:
+    image: apkpure/imgfit
+    ports:
+      - '3000:443'
+  android:
+    image: circleci/android
